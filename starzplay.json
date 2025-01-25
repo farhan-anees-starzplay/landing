@@ -103,28 +103,6 @@
       }
     }
   },
-     {
-      "id": 123457,
-      "moduleType": "CHANNELS_LOGOS_CARROUSEL",
-      "moduleShouldDisplay": true,
-      "copies": {
-        "en": {
-          "title": "What will your subscription include?",
-          "subTitle": "You will be enjoying a variety of entertainment & sports under one subscription",
-          "cta": "JOIN NOW"
-        },
-        "ar": {
-          "title": "ماذا يتضمن اشتراكك؟",
-          "subTitle": "ستتمتع بمجموعة متنوعة من الترفيه والرياضة تحت اشتراك واحد",
-          "cta": "اشترك الآن"
-        },
-        "fr": {
-          "title": "Que comprend votre abonnement ?",
-          "subTitle": "Vous profiterez d'un large éventail de divertissement et de sport sous un abonnement unique",
-          "cta": "Rejoindre maintenant"
-        }
-      }
-    },
   {
     "id": 92847329,
     "moduleType": "BASIC",
@@ -155,7 +133,7 @@
     "id": 29387,
     "moduleType": "IMAGES_CARROUSEL_AND_CHANNELS_LOGOS",
     "moduleShouldDisplay": true,
-    "channelsLogoAtBottom": true,
+    "channelsLogoAtBottom": false,
     "copies": {
       "en": {
         "title": "Newest Releases",
