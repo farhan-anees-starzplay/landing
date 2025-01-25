@@ -1,0 +1,234 @@
+[
+  {
+    "moduleType": "SEO",
+    "page": "starzplay",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "STARZPLAY Entertainment | Trending Movies & Series",
+        "description": "Enjoy the latest movies and trending series with STARZPLAY Entertainment. Stream top-quality content at unbeatable prices. Subscribe now for endless entertainment!"
+      },
+      "ar": {
+        "title": "STARZPLAY Entertainment | أحدث الأفلام والمسلسلات",
+        "description": "استمتع بأحدث الأفلام والمسلسلات الرائجة مع STARZPLAY Entertainment. قم ببث محتوى عالي الجودة بأسعار مثالية. اشترك الآن للحصول على ترفيه بلا حدود!"
+      },
+      "fr": {
+        "title": "STARZPLAY Entertainment | Films et Séries Tendance",
+        "description": "Profitez des derniers films et des séries tendance avec STARZPLAY Entertainment. Diffusez du contenu de haute qualité à des prix imbattables. Abonnez-vous dès maintenant pour un divertissement sans fin !"
+      }
+    }
+  },
+  {
+    "id": 123450,
+    "moduleType": "HERO",
+    "moduleShouldDisplay": true,
+    "subscriptionLogo": false,
+    "copies": {
+      "en": {
+        "title": {
+          "default": "Enjoy the Latest Series and Movies"
+        },
+        "subTitle": "Watch the latest Western, Arabic, Turkish and Anime series and movies.",
+        "cta": "Join Now"
+      },
+      "ar": {
+        "title": {
+          "default": "استمتع بأحدث الأفلام والمسلسلات"
+        },
+        "subTitle": "شاهد أحدث المسلسلات والأفلام الغربية، العربية، التركية والأنمي.",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": {
+          "default": "Profitez des séries et films les plus récents"
+        },
+        "subTitle": "Regardez les derniers films et séries occidentaux, arabes, turcs et d’anime.",
+        "cta": "Rejoindre maintenant"
+      }
+    },
+    "images": {
+      "desktop": {
+        "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-lg-{dir}.png",
+        "heroImageCountry": "/resources/images/promoLanding/{subscriptionName}/{countryCode}-lg-{dir}.png",
+        "heroImageUtmDesktop": "/resources/images/promoLanding/{subscriptionName}/utm-content/{compainName}-lg-{dir}.png"
+      },
+      "tablet": {
+        "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-tab.png",
+        "heroImageCountry": "/resources/images/promoLanding/{subscriptionName}/{countryCode}-tab.png",
+        "heroImageUtmDesktop": "/resources/images/promoLanding/{subscriptionName}/utm-content/{compainName}-tab.png"
+      },
+      "mobile": {
+        "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-mob.png",
+        "heroImageCountry": "/resources/images/promoLanding/{subscriptionName}/{countryCode}-mob.png",
+        "heroImageUtmDesktop": "/resources/images/promoLanding/{subscriptionName}/utm-content/{compainName}-mob.png"
+      }
+    },
+    "benefitsSection": {
+      "moduleShouldDisplay": false,
+      "logo": {
+        "globe": "glob.svg",
+        "tv": "tv.svg",
+        "download": "download.svg",
+        "bag": "bag.svg",
+        "goodTick": "goodTick.svg"
+      },
+      "copies": {
+        "en": {
+          "globe": "Stream in Multi-Languages",
+          "bag": "Rent or Buy the Latest Releases",
+          "download": "Download and Watch Offline",
+          "goodTick": "Watch anytime, anywhere",
+          "tv": "Live Sports & Entertainment",
+          "ad-free": "Ad-Free",
+          "free-tv": "60+ Free TV Channels"
+        },
+        "ar": {
+          "globe": "بث بلغات متعددة",
+          "bag": "استأجر أو اشترِ أحدث الإصدارات",
+          "download": "قم بالتنزيل وشاهد بدون إنترنت",
+          "goodTick": "شاهد في أي وقت ومن أي مكان",
+          "tv": "الرياضات والترفيه المباشر",
+          "ad-free": "بدون إعلانات",
+          "free-tv": "أكثر من 60 قناة تلفزيونية مجانية"
+        },
+        "fr": {
+          "globe": "Diffusez en plusieurs langues",
+          "bag": "Louez ou achetez les dernières nouveautés",
+          "download": "Téléchargez et regardez hors ligne",
+          "goodTick": "Regardez à tout moment, n'importe où",
+          "tv": "Sports et divertissement en direct",
+          "ad-free": "Sans Publicité",
+          "free-tv": "Plus de 60 chaînes TV gratuites"
+        }
+      }
+    }
+  },
+  {
+    "id": 92847329,
+    "moduleType": "BASIC",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Trending Now",
+        "subTitle": "Your next watch is just a click away!",
+        "cta": "JOIN NOW"
+      },
+      "ar": {
+        "title": "الأكثر مشاهدة الآن",
+        "subTitle": "مشاهداتك التالية على بُعد ضغطة زر واحدة",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": "Tendance actuelle",
+        "subTitle": "Votre prochaine séance commence en un clic",
+        "cta": "Choisissez un plan"
+      }
+    },
+    "images": {
+      "desktop": "/resources/images/promoLanding/starzplay/1basic-lg.png",
+      "mobile": "/resources/images/promoLanding/starzplay/1basic-mob.png"
+    }
+  },
+  {
+    "id": 29387,
+    "moduleType": "IMAGES_CARROUSEL_AND_CHANNELS_LOGOS",
+    "moduleShouldDisplay": true,
+    "channelsLogoAtBottom": false,
+    "copies": {
+      "en": {
+        "title": "Newest Releases",
+        "subTitle": "",
+        "cta": "JOIN NOW"
+      },
+      "ar": {
+        "title": "أحدث الإصدارات",
+        "subTitle": "",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": "Nouveautés",
+        "subTitle": "",
+        "cta": "Utiliser maintenant"
+      }
+    },
+    "images": {
+      "desktop": [
+        "/resources/images/promoLanding/starzplay/2carousel_1-lg.png",
+        "/resources/images/promoLanding/starzplay/2carousel_2-lg.png",
+        "/resources/images/promoLanding/starzplay/2carousel_3-lg.png",
+        "/resources/images/promoLanding/starzplay/2carousel_4-lg.png",
+        "/resources/images/promoLanding/starzplay/2carousel_5-lg.png"
+      ]
+    },
+    "channelsLogoimages": {
+      "desktop": {
+        "starzplay-white": "/images/logos/subscriptions/starzplay-white.png",
+        "wb-white": "/images/logos/subscriptions/wb-white.png",
+        "universall": "/images/logos/subscriptions/universal-white.png",
+        "paramount-white": "/images/logos/subscriptions/paramount-white.png",
+        "dc-white": "/images/logos/subscriptions/dc-white.png",
+        "noorplay-white": "/images/logos/subscriptions/noorplay-white.png",
+        "discovery": "/images/logos/subscriptions/discovery-white.png"
+      }
+    }
+  },
+  {
+    "id": 239847,
+    "moduleType": "BASIC",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Straight from the Cinema",
+        "subTitle": "Enjoy blockbuster hits from the comfort of your sofa.",
+        "cta": "JOIN NOW"
+      },
+      "ar": {
+        "title": "مباشرةً من السينما",
+        "subTitle": "استمتع بأقوى الأعمال من راحة منزلك",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": "En direct des salles de cinéma",
+        "subTitle": "Savourez les blockbusters depuis votre canapé",
+        "cta": "Choisissez un plan"
+      }
+    },
+    "images": {
+      "desktop": "/resources/images/promoLanding/starzplay/3basic-lg.png",
+      "mobile": "/resources/images/promoLanding/starzplay/3basic-mob.png"
+    }
+  },
+  {
+    "id": 123451,
+    "moduleType": "SUBSCRIPTION",
+    "moduleShouldDisplay": true,
+    "copies": {}
+  },
+  {
+    "id": 123459,
+    "moduleType": "VOUCHER_REDEMPTION",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Have a Gift Voucher?",
+        "subTitle": "",
+        "cta": "Redeem Now"
+      },
+      "ar": {
+        "title": "لديك قسيمة هدية؟",
+        "subTitle": "",
+        "cta": "استبدل الآن"
+      },
+      "fr": {
+        "title": "Vous avez un bon cadeau ?",
+        "subTitle": "",
+        "cta": "Utiliser maintenant"
+      }
+    }
+  },
+  {
+    "id": 1234510,
+    "moduleType": "FAQ",
+    "moduleShouldDisplay": true
+  }
+]
