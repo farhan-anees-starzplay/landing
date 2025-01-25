@@ -49,7 +49,7 @@
     "images": {
       "desktop": {
         "heroImage": "/resources/images/modularLanding/landing/default-lg-{dir}.png",
-        "heroImageCountry": "",
+        "heroImageCountry": "/resources/images/modularLanding/landing/{countryCode}-lg-{dir}.png",
         "heroImageUtmDesktop": "/resources/images/modularLanding/landing/utm-content/{compainName}-lg-{dir}.png"
       },
       "tablet": {
