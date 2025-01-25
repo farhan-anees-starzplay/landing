@@ -18,88 +18,32 @@
       }
     }
   },
+  
   {
-    "id": 123450,
-    "moduleType": "HERO",
+    "id": 123453,
+    "moduleType": "PLAN_SELECTION",
     "moduleShouldDisplay": true,
-    "subscriptionLogo": false,
     "copies": {
       "en": {
-        "title": {
-          "default": "Your Destination for Live Sports and Entertainment"
-        },
-        "subTitle": "Live and exclusive coverage of the biggest sporting events PLUS get the latest series and movies all in one place.",
-        "cta": "Join Now"
+        "title": "Select your plan",
+        "subTitle": "Unlock your {subscriptionName} Subscription and pick your preferred plan",
+        "addOnAdded": "{subscriptionName} is added to subscription",
+        "addOnNotAdded": "Add {subscriptionName} to your subscription",
+        "cta": "Choose Plan"
       },
       "ar": {
-        "title": {
-          "default": "وجهتك للترفيه والأحداث الرياضية المباشرة"
-        },
-        "subTitle": "تغطية مباشرة وحصرية لأضخم الأحداث الرياضية، بالإضافة إلى أحدث المسلسلات والأفلام كله في مكان واحد.",
-        "cta": "اشترك الآن"
+        "title": "اختر خطتك",
+        "subTitle": "استمتع باشتراكك في {subscriptionName} واختر الخطة التي تفضلها.",
+        "addOnAdded": "تم إضافة {subscriptionName} إلى اشتراكك",
+        "addOnNotAdded": "أضف {subscriptionName} إلى اشتراكك",
+        "cta": "اختر الخطة"
       },
       "fr": {
-        "title": {
-          "default": "Votre destination pour le sport en direct et le divertissement"
-        },
-        "subTitle": "Les plus grands événements sportifs en direct et en exclusivité, ainsi que les dernières séries et films, tout en un seul endroit.",
-        "cta": "Rejoindre maintenant"
-      }
-    },
-    "images": {
-      "desktop": {
-        "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-lg-{dir}.png",
-        "heroImageCountry": "/resources/images/promoLanding/{subscriptionName}/{countryCode}-lg-{dir}.png",
-        "heroImageUtmDesktop": "/resources/images/promoLanding/{subscriptionName}/utm-content/{compainName}-lg-{dir}.png"
-      },
-      "tablet": {
-        "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-tab.png",
-        "heroImageCountry": "/resources/images/promoLanding/{subscriptionName}/{countryCode}-tab.png",
-        "heroImageUtmDesktop": "/resources/images/promoLanding/{subscriptionName}/utm-content/{compainName}-tab.png"
-      },
-      "mobile": {
-        "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-mob.png",
-        "heroImageCountry": "/resources/images/promoLanding/{subscriptionName}/{countryCode}-mob.png",
-        "heroImageUtmDesktop": "/resources/images/promoLanding/{subscriptionName}/utm-content/{compainName}-mob.png"
-      }
-    },
-    "benefitsSection": {
-      "moduleShouldDisplay": false,
-      "logo": {
-        "globe": "glob.svg",
-        "tv": "tv.svg",
-        "download": "download.svg",
-        "bag": "bag.svg",
-        "goodTick": "goodTick.svg"
-      },
-      "copies": {
-        "en": {
-          "globe": "Stream in Multi-Languages",
-          "bag": "Rent or Buy the Latest Releases",
-          "download": "Download and Watch Offline",
-          "goodTick": "Watch anytime, anywhere",
-          "tv": "Live Sports & Entertainment",
-          "ad-free": "Ad-Free",
-          "free-tv": "60+ Free TV Channels"
-        },
-        "ar": {
-          "globe": "بث بلغات متعددة",
-          "bag": "استأجر أو اشترِ أحدث الإصدارات",
-          "download": "قم بالتنزيل وشاهد بدون إنترنت",
-          "goodTick": "شاهد في أي وقت ومن أي مكان",
-          "tv": "الرياضات والترفيه المباشر",
-          "ad-free": "بدون إعلانات",
-          "free-tv": "أكثر من 60 قناة تلفزيونية مجانية"
-        },
-        "fr": {
-          "globe": "Diffusez en plusieurs langues",
-          "bag": "Louez ou achetez les dernières nouveautés",
-          "download": "Téléchargez et regardez hors ligne",
-          "goodTick": "Regardez à tout moment, n'importe où",
-          "tv": "Sports et divertissement en direct",
-          "ad-free": "Sans Publicité",
-          "free-tv": "Plus de 60 chaînes TV gratuites"
-        }
+        "title": "Choisissez votre plan",
+        "subTitle": "Activez votre abonnement {subscriptionName} et choisissez votre plan préféré.",
+        "addOnAdded": "{subscriptionName} a été ajouté à votre abonnement",
+        "addOnNotAdded": "Ajoutez {subscriptionName} à votre abonnement",
+        "cta": "Choisissez un plan"
       }
     }
   }
