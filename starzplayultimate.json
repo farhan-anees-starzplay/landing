@@ -129,34 +129,7 @@
       "mobile": "/resources/images/promoLanding/starzplayultimate/1basic-mob.png"
     }
   },
-  {
-    "id": 123453,
-    "moduleType": "PLAN_SELECTION",
-    "moduleShouldDisplay": true,
-    "copies": {
-      "en": {
-        "title": "Select your plan",
-        "subTitle": "Unlock your {subscriptionName} Subscription and pick your preferred plan",
-        "addOnAdded": "{subscriptionName} is added to subscription",
-        "addOnNotAdded": "Add {subscriptionName} to your subscription",
-        "cta": "Choose Plan"
-      },
-      "ar": {
-        "title": "اختر خطتك",
-        "subTitle": "استمتع باشتراكك في {subscriptionName} واختر الخطة التي تفضلها.",
-        "addOnAdded": "تم إضافة {subscriptionName} إلى اشتراكك",
-        "addOnNotAdded": "أضف {subscriptionName} إلى اشتراكك",
-        "cta": "اختر الخطة"
-      },
-      "fr": {
-        "title": "Choisissez votre plan",
-        "subTitle": "Activez votre abonnement {subscriptionName} et choisissez votre plan préféré.",
-        "addOnAdded": "{subscriptionName} a été ajouté à votre abonnement",
-        "addOnNotAdded": "Ajoutez {subscriptionName} à votre abonnement",
-        "cta": "Choisissez un plan"
-      }
-    }
-  },
+  
   {
     "id": 29387,
     "moduleType": "IMAGES_CARROUSEL_AND_CHANNELS_LOGOS",
@@ -267,6 +240,62 @@
     "images": {
       "desktop": "/resources/images/promoLanding/starzplayultimate/5basic-lg.png",
       "mobile": "/resources/images/promoLanding/starzplayultimate/5basic-mob.png"
+    }
+  },
+  {
+    "id": 123453,
+    "moduleType": "PLAN_SELECTION",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Select your plan",
+        "subTitle": "Unlock your {subscriptionName} Subscription and pick your preferred plan",
+        "addOnAdded": "{subscriptionName} is added to subscription",
+        "addOnNotAdded": "Add {subscriptionName} to your subscription",
+        "cta": "Choose Plan"
+      },
+      "ar": {
+        "title": "اختر خطتك",
+        "subTitle": "استمتع باشتراكك في {subscriptionName} واختر الخطة التي تفضلها.",
+        "addOnAdded": "تم إضافة {subscriptionName} إلى اشتراكك",
+        "addOnNotAdded": "أضف {subscriptionName} إلى اشتراكك",
+        "cta": "اختر الخطة"
+      },
+      "fr": {
+        "title": "Choisissez votre plan",
+        "subTitle": "Activez votre abonnement {subscriptionName} et choisissez votre plan préféré.",
+        "addOnAdded": "{subscriptionName} a été ajouté à votre abonnement",
+        "addOnNotAdded": "Ajoutez {subscriptionName} à votre abonnement",
+        "cta": "Choisissez un plan"
+      }
+    }
+  },
+  {
+    "id": 123453,
+    "moduleType": "PLAN_SELECTION",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Select your plan",
+        "subTitle": "Unlock your {subscriptionName} Subscription and pick your preferred plan",
+        "addOnAdded": "{subscriptionName} is added to subscription",
+        "addOnNotAdded": "Add {subscriptionName} to your subscription",
+        "cta": "Choose Plan"
+      },
+      "ar": {
+        "title": "اختر خطتك",
+        "subTitle": "استمتع باشتراكك في {subscriptionName} واختر الخطة التي تفضلها.",
+        "addOnAdded": "تم إضافة {subscriptionName} إلى اشتراكك",
+        "addOnNotAdded": "أضف {subscriptionName} إلى اشتراكك",
+        "cta": "اختر الخطة"
+      },
+      "fr": {
+        "title": "Choisissez votre plan",
+        "subTitle": "Activez votre abonnement {subscriptionName} et choisissez votre plan préféré.",
+        "addOnAdded": "{subscriptionName} a été ajouté à votre abonnement",
+        "addOnNotAdded": "Ajoutez {subscriptionName} à votre abonnement",
+        "cta": "Choisissez un plan"
+      }
     }
   },
   {
