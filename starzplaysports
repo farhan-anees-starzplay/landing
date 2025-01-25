@@ -1,0 +1,303 @@
+[
+  {
+    "moduleType": "SEO",
+    "page": "starzplaysports",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Subscribe to STARZPLAY | Football, Cricket, UFC & Live Sports",
+        "description": "Watch Live Sports on STARZPLAY. Watch T20 World Cup 2024, Serie A, UFC, Cricket, AFC, International Rugby, boxing, basketball & more. "
+      },
+      "ar": {
+        "title": "اشترك في STARZPLAY | كرة قدم، كريكت، UFC وأحداث رياضية مباشرة",
+        "description": "شاهد أحداث رياضية مباشرة على STARZPLAY. شاهد كأس العالم T20 للكريكت 2024، الدوري الايطالي، UFC، كريكت، بطولات الاتحاد الآسيوي، بطولات الرجبي الدولية، ملاكمة، كرة سلة، وغيرهم المزيد"
+      },
+      "fr": {
+        "title": "S'abonner à STARZPLAY | Football, Cricket, UFC & Sports en direct",
+        "description": "Regardez les sports en direct sur STARZPLAY. Regardez la Coupe du monde T20 2024, la Serie A, l'UFC, le cricket, l'AFC, le rugby international, la boxe, le basket-ball et bien plus encore."
+      }
+    }
+  },
+  {
+    "id": 123450,
+    "moduleType": "HERO",
+    "moduleShouldDisplay": true,
+    "subscriptionLogo": false,
+    "copies": {
+      "en": {
+        "title": {
+          "default": "Your World-Class Stadium to the Biggest Sporting Events"
+        },
+        "subTitle": "",
+        "cta": "Join Now"
+      },
+      "ar": {
+        "title": {
+          "default": "وجهتك الأولى للاستمتاع بأضخم الأحداث الرياضية العالمية والمحلية"
+        },
+        "subTitle": "",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": {
+          "default": "Votre stade mondial pour les plus grands événements sportifs"
+        },
+        "subTitle": "",
+        "cta": "Rejoindre maintenant"
+      }
+    },
+    "images": {
+      "desktop": {
+        "heroImage": "/resources/images/channelLanding/starzplaysports/default-lg-{dir}.png",
+        "heroImageCountry": "/resources/images/channelLanding/starzplaysports/{countryCode}-lg-{dir}.png",
+        "heroImageUtmDesktop": "/resources/images/channelLanding/starzplaysports/utm-content/{compainName}-lg-{dir}.png"
+      },
+      "tablet": {
+        "heroImage": "/resources/images/channelLanding/starzplaysports/default-tab.png",
+        "heroImageCountry": "/resources/images/channelLanding/starzplaysports/{countryCode}-tab.png",
+        "heroImageUtmDesktop": "/resources/images/channelLanding/starzplaysports/utm-content/{compainName}-tab.png"
+      },
+      "mobile": {
+        "heroImage": "/resources/images/channelLanding/starzplaysports/default-mob.png",
+        "heroImageCountry": "/resources/images/channelLanding/starzplaysports/{countryCode}-mob.png",
+        "heroImageUtmDesktop": "/resources/images/channelLanding/starzplaysports/utm-content/{compainName}-mob.png"
+      }
+    },
+    "benefitsSection": {
+      "moduleShouldDisplay": false,
+      "logo": {
+        "globe": "glob.svg",
+        "tv": "tv.svg",
+        "download": "download.svg",
+        "bag": "bag.svg",
+        "goodTick": "goodTick.svg"
+      },
+      "copies": {
+        "en": {
+          "globe": "Stream in Multi-Languages",
+          "bag": "Rent or Buy the Latest Releases",
+          "download": "Download and Watch Offline",
+          "goodTick": "Watch anytime, anywhere",
+          "tv": "Live Sports & Entertainment",
+          "ad-free": "Ad-Free",
+          "free-tv": "60+ Free TV Channels"
+        },
+        "ar": {
+          "globe": "بث بلغات متعددة",
+          "bag": "استأجر أو اشترِ أحدث الإصدارات",
+          "download": "قم بالتنزيل وشاهد بدون إنترنت",
+          "goodTick": "شاهد في أي وقت ومن أي مكان",
+          "tv": "الرياضات والترفيه المباشر",
+          "ad-free": "بدون إعلانات",
+          "free-tv": "أكثر من 60 قناة تلفزيونية مجانية"
+        },
+        "fr": {
+          "globe": "Diffusez en plusieurs langues",
+          "bag": "Louez ou achetez les dernières nouveautés",
+          "download": "Téléchargez et regardez hors ligne",
+          "goodTick": "Regardez à tout moment, n'importe où",
+          "tv": "Sports et divertissement en direct",
+          "ad-free": "Sans Publicité",
+          "free-tv": "Plus de 60 chaînes TV gratuites"
+        }
+      }
+    }
+  },
+  {
+    "id": 6736,
+    "moduleType": "IMAGES_CARROUSEL_AND_CHANNELS_LOGOS",
+    "moduleShouldDisplay": true,
+    "channelsLogoAtBottom": false,
+    "copies": {
+      "en": {
+        "title": "Enjoy live and exclusive coverage across UFC, Serie A, Cricket, Rugby and more!",
+        "subTitle": "",
+        "cta": "JOIN NOW"
+      },
+      "ar": {
+        "title": "استمتع بتغطية مباشرة وحصرية لـ UFC، الدوري الايطالي، الكريكت، الرجبي والمزيد!",
+        "subTitle": "",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": "Profitez d’une couverture en direct et exclusive de l’UFC, Serie A, Cricket, Rugby et bien plus !",
+        "subTitle": "",
+        "cta": "Utiliser maintenant"
+      }
+    },
+    "images": {
+      "desktop": [
+        "/resources/images/channelLanding/starzplaysports/1carousel-1-lg.png",
+        "/resources/images/channelLanding/starzplaysports/1carousel-2-lg.png",
+        "/resources/images/channelLanding/starzplaysports/1carousel-3-lg.png",
+        "/resources/images/channelLanding/starzplaysports/1carousel-4-lg.png"
+      ]
+    },
+    "channelsLogoimages": {
+      "desktop": {
+        "starzplay-white": "/images/logos/subscriptions/starzplay-white.png",
+        "wb-white": "/images/logos/subscriptions/wb-white.png",
+        "universall": "/images/logos/subscriptions/universal-white.png",
+        "paramount-white": "/images/logos/subscriptions/paramount-white.png",
+        "dc-white": "/images/logos/subscriptions/dc-white.png",
+        "noorplay-white": "/images/logos/subscriptions/noorplay-white.png",
+        "discovery": "/images/logos/subscriptions/discovery-white.png"
+      }
+    }
+  },
+  {
+    "id": 45678,
+    "moduleType": "BASIC",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Your Cage-Side Seat to UFC.",
+        "subTitle": "",
+        "cta": "JOIN NOW"
+      },
+      "ar": {
+        "title": "مقعدك بجوار حلبة UFC",
+        "subTitle": "",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": "Votre siège au bord de la cage pour l’UFC.",
+        "subTitle": "",
+        "cta": "Choisissez un plan"
+      }
+    },
+    "images": {
+      "desktop": "/resources/images/channelLanding/starzplaysports/2basic-lg.png",
+      "mobile": "/resources/images/channelLanding/starzplaysports/2basic-mob.png"
+    }
+  },
+  {
+    "id": 67363,
+    "moduleType": "BASIC",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Live and Exclusive Coverage of Serie A.",
+        "subTitle": "",
+        "cta": "JOIN NOW"
+      },
+      "ar": {
+        "title": "تغطية مباشرة وحصرية للدوري الايطالي",
+        "subTitle": "",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": "Couverture en direct et exclusive de la Serie A.",
+        "subTitle": "",
+        "cta": "Choisissez un plan"
+      }
+    },
+    "images": {
+      "desktop": "/resources/images/channelLanding/starzplaysports/3basic-lg.png",
+      "mobile": "/resources/images/channelLanding/starzplaysports/3basic-mob.png"
+    }
+  },
+  {
+    "id": 97733,
+    "moduleType": "BASIC",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Keep Your Eye on the Ball with Non-Stop Cricket.",
+        "subTitle": "",
+        "cta": "JOIN NOW"
+      },
+      "ar": {
+        "title": "ابق عينك على الكرة واستمتع بالكريكت بدون توقف",
+        "subTitle": "",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": "Gardez un œil sur la balle avec le cricket en continu.",
+        "subTitle": "",
+        "cta": "Choisissez un plan"
+      }
+    },
+    "images": {
+      "desktop": "/resources/images/channelLanding/starzplaysports/4basic-lg.png",
+      "mobile": "/resources/images/channelLanding/starzplaysports/4basic-mob.png"
+    }
+  },
+  {
+    "id": 923857,
+    "moduleType": "IMAGES_CARROUSEL_AND_CHANNELS_LOGOS",
+    "moduleShouldDisplay": true,
+    "channelsLogoAtBottom": false,
+    "copies": {
+      "en": {
+        "title": "For Every Kind of Sports Fan.",
+        "subTitle": "",
+        "cta": "JOIN NOW"
+      },
+      "ar": {
+        "title": "لمحبي كل أنواع الرياضة",
+        "subTitle": "",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": "Pour tous les fans de sport.",
+        "subTitle": "",
+        "cta": "Utiliser maintenant"
+      }
+    },
+    "images": {
+      "desktop": [
+        "/resources/images/channelLanding/starzplaysports/5carousel-1-lg.png",
+        "/resources/images/channelLanding/starzplaysports/5carousel-2-lg.png",
+        "/resources/images/channelLanding/starzplaysports/5carousel-3-lg.png",
+        "/resources/images/channelLanding/starzplaysports/5carousel-4-lg.png",
+        "/resources/images/channelLanding/starzplaysports/5carousel-5-lg.png",
+        "/resources/images/channelLanding/starzplaysports/5carousel-6-lg.png"
+      ]
+    },
+    "channelsLogoimages": {
+      "desktop": {
+        "starzplay-white": "/images/logos/subscriptions/starzplay-white.png",
+        "wb-white": "/images/logos/subscriptions/wb-white.png",
+        "universall": "/images/logos/subscriptions/universal-white.png",
+        "paramount-white": "/images/logos/subscriptions/paramount-white.png",
+        "dc-white": "/images/logos/subscriptions/dc-white.png",
+        "noorplay-white": "/images/logos/subscriptions/noorplay-white.png",
+        "discovery": "/images/logos/subscriptions/discovery-white.png"
+      }
+    }
+  },
+  {
+    "id": 123451,
+    "moduleType": "SUBSCRIPTION",
+    "moduleShouldDisplay": true,
+    "copies": {}
+  },
+  {
+    "id": 123459,
+    "moduleType": "VOUCHER_REDEMPTION",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Have a Gift Voucher?",
+        "subTitle": "",
+        "cta": "Redeem Now"
+      },
+      "ar": {
+        "title": "هل لديك قسيمة؟",
+        "subTitle": "",
+        "cta": "استبدل الآن"
+      },
+      "fr": {
+        "title": "Vous avez un code promo ?",
+        "subTitle": "",
+        "cta": "Utiliser maintenant"
+      }
+    }
+  },
+  {
+    "id": 1234510,
+    "moduleType": "FAQ",
+    "moduleShouldDisplay": true
+  }
+]
