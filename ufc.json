@@ -1,0 +1,139 @@
+[
+  {
+    "moduleType": "SEO",
+    "page": "ufc",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Watch Live Serie A Online - Match Streaming | Where to watch Serie A | STARZ ON",
+        "description": "Watch live Serie A online, Italy's premier football league. Enjoy the latest live matches, highlights & comprehensive coverage of your favorite teams & players, all in one place."
+      },
+      "ar": {
+        "title": "شاهد الدوري الايطالي أونلاين مباشرةً - بث مباشر للمباريات | أين ستشاهد الدوري الايطالي؟ | STARZ ON",
+        "description": "شاهد الدوري الايطالي أونلاين مباشرةً، دوري ايطاليا الممتاز لكرة القدم. استمتع بأحدث المباريات، أهم الأحداث وتغطية ليس لها مثيل لفرقك ولاعبيك المفضلين، كله في مكان واحد."
+      },
+      "fr": {
+        "title": "Regardez la Serie A en direct en ligne - Diffusion des matchs | où regarder la Serie A | STARZ ON",
+        "description": "Regardez la Serie A en direct en ligne, le championnat de football de premier plan en Italie. Profitez des derniers matchs en direct, des moments forts et d'une couverture complète de vos équipes et joueurs préférés, le tout au même endroit."
+      }
+    }
+  },
+  {
+    "id": 123450,
+    "moduleType": "HERO",
+    "moduleShouldDisplay": true,
+    "subscriptionLogo": false,
+    "copies": {
+      "en": {
+        "title": {
+          "default": "Live and Exclusive Coverage of Serie A."
+        },
+        "subTitle": "",
+        "cta": "Join Now"
+      },
+      "ar": {
+        "title": {
+          "default": "تغطية مباشرة وحصرية للدوري الايطالي"
+        },
+        "subTitle": "",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": {
+          "default": "Couverture en direct et exclusive de la Serie A."
+        },
+        "subTitle": "",
+        "cta": "Rejoindre maintenant"
+      }
+    },
+    "images": {
+      "desktop": {
+        "heroImage": "/resources/images/channelLanding/seriea/default-lg-{dir}.png",
+        "heroImageCountry": "/resources/images/channelLanding/seriea/{countryCode}-lg-{dir}.png",
+        "heroImageUtmDesktop": "/resources/images/channelLanding/seriea/utm-content/{compainName}-lg-{dir}.png"
+      },
+      "tablet": {
+        "heroImage": "/resources/images/channelLanding/seriea/default-tab.png",
+        "heroImageCountry": "/resources/images/channelLanding/seriea/{countryCode}-tab.png",
+        "heroImageUtmDesktop": "/resources/images/channelLanding/seriea/utm-content/{compainName}-tab.png"
+      },
+      "mobile": {
+        "heroImage": "/resources/images/channelLanding/seriea/default-mob.png",
+        "heroImageCountry": "/resources/images/channelLanding/seriea/{countryCode}-mob.png",
+        "heroImageUtmDesktop": "/resources/images/channelLanding/seriea/utm-content/{compainName}-mob.png"
+      }
+    },
+    "benefitsSection": {
+      "moduleShouldDisplay": false,
+      "logo": {
+        "globe": "glob.svg",
+        "tv": "tv.svg",
+        "download": "download.svg",
+        "bag": "bag.svg",
+        "goodTick": "goodTick.svg"
+      },
+      "copies": {
+        "en": {
+          "globe": "Stream in Multi-Languages",
+          "bag": "Rent or Buy the Latest Releases",
+          "download": "Download and Watch Offline",
+          "goodTick": "Watch anytime, anywhere",
+          "tv": "Live Sports & Entertainment",
+          "ad-free": "Ad-Free",
+          "free-tv": "60+ Free TV Channels"
+        },
+        "ar": {
+          "globe": "بث بلغات متعددة",
+          "bag": "استأجر أو اشترِ أحدث الإصدارات",
+          "download": "قم بالتنزيل وشاهد بدون إنترنت",
+          "goodTick": "شاهد في أي وقت ومن أي مكان",
+          "tv": "الرياضات والترفيه المباشر",
+          "ad-free": "بدون إعلانات",
+          "free-tv": "أكثر من 60 قناة تلفزيونية مجانية"
+        },
+        "fr": {
+          "globe": "Diffusez en plusieurs langues",
+          "bag": "Louez ou achetez les dernières nouveautés",
+          "download": "Téléchargez et regardez hors ligne",
+          "goodTick": "Regardez à tout moment, n'importe où",
+          "tv": "Sports et divertissement en direct",
+          "ad-free": "Sans Publicité",
+          "free-tv": "Plus de 60 chaînes TV gratuites"
+        }
+      }
+    }
+  },
+  {
+    "id": 123459,
+    "moduleType": "VOUCHER_REDEMPTION",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Have a Gift Voucher?",
+        "subTitle": "",
+        "cta": "Redeem Now"
+      },
+      "ar": {
+        "title": "هل لديك قسيمة؟",
+        "subTitle": "",
+        "cta": "استبدل الآن"
+      },
+      "fr": {
+        "title": "Vous avez un code promo ?",
+        "subTitle": "",
+        "cta": "Utiliser maintenant"
+      }
+    }
+  },
+  {
+    "id": 123451,
+    "moduleType": "SUBSCRIPTION",
+    "moduleShouldDisplay": true,
+    "copies": {}
+  },
+  {
+    "id": 1234510,
+    "moduleType": "FAQ",
+    "moduleShouldDisplay": true
+  }
+]
