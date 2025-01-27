@@ -316,7 +316,43 @@
         "id": "5",
         "name": "Thriller",
         "image": "/web3/resources/images/landing/v2/default/test/module5_genreE.png"
+      },
+       {
+        "id": "6",
+        "name": "Thriller",
+        "image": "/web3/resources/images/landing/v2/default/test/module5_genreE.png"
+      },
+       {
+        "id": "7",
+        "name": "Thriller",
+        "image": "/web3/resources/images/landing/v2/default/test/module5_genreE.png"
+      },
+       {
+        "id": "8",
+        "name": "Thriller",
+        "image": "/web3/resources/images/landing/v2/default/test/module5_genreE.png"
+      },
+       {
+        "id": "9",
+        "name": "Thriller",
+        "image": "/web3/resources/images/landing/v2/default/test/module5_genreE.png"
+      },
+       {
+        "id": "10",
+        "name": "Thriller",
+        "image": "/web3/resources/images/landing/v2/default/test/module5_genreE.png"
+      },
+       {
+        "id": "11",
+        "name": "Thriller",
+        "image": "/web3/resources/images/landing/v2/default/test/module5_genreE.png"
+      },
+       {
+        "id": "12",
+        "name": "Thriller",
+        "image": "/web3/resources/images/landing/v2/default/test/module5_genreE.png"
       }
+      
     ],
     "images": {
       "desktop": {
