@@ -49,7 +49,7 @@
     "images": {
       "desktop": {
         "heroImage": "/resources/images/modularLanding/landing/default-lg-{dir}.png",
-        "heroImageCountry": "/resources/images/landing/v2/ae/starzplay_covers-lg-ltr.webp",      
+        "heroImageCountry": "/resources/images/landing/v2/ae/starzplay_covers-lg-ltr.webp",
         "heroImageUtmDesktop": "/resources/images/modularLanding/landing/utm-content/{compainName}-lg-{dir}.png"
       },
       "tablet": {
@@ -289,13 +289,43 @@
     "genre": [
       {
         "id": "0",
-        "name": "Romance",
-        "image": "/web3/resources/images/landing/v2/default/test/module5_genreA.png"
+        "image": {
+          "en": "/resources/images/landing/generic/genre1_en.png",
+          "ar": "/resources/images/landing/generic/genre1_ar.png",
+          "fr": "/resources/images/landing/generic/genre1_fr.png"
+        }
       },
       {
         "id": "1",
-        "name": "Family",
-        "image": "/web3/resources/images/landing/v2/default/test/module5_genreB.png"
+        "image": {
+          "en": "/resources/images/landing/generic/genre2_en.png",
+          "ar": "/resources/images/landing/generic/genre2_ar.png",
+          "fr": "/resources/images/landing/generic/genre2_fr.png"
+        }
+      },
+      {
+        "id": "2",
+        "image": {
+          "en": "/resources/images/landing/generic/genre3_en.png",
+          "ar": "/resources/images/landing/generic/genre3_ar.png",
+          "fr": "/resources/images/landing/generic/genre3_fr.png"
+        }
+      },
+      {
+        "id": "3",
+        "image": {
+          "en": "/resources/images/landing/generic/genre3_en.png",
+          "ar": "/resources/images/landing/generic/genre3_ar.png",
+          "fr": "/resources/images/landing/generic/genre3_fr.png"
+        }
+      },
+      {
+        "id": "4",
+        "image": {
+          "en": "/resources/images/landing/generic/genre4_en.png",
+          "ar": "/resources/images/landing/generic/genre4_ar.png",
+          "fr": "/resources/images/landing/generic/genre4_fr.png"
+        }
       }
     ],
     "images": {
@@ -304,12 +334,11 @@
           "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
           "/web3/resources/images/landing/v2/default/test/module5_carousel2.png",
           "/web3/resources/images/landing/v2/default/test/module5_carousel3.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel4.png",
           "/web3/resources/images/landing/v2/default/test/module5_carousel4.png"
         ],
         "1": [
           "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel3.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel2.png",
           "/web3/resources/images/landing/v2/default/test/module5_carousel4.png"
         ],
         "2": [
@@ -320,7 +349,6 @@
         ],
         "3": [
           "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel3.png",
           "/web3/resources/images/landing/v2/default/test/module5_carousel4.png",
           "/web3/resources/images/landing/v2/default/test/module5_carousel2.png"
         ],
@@ -329,26 +357,10 @@
           "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
           "/web3/resources/images/landing/v2/default/test/module5_carousel2.png",
           "/web3/resources/images/landing/v2/default/test/module5_carousel3.png"
-        ],
-        "5": [
-          "/web3/resources/images/landing/v2/default/test/module5_carousel4.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
-           "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
-           "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
-           "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
-           "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
-           "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
-           "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
-           "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
-           "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
-           "/web3/resources/images/landing/v2/default/test/module5_carousel1.png"
-         
-          
         ]
       }
     }
   },
-
   {
     "id": 1234510,
     "moduleType": "FAQ",
