@@ -113,6 +113,6 @@
   {
     "id": 1234510,
     "moduleType": "FAQ",
-    "moduleShouldDisplay": false
+    "moduleShouldDisplay": true
   }
 ]
