@@ -290,41 +290,41 @@
       {
         "id": "0",
         "image": {
-          "en": "/resources/images/landing/generic/genre1_en.png",
-          "ar": "/resources/images/landing/generic/genre1_ar.png",
-          "fr": "/resources/images/landing/generic/genre1_fr.png"
+          "en": "web3/resources/images/landing/generic/genre1_en.png",
+          "ar": "web3/resources/images/landing/generic/genre1_ar.png",
+          "fr": "web3/resources/images/landing/generic/genre1_fr.png"
         }
       },
       {
         "id": "1",
         "image": {
-          "en": "/resources/images/landing/generic/genre2_en.png",
-          "ar": "/resources/images/landing/generic/genre2_ar.png",
-          "fr": "/resources/images/landing/generic/genre2_fr.png"
+          "en": "web3/resources/images/landing/generic/genre2_en.png",
+          "ar": "web3/resources/images/landing/generic/genre2_ar.png",
+          "fr": "web3/resources/images/landing/generic/genre2_fr.png"
         }
       },
       {
         "id": "2",
         "image": {
-          "en": "/resources/images/landing/generic/genre3_en.png",
-          "ar": "/resources/images/landing/generic/genre3_ar.png",
-          "fr": "/resources/images/landing/generic/genre3_fr.png"
+          "en": "web3/resources/images/landing/generic/genre3_en.png",
+          "ar": "web3/resources/images/landing/generic/genre3_ar.png",
+          "fr": "web3/resources/images/landing/generic/genre3_fr.png"
         }
       },
       {
         "id": "3",
         "image": {
-          "en": "/resources/images/landing/generic/genre3_en.png",
-          "ar": "/resources/images/landing/generic/genre3_ar.png",
-          "fr": "/resources/images/landing/generic/genre3_fr.png"
+          "en": "web3/resources/images/landing/generic/genre3_en.png",
+          "ar": "web3/resources/images/landing/generic/genre3_ar.png",
+          "fr": "web3/resources/images/landing/generic/genre3_fr.png"
         }
       },
       {
         "id": "4",
         "image": {
-          "en": "/resources/images/landing/generic/genre5_en.png",
-          "ar": "/resources/images/landing/generic/genre5_ar.png",
-          "fr": "/resources/images/landing/generic/genre5_fr.png"
+          "en": "web3/resources/images/landing/generic/genre5_en.png",
+          "ar": "web3/resources/images/landing/generic/genre5_ar.png",
+          "fr": "web3/resources/images/landing/generic/genre5_fr.png"
         }
       },
       {
