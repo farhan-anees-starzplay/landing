@@ -50,7 +50,7 @@
       "desktop": {
         "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-lg-{dir}.png",
         "heroImageCountry": "/resources/images/promoLanding/{subscriptionName}/{countryCode}-lg-{dir}.png",
-        "heroImageUtmDesktop": "/resources/images/promoLanding/{subscriptionName}/utm-content/{compainName}-lg-{dir}.png"
+        "heroImageUtmDesktop": "/resources/images/modularLanding/entertainment/utm-content/{compainName}-lg-ltr.png"
       },
       "tablet": {
         "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-tab.png",
