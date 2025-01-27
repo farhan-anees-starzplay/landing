@@ -326,6 +326,14 @@
           "ar": "/resources/images/landing/generic/genre4_ar.png",
           "fr": "/resources/images/landing/generic/genre4_fr.png"
         }
+      },
+      {
+        "id": "5",
+        "image": {
+          "en": "/resources/images/landing/generic/genre4_en.png",
+          "ar": "/resources/images/landing/generic/genre4_ar.png",
+          "fr": "/resources/images/landing/generic/genre4_fr.png"
+        }
       }
     ],
     "images": {
@@ -353,6 +361,12 @@
           "/web3/resources/images/landing/v2/default/test/module5_carousel2.png"
         ],
         "4": [
+          "/web3/resources/images/landing/v2/default/test/module5_carousel4.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel2.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel3.png"
+        ],
+        "5": [
           "/web3/resources/images/landing/v2/default/test/module5_carousel4.png",
           "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
           "/web3/resources/images/landing/v2/default/test/module5_carousel2.png",
