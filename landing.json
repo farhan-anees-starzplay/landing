@@ -296,16 +296,6 @@
         "id": "1",
         "name": "Family",
         "image": "/web3/resources/images/landing/v2/default/test/module5_genreB.png"
-      },
-      {
-        "id": "2",
-        "name": "Originals",
-        "image": "/web3/resources/images/landing/v2/default/test/module5_genreC.png"
-      },
-      {
-        "id": "3",
-        "name": "Action",
-        "image": "/web3/resources/images/landing/v2/default/test/module5_genreD.png"
       }
     ],
     "images": {
