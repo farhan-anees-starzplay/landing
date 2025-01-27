@@ -266,6 +266,101 @@
     }
   },
   {
+    "id": 123458,
+    "moduleType": "GENRE_CARROUSEL",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Find Iconic Entertainment",
+        "subTitle": "Explore genres that define cinema and TV history.",
+        "cta": "Join Now"
+      },
+      "ar": {
+        "title": "اكتشف الترفيه الأيقوني",
+        "subTitle": "استمتع بالأنواع التي شكلت تاريخ السينما والتلفزيون.",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": "Découvrez un divertissement emblématique",
+        "subTitle": "Explorez des genres qui ont marqué l’histoire du cinéma et de la télévision.",
+        "cta": "Choisissez un plan"
+      }
+    },
+    "genre": [
+      {
+        "id": "0",
+        "name": "Romance",
+        "image": "/web3/resources/images/landing/v2/default/test/module5_genreA.png"
+      },
+      {
+        "id": "1",
+        "name": "Family",
+        "image": "/web3/resources/images/landing/v2/default/test/module5_genreB.png"
+      },
+      {
+        "id": "2",
+        "name": "Originals",
+        "image": "/web3/resources/images/landing/v2/default/test/module5_genreC.png"
+      },
+      {
+        "id": "3",
+        "name": "Action",
+        "image": "/web3/resources/images/landing/v2/default/test/module5_genreD.png"
+      },
+      {
+        "id": "4",
+        "name": "Thriller",
+        "image": "/web3/resources/images/landing/v2/default/test/module5_genreE.png"
+      },
+      {
+        "id": "5",
+        "name": "Thriller",
+        "image": "/web3/resources/images/landing/v2/default/test/module5_genreE.png"
+      }
+    ],
+    "images": {
+      "desktop": {
+        "0": [
+          "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel2.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel3.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel4.png"
+        ],
+        "1": [
+          "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel3.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel2.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel4.png"
+        ],
+        "2": [
+          "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel3.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel2.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel4.png"
+        ],
+        "3": [
+          "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel3.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel4.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel2.png"
+        ],
+        "4": [
+          "/web3/resources/images/landing/v2/default/test/module5_carousel4.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel2.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel3.png"
+        ],
+        "5": [
+          "/web3/resources/images/landing/v2/default/test/module5_carousel4.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel3.png",
+          "/web3/resources/images/landing/v2/default/test/module5_carousel2.png"
+        ]
+      }
+    }
+  },
+
+  {
     "id": 1234510,
     "moduleType": "FAQ",
     "moduleShouldDisplay": false
