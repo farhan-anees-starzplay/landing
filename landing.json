@@ -290,7 +290,7 @@
       {
         "id": "0",
         "image": {
-          "en": "/web3/resources/images/landing/generic/genre1_en.png",
+          "en": "default/web3/resources/images/landing/generic/genre1_en.png",
           "ar": "/web3/resources/images/landing/generic/genre1_ar.png",
           "fr": "/web3/resources/images/landing/generic/genre1_fr.png"
         }
