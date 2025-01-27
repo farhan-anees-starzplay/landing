@@ -65,7 +65,7 @@
       }
     },
     "benefitsSection": {
-      "moduleShouldDisplay": true,
+      "moduleShouldDisplay": false,
       "logo": {
         "globe": "glob.svg",
         "tv": "tv.svg",
