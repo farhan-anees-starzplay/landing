@@ -130,6 +130,188 @@
     }
   },
   {
+    "id": 1278454,
+    "moduleType": "BASIC",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Trending Now 1",
+        "subTitle": "",
+        "cta": "JOIN NOW"
+      },
+      "ar": {
+        "title": "الأكثر مشاهدة الآن",
+        "subTitle": "",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": "Tendance actuelle",
+        "subTitle": "",
+        "cta": "Choisissez un plan"
+      }
+    },
+    "images": {
+      "desktop": "/resources/images/promoLanding/starzplayultimate/1basic-lg.png",
+      "mobile": "/resources/images/promoLanding/starzplayultimate/1basic-mob.png"
+    }
+  },
+  {
+    "id": 1278454,
+    "moduleType": "BASIC",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Trending Now 2",
+        "subTitle": "",
+        "cta": "JOIN NOW"
+      },
+      "ar": {
+        "title": "الأكثر مشاهدة الآن",
+        "subTitle": "",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": "Tendance actuelle",
+        "subTitle": "",
+        "cta": "Choisissez un plan"
+      }
+    },
+    "images": {
+      "desktop": "/resources/images/promoLanding/starzplayultimate/1basic-lg.png",
+      "mobile": "/resources/images/promoLanding/starzplayultimate/1basic-mob.png"
+    }
+  },
+  {
+    "id": 1278454,
+    "moduleType": "BASIC",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Trending Now 3",
+        "subTitle": "",
+        "cta": "JOIN NOW"
+      },
+      "ar": {
+        "title": "الأكثر مشاهدة الآن",
+        "subTitle": "",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": "Tendance actuelle",
+        "subTitle": "",
+        "cta": "Choisissez un plan"
+      }
+    },
+    "images": {
+      "desktop": "/resources/images/promoLanding/starzplayultimate/1basic-lg.png",
+      "mobile": "/resources/images/promoLanding/starzplayultimate/1basic-mob.png"
+    }
+  },
+  {
+    "id": 1278454,
+    "moduleType": "BASIC",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Trending Now 4",
+        "subTitle": "",
+        "cta": "JOIN NOW"
+      },
+      "ar": {
+        "title": "الأكثر مشاهدة الآن",
+        "subTitle": "",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": "Tendance actuelle",
+        "subTitle": "",
+        "cta": "Choisissez un plan"
+      }
+    },
+    "images": {
+      "desktop": "/resources/images/promoLanding/starzplayultimate/1basic-lg.png",
+      "mobile": "/resources/images/promoLanding/starzplayultimate/1basic-mob.png"
+    }
+  },
+  {
+    "id": 1278454,
+    "moduleType": "BASIC",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Trending Now 5",
+        "subTitle": "",
+        "cta": "JOIN NOW"
+      },
+      "ar": {
+        "title": "الأكثر مشاهدة الآن",
+        "subTitle": "",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": "Tendance actuelle",
+        "subTitle": "",
+        "cta": "Choisissez un plan"
+      }
+    },
+    "images": {
+      "desktop": "/resources/images/promoLanding/starzplayultimate/1basic-lg.png",
+      "mobile": "/resources/images/promoLanding/starzplayultimate/1basic-mob.png"
+    }
+  },
+  {
+    "id": 1278454,
+    "moduleType": "BASIC",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Trending Now 6",
+        "subTitle": "",
+        "cta": "JOIN NOW"
+      },
+      "ar": {
+        "title": "الأكثر مشاهدة الآن",
+        "subTitle": "",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": "Tendance actuelle",
+        "subTitle": "",
+        "cta": "Choisissez un plan"
+      }
+    },
+    "images": {
+      "desktop": "/resources/images/promoLanding/starzplayultimate/1basic-lg.png",
+      "mobile": "/resources/images/promoLanding/starzplayultimate/1basic-mob.png"
+    }
+  },
+  {
+    "id": 1278454,
+    "moduleType": "BASIC",
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+        "title": "Trending Now 7",
+        "subTitle": "",
+        "cta": "JOIN NOW"
+      },
+      "ar": {
+        "title": "الأكثر مشاهدة الآن",
+        "subTitle": "",
+        "cta": "اشترك الآن"
+      },
+      "fr": {
+        "title": "Tendance actuelle",
+        "subTitle": "",
+        "cta": "Choisissez un plan"
+      }
+    },
+    "images": {
+      "desktop": "/resources/images/promoLanding/starzplayultimate/1basic-lg.png",
+      "mobile": "/resources/images/promoLanding/starzplayultimate/1basic-mob.png"
+    }
+  },
+  {
     "id": 123453,
     "moduleType": "PLAN_SELECTION",
     "moduleShouldDisplay": true,
