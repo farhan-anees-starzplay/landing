@@ -1,7 +1,7 @@
 [
   {
     "moduleType": "SEO",
-    "page": "starzplay",
+    "page": "Starzplay pk",
     "moduleShouldDisplay": true,
     "copies": {
       "en": {
@@ -104,101 +104,6 @@
     }
   },
   {
-    "id": 92847329,
-    "moduleType": "BASIC",
-    "moduleShouldDisplay": true,
-    "copies": {
-      "en": {
-        "title": "Trending Now",
-        "subTitle": "Your next watch is just a click away!",
-        "cta": "JOIN NOW"
-      },
-      "ar": {
-        "title": "الأكثر مشاهدة الآن",
-        "subTitle": "مشاهداتك التالية على بُعد ضغطة زر واحدة",
-        "cta": "اشترك الآن"
-      },
-      "fr": {
-        "title": "Tendance actuelle",
-        "subTitle": "Votre prochaine séance commence en un clic",
-        "cta": "Choisissez un plan"
-      }
-    },
-    "images": {
-      "desktop": "/resources/images/promoLanding/starzplay/1basic-lg.png",
-      "mobile": "/resources/images/promoLanding/starzplay/1basic-mob.png"
-    }
-  },
-  {
-    "id": 29387,
-    "moduleType": "IMAGES_CARROUSEL_AND_CHANNELS_LOGOS",
-    "moduleShouldDisplay": true,
-    "channelsLogoAtBottom": false,
-    "copies": {
-      "en": {
-        "title": "Newest Releases",
-        "subTitle": "",
-        "cta": "JOIN NOW"
-      },
-      "ar": {
-        "title": "أحدث الإصدارات",
-        "subTitle": "",
-        "cta": "اشترك الآن"
-      },
-      "fr": {
-        "title": "Nouveautés",
-        "subTitle": "",
-        "cta": "Utiliser maintenant"
-      }
-    },
-    "images": {
-      "desktop": [
-        "/resources/images/promoLanding/starzplay/2carousel_1-lg.png",
-        "/resources/images/promoLanding/starzplay/2carousel_2-lg.png",
-        "/resources/images/promoLanding/starzplay/2carousel_3-lg.png",
-        "/resources/images/promoLanding/starzplay/2carousel_4-lg.png",
-        "/resources/images/promoLanding/starzplay/2carousel_5-lg.png"
-      ]
-    },
-    "channelsLogoimages": {
-      "desktop": {
-        "starzplay-white": "/images/logos/subscriptions/starzplay-white.png",
-        "wb-white": "/images/logos/subscriptions/wb-white.png",
-        "universall": "/images/logos/subscriptions/universal-white.png",
-        "paramount-white": "/images/logos/subscriptions/paramount-white.png",
-        "dc-white": "/images/logos/subscriptions/dc-white.png",
-        "noorplay-white": "/images/logos/subscriptions/noorplay-white.png",
-        "discovery": "/images/logos/subscriptions/discovery-white.png"
-      }
-    }
-  },
-  {
-    "id": 239847,
-    "moduleType": "BASIC",
-    "moduleShouldDisplay": true,
-    "copies": {
-      "en": {
-        "title": "Straight from the Cinema",
-        "subTitle": "Enjoy blockbuster hits from the comfort of your sofa.",
-        "cta": "JOIN NOW"
-      },
-      "ar": {
-        "title": "مباشرةً من السينما",
-        "subTitle": "استمتع بأقوى الأعمال من راحة منزلك",
-        "cta": "اشترك الآن"
-      },
-      "fr": {
-        "title": "En direct des salles de cinéma",
-        "subTitle": "Savourez les blockbusters depuis votre canapé",
-        "cta": "Choisissez un plan"
-      }
-    },
-    "images": {
-      "desktop": "/resources/images/promoLanding/starzplay/3basic-lg.png",
-      "mobile": "/resources/images/promoLanding/starzplay/3basic-mob.png"
-    }
-  },
-  {
     "id": 123453,
     "moduleType": "PLAN_SELECTION",
     "moduleShouldDisplay": true,
@@ -223,28 +128,6 @@
         "addOnAdded": "{subscriptionName} a été ajouté à votre abonnement",
         "addOnNotAdded": "Ajoutez {subscriptionName} à votre abonnement",
         "cta": "Choisissez un plan"
-      }
-    }
-  },
-  {
-    "id": 123459,
-    "moduleType": "VOUCHER_REDEMPTION",
-    "moduleShouldDisplay": true,
-    "copies": {
-      "en": {
-        "title": "Have a Gift Voucher?",
-        "subTitle": "",
-        "cta": "Redeem Now"
-      },
-      "ar": {
-        "title": "لديك قسيمة هدية؟",
-        "subTitle": "",
-        "cta": "استبدل الآن"
-      },
-      "fr": {
-        "title": "Vous avez un bon cadeau ?",
-        "subTitle": "",
-        "cta": "Utiliser maintenant"
       }
     }
   },
