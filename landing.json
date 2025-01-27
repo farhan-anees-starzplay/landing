@@ -339,38 +339,38 @@
     "images": {
       "desktop": {
         "0": [
-          "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel2.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel3.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel4.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel4.png"
+          "/resources/images/landing/v2/default/test/module5_carousel1.png",
+          "/resources/images/landing/v2/default/test/module5_carousel2.png",
+          "/resources/images/landing/v2/default/test/module5_carousel3.png",
+          "/resources/images/landing/v2/default/test/module5_carousel4.png",
+          "/resources/images/landing/v2/default/test/module5_carousel4.png"
         ],
         "1": [
-          "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel4.png"
+          "/resources/images/landing/v2/default/test/module5_carousel1.png",
+          "/resources/images/landing/v2/default/test/module5_carousel4.png"
         ],
         "2": [
-          "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel3.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel2.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel4.png"
+          "/resources/images/landing/v2/default/test/module5_carousel1.png",
+          "/resources/images/landing/v2/default/test/module5_carousel3.png",
+          "/resources/images/landing/v2/default/test/module5_carousel2.png",
+          "/resources/images/landing/v2/default/test/module5_carousel4.png"
         ],
         "3": [
-          "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel4.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel2.png"
+          "/resources/images/landing/v2/default/test/module5_carousel1.png",
+          "/resources/images/landing/v2/default/test/module5_carousel4.png",
+          "/resources/images/landing/v2/default/test/module5_carousel2.png"
         ],
         "4": [
-          "/web3/resources/images/landing/v2/default/test/module5_carousel4.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel2.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel3.png"
+          "/resources/images/landing/v2/default/test/module5_carousel4.png",
+          "/resources/images/landing/v2/default/test/module5_carousel1.png",
+          "/resources/images/landing/v2/default/test/module5_carousel2.png",
+          "/resources/images/landing/v2/default/test/module5_carousel3.png"
         ],
         "5": [
-          "/web3/resources/images/landing/v2/default/test/module5_carousel4.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel2.png",
-          "/web3/resources/images/landing/v2/default/test/module5_carousel3.png"
+          "/resources/images/landing/v2/default/test/module5_carousel4.png",
+          "/resources/images/landing/v2/default/test/module5_carousel1.png",
+          "/resources/images/landing/v2/default/test/module5_carousel2.png",
+          "/resources/images/landing/v2/default/test/module5_carousel3.png"
         ]
       }
     }
