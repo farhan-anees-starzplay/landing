@@ -159,10 +159,10 @@
     }
   },
   {
-    "id": 29387,
+    "id": 29300,
     "moduleType": "IMAGES_CARROUSEL_AND_CHANNELS_LOGOS",
-    "moduleShouldDisplay": true,
-    "channelsLogoAtBottom": true,
+    "moduleShouldDisplay": false,
+    "channelsLogoAtBottom": false,
     "copies": {
       "en": {
         "title": "Home of Sports",
@@ -267,7 +267,7 @@
         "discovery": "/images/logos/subscriptions/discovery-white.png",
         "discovery": "/images/logos/subscriptions/discovery-white.png",
         "discovery": "/images/logos/subscriptions/discovery-white.png",
-        "discovery": "/images/logos/subscriptions/discovery-white.png"
+        "discovery1": "/images/logos/subscriptions/discovery-white.png"
         
       }
     }
