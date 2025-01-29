@@ -318,14 +318,6 @@
           "ar": "/resources/images/landing/generic/genre3_ar.png",
           "fr": "/resources/images/landing/generic/genre3_fr.png"
         }
-      },
-      {
-        "id": "4",
-        "image": {
-          "en": "/resources/images/landing/generic/genre5_en.png",
-          "ar": "/resources/images/landing/generic/genre5_ar.png",
-          "fr": "/resources/images/landing/generic/genre5_fr.png"
-        }
       }
     ],
     "images": {
