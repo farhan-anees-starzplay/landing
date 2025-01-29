@@ -310,6 +310,29 @@
           "ar": "/resources/images/landing/generic/genre3_ar.png",
           "fr": "/resources/images/landing/generic/genre3_fr.png"
         }
+      },
+            {
+        "id": "3",
+        "image": {
+          "en": "/resources/images/landing/generic/genre3_en.png",
+          "ar": "/resources/images/landing/generic/genre3_ar.png",
+          "fr": "/resources/images/landing/generic/genre3_fr.png"
+        }
+      },      {
+        "id": "5",
+        "image": {
+          "en": "/resources/images/landing/generic/genre4_en.png",
+          "ar": "/resources/images/landing/generic/genre4_ar.png",
+          "fr": "/resources/images/landing/generic/genre4_fr.png"
+        }
+      },
+            {
+        "id": "5",
+        "image": {
+          "en": "/resources/images/landing/generic/genre5_en.png",
+          "ar": "/resources/images/landing/generic/genre5_ar.png",
+          "fr": "/resources/images/landing/generic/genre5_fr.png"
+        }
       }
     ],
     "images": {
