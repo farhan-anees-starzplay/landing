@@ -49,17 +49,17 @@
     "images": {
       "desktop": {
         "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-lg-{dir}.png",
-        "heroImageCountry": "/resources/images/promoLanding/{subscriptionName}/{countryCode}-lg-{dir}.png",
+        "heroImageCountry": "",
         "heroImageUtmDesktop": "/resources/images/modularLanding/entertainment/utm-content/{compainName}-lg-ltr.png"
       },
       "tablet": {
         "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-tab.png",
-        "heroImageCountry": "/resources/images/promoLanding/{subscriptionName}/{countryCode}-tab.png",
+        "heroImageCountry": "",
         "heroImageUtmDesktop": "/resources/images/promoLanding/{subscriptionName}/utm-content/{compainName}-tab.png"
       },
       "mobile": {
         "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-mob.png",
-        "heroImageCountry": "/resources/images/promoLanding/{subscriptionName}/{countryCode}-mob.png",
+        "heroImageCountry": "",
         "heroImageUtmDesktop": "/resources/images/promoLanding/{subscriptionName}/utm-content/{compainName}-mob.png"
       }
     },
