@@ -48,17 +48,17 @@
     },
     "images": {
       "desktop": {
-        "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-lg-{dir}.png",
+        "heroImage": "",
         "heroImageCountry": "/resources/images/promoLanding/{subscriptionName}/{countryCode}-lg-{dir}.png",
         "heroImageUtmDesktop": "/resources/images/promoLanding/{subscriptionName}/utm-content/{compainName}-lg-{dir}.png"
       },
       "tablet": {
-        "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-tab.png",
+        "heroImage": "",
         "heroImageCountry": "/resources/images/promoLanding/{subscriptionName}/{countryCode}-tab.png",
         "heroImageUtmDesktop": "/resources/images/promoLanding/{subscriptionName}/utm-content/{compainName}-tab.png"
       },
       "mobile": {
-        "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-mob.png",
+        "heroImage": "",
         "heroImageCountry": "/resources/images/promoLanding/{subscriptionName}/{countryCode}-mob.png",
         "heroImageUtmDesktop": "/resources/images/promoLanding/{subscriptionName}/utm-content/{compainName}-mob.png"
       }
