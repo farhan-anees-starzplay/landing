@@ -311,14 +311,15 @@
           "fr": "/resources/images/landing/generic/genre3_fr.png"
         }
       },
-            {
+      {
         "id": "3",
         "image": {
           "en": "/resources/images/landing/generic/genre3_en.png",
           "ar": "/resources/images/landing/generic/genre3_ar.png",
           "fr": "/resources/images/landing/generic/genre3_fr.png"
         }
-      },      {
+      },
+      {
         "id": "5",
         "image": {
           "en": "/resources/images/landing/generic/genre4_en.png",
@@ -326,7 +327,7 @@
           "fr": "/resources/images/landing/generic/genre4_fr.png"
         }
       },
-            {
+      {
         "id": "5",
         "image": {
           "en": "/resources/images/landing/generic/genre5_en.png",
@@ -334,7 +335,7 @@
           "fr": "/resources/images/landing/generic/genre5_fr.png"
         }
       },
-                  {
+      {
         "id": "6",
         "image": {
           "en": "/resources/images/landing/generic/genre6_en.png",
@@ -347,15 +348,15 @@
       "desktop": {
         "0": [
           "/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/resources/images/landing/v2/default/test/module5_carousel2.png",
+          "/resources/images/landing/v2/default/test/module5_carousel2.png"
         ],
         "1": [
           "/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/resources/images/landing/v2/default/test/module5_carousel4.png"
-                    "/resources/images/landing/v2/default/test/module5_carousel3.png",
+          "/resources/images/landing/v2/default/test/module5_carousel4.png",
+          "/resources/images/landing/v2/default/test/module5_carousel3.png",
           "/resources/images/landing/v2/default/test/module5_carousel2.png",
-          "/resources/images/landing/v2/default/test/module5_carousel4.png"
-                    "/resources/images/landing/v2/default/test/module5_carousel3.png",
+          "/resources/images/landing/v2/default/test/module5_carousel4.png",
+          "/resources/images/landing/v2/default/test/module5_carousel3.png",
           "/resources/images/landing/v2/default/test/module5_carousel2.png",
           "/resources/images/landing/v2/default/test/module5_carousel4.png"
         ],
