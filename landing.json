@@ -348,12 +348,15 @@
         "0": [
           "/resources/images/landing/v2/default/test/module5_carousel1.png",
           "/resources/images/landing/v2/default/test/module5_carousel2.png",
-          "/resources/images/landing/v2/default/test/module5_carousel3.png",
-          "/resources/images/landing/v2/default/test/module5_carousel4.png",
-          "/resources/images/landing/v2/default/test/module5_carousel4.png"
         ],
         "1": [
           "/resources/images/landing/v2/default/test/module5_carousel1.png",
+          "/resources/images/landing/v2/default/test/module5_carousel4.png"
+                    "/resources/images/landing/v2/default/test/module5_carousel3.png",
+          "/resources/images/landing/v2/default/test/module5_carousel2.png",
+          "/resources/images/landing/v2/default/test/module5_carousel4.png"
+                    "/resources/images/landing/v2/default/test/module5_carousel3.png",
+          "/resources/images/landing/v2/default/test/module5_carousel2.png",
           "/resources/images/landing/v2/default/test/module5_carousel4.png"
         ],
         "2": [
