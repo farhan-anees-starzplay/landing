@@ -49,17 +49,17 @@
     "images": {
       "desktop": {
         "heroImage": "/resources/images/channelLanding/starzplaysports/default-lg-{dir}.png",
-        "heroImageCountry": "/resources/images/channelLanding/starzplaysports/{countryCode}-lg-{dir}.png",
+        "heroImageCountry": "",
         "heroImageUtmDesktop": "/resources/images/channelLanding/starzplaysports/utm-content/{compainName}-lg-{dir}.png"
       },
       "tablet": {
         "heroImage": "/resources/images/channelLanding/starzplaysports/default-tab.png",
-        "heroImageCountry": "/resources/images/channelLanding/starzplaysports/{countryCode}-tab.png",
+        "heroImageCountry": "",
         "heroImageUtmDesktop": "/resources/images/channelLanding/starzplaysports/utm-content/{compainName}-tab.png"
       },
       "mobile": {
         "heroImage": "/resources/images/channelLanding/starzplaysports/default-mob.png",
-        "heroImageCountry": "/resources/images/channelLanding/starzplaysports/{countryCode}-mob.png",
+        "heroImageCountry": "",
         "heroImageUtmDesktop": "/resources/images/channelLanding/starzplaysports/utm-content/{compainName}-mob.png"
       }
     },
