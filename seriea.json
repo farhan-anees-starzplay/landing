@@ -49,17 +49,17 @@
     "images": {
       "desktop": {
         "heroImage": "/resources/images/channelLanding/seriea/default-lg-{dir}.png",
-        "heroImageCountry": "/resources/images/channelLanding/seriea/{countryCode}-lg-{dir}.png",
+        "heroImageCountry": "",
         "heroImageUtmDesktop": "/resources/images/channelLanding/seriea/utm-content/{compainName}-lg-{dir}.png"
       },
       "tablet": {
         "heroImage": "/resources/images/channelLanding/seriea/default-tab.png",
-        "heroImageCountry": "/resources/images/channelLanding/seriea/{countryCode}-tab.png",
+        "heroImageCountry": "",
         "heroImageUtmDesktop": "/resources/images/channelLanding/seriea/utm-content/{compainName}-tab.png"
       },
       "mobile": {
         "heroImage": "/resources/images/channelLanding/seriea/default-mob.png",
-        "heroImageCountry": "/resources/images/channelLanding/seriea/{countryCode}-mob.png",
+        "heroImageCountry": "",
         "heroImageUtmDesktop": "/resources/images/channelLanding/seriea/utm-content/{compainName}-mob.png"
       }
     },
