@@ -69,8 +69,8 @@
         "globe": "glob.svg",
         "tv": "tv.svg",
         "download": "download.svg",
-        "bag": "bag.svg",
-        "goodTick": "goodTick.svg"
+        "bag": "bag.svg"
+       
       },
       "copies": {
         "en": {
