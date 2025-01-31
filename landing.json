@@ -67,8 +67,8 @@
       "moduleShouldDisplay": true,
       "logo": {
       "globe": "glob.svg",
-        "tv": "tv.svg",
-        "download": "download.svg"
+        "tv": "tv.svg"
+       
       
       },
       "copies": {
