@@ -66,7 +66,10 @@
     "benefitsSection": {
       "moduleShouldDisplay": true,
       "logo": {
-        "globe": "glob.svg"
+      "globe": "glob.svg",
+        "tv": "tv.svg",
+        "download": "download.svg"
+      
       },
       "copies": {
         "en": {
