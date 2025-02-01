@@ -250,7 +250,7 @@
   {
     "id": 123458,
     "moduleType": "GENRE_CARROUSEL",
-    "moduleShouldDisplay": true,
+    "moduleShouldDisplay": false,
     "copies": {
       "en": {
         "title": "Find Iconic Entertainment",
