@@ -274,6 +274,145 @@
   {
     "id": 1234510,
     "moduleType": "FAQ",
-    "moduleShouldDisplay": true
+    "moduleShouldDisplay": true,
+    "copies": {
+      "en": {
+      "title": "Frequently asked questions",
+      "pk": [
+        {
+          "title": "What is STARZPLAY?",
+          "content": "STARZPLAY by Cinepax is a subscription video on demand (SVOD) service that streams thousands of blockbuster Hollywood movies, TV shows, documentaries, kid's entertainment and same-day-as-the-US series – plus dedicated Pakistani and Bollywood content."
+        },
+        {
+          "title": "How do I Sign Up or Log In?",
+          "content": "Go to starzplay.com and click on Sign up. You may fill out the required fields in the Sign-up form."
+        },
+        {
+          "title": "What payment options are available?",
+          "content": "You can pay via these methods: Credit card, STARZPLAY Voucher, iTunes, Google Play, or Mobile operator (if applicable)."
+        },
+        {
+          "title": "How do I cancel?",
+          "content": "Login with your existing account details and head over to Settings > Payment where you can deactivate your account. Remember, your login details will remain valid. You are always welcome back and to reactivate your account, you'll need to enter correct payment details. We want to add that if you subscribed using iTunes or Google Wallet, please unsubscribe using iTunes or Google Wallet and not the previous steps."
+        }
+      ],
+      "default": [
+        {
+          "title": "What is STARZPLAY?",
+          "content": "STARZPLAY is a subscription video-on-demand service that streams Hollywood movies, series, documentaries, kids’ entertainment and same-time-as-the-US series – plus dedicated Arabic content. The service carries thousands of premium titles including exclusive STARZ Original content such as Power, Outlander, Spartacus and The White Queen. Also, the STARZPLAY Original such as Baghdad Central."
+        },
+        {
+          "title": "How do I Sign Up or Log In?",
+          "content": "Go to starzplay.com and click on Sign up. You may fill out the required fields in the Sign-up form."
+        },
+        {
+          "title": "What payment options are available?",
+          "content": "You can pay via these methods: Credit card, STARZPLAY Voucher, iTunes, Google Play, or Mobile operator (if applicable)."
+        },
+        {
+          "title": "I am interested in a subscription how do I activate it?",
+          "content": "If you are new users, you’ll be able to do this during the sign up process. Once you complete the STARZPLAY subscription, you’ll be prompted to activate available subscriptions"
+        },
+        {
+          "title": "How do I cancel?",
+          "content": "Login with your existing account details and head over to Settings > Payment where you can deactivate your account. Remember, your login details will remain valid. You are always welcome back and to reactivate your account, you'll need to enter correct payment details. We want to add that if you subscribed using iTunes or Google Wallet, please unsubscribe using iTunes or Google Wallet and not the previous steps."
+        }
+      ]
+    },
+    "fr": {
+      "title": "Foire Aux Questions",
+      "pk": [
+        {
+          "title": "Qu'est-ce que STARZPLAY ?",
+          "content": "STARZPLAY est un service de vidéo à la demande par abonnement qui diffuse des films hollywoodiens, des séries, des documentaires, des divertissements pour enfants et des séries en simultané avec les États-Unis, ainsi que du contenu arabe dédié. Le service propose des milliers de titres premium, y compris du contenu exclusif STARZ Original tels que Power, Outlander, Spartacus et The White Queen ainsi que du contenu STARZPLAY Original comme Bagdad Central."
+        },
+        {
+          "title": "Comment m'inscrire ou me connecter?",
+          "content": "Allez sur starzplay.com et cliquez sur S'inscrire. Vous pouvez remplir les champs obligatoires du formulaire d'inscription ou utiliser vos informations de connexion aux réseaux sociaux."
+        },
+        {
+          "title": "Quelles options de paiement sont disponibles?",
+          "content": "Vous pouvez payer via ces méthodes: carte de crédit, code promo STARZPLAY, iTunes, Google Play ou opérateur mobile (le cas échéant)."
+        },
+        {
+          "title": "Je suis intéressé par un abonnement, comment puis-je l'activer ?",
+          "content": "Si vous êtes un nouvel utilisateur, vous pourrez le faire au cours de l'inscription. Après avoir complété l'inscription à l'abonnement STARZPLAY, vous serez invité à activer les abonnements disponibles"
+        },
+        {
+          "title": "Comment puis-je annuler ?",
+          "content": "Connectez-vous avec les détails de votre compte existant et accédez aux Paramètres > Paiement où vous pouvez désactiver votre compte.N'oubliez pas, vos informations de connexion resteront valides. Vous êtes toujours le(la) bienvenu(e) et pour réactiver votre compte, vous devrez saisir les informations de paiement correctes.Nous voudrions ajouter que si vous êtes abonné à l'aide d'i-Tunes ou Google Wallet, s'il vous plaît désabonner en utilisant i-Tunes ou Google Wallet, et non les étapes précédentes."
+        }
+      ],
+      "default": [
+        {
+          "title": "Qu'est-ce que STARZPLAY ?",
+          "content": "STARZPLAY est un service de vidéo à la demande par abonnement qui diffuse des films hollywoodiens, des séries, des documentaires, des divertissements pour enfants et des séries en simultané avec les États-Unis, ainsi que du contenu arabe dédié. Le service propose des milliers de titres premium, y compris du contenu exclusif STARZ Original tels que Power, Outlander, Spartacus et The White Queen ainsi que du contenu STARZPLAY Original comme Bagdad Central."
+        },
+        {
+          "title": "Comment m'inscrire ou me connecter?",
+          "content": "Allez sur starzplay.com et cliquez sur S'inscrire. Vous pouvez remplir les champs obligatoires du formulaire d'inscription ou utiliser vos informations de connexion aux réseaux sociaux."
+        },
+        {
+          "title": "Quelles options de paiement sont disponibles?",
+          "content": "Vous pouvez payer via ces méthodes: carte de crédit, code promo STARZPLAY, iTunes, Google Play ou opérateur mobile (le cas échéant)."
+        },
+        {
+          "title": "Je suis intéressé par un abonnement, comment puis-je l'activer ?",
+          "content": "Si vous êtes un nouvel utilisateur, vous pourrez le faire au cours de l'inscription. Après avoir complété l'inscription à l'abonnement STARZPLAY, vous serez invité à activer les abonnements disponibles"
+        },
+        {
+          "title": "Comment puis-je annuler ?",
+          "content": "Connectez-vous avec les détails de votre compte existant et accédez aux Paramètres > Paiement où vous pouvez désactiver votre compte.N'oubliez pas, vos informations de connexion resteront valides. Vous êtes toujours le(la) bienvenu(e) et pour réactiver votre compte, vous devrez saisir les informations de paiement correctes.Nous voudrions ajouter que si vous êtes abonné à l'aide d'i-Tunes ou Google Wallet, s'il vous plaît désabonner en utilisant i-Tunes ou Google Wallet, et non les étapes précédentes."
+        }
+      ]
+    },
+    "ar": {
+      "title": "الأسئلة الشائعة",
+      "pk": [
+        {
+          "title": "ما هي STARZPLAY؟",
+          "content": "STARZPLAY هي خدمة الاشتراك بالفيديو حسب الطلب، وتوفر أفضل محتوى ترفيهي، يشمل أفلام هوليوود والمسلسلات التلفزيونية والبرامج الوثائقية وبرامج الأطفال، بالإضافة إلى توفير الحلقات الجديدة من أشهر المسلسلات للمشتركين في نفس وقت عرضها في الولايات المتحدة. كما تقدم المنصة المحتوى العربي. كما تقدم الخدمة آلاف العروض الاستثنائية، من ضمنها محتويات أصلية حصرية لمشتركي 'ستارز' مثل \"باور\" و\"آوت لاندر\" و\"سبارتاكوس\" و\"ذا وايت كوين، بالإضافة إلى أعمال STARZPLAY الأصلية مثل بغداد سنترال."
+        },
+        {
+          "title": "كيف أستطيع الاشتراك أو تسجيل الدخول؟",
+          "content": "اذهب إلى starzplay.com واضغط على اشتراك. يمكنك ملء الحقول المطلوبة في نموذج الاشتراك."
+        },
+        {
+          "title": "ما هي اختيارات الدفع المتوفرة؟",
+          "content": "يمكنك الدفع من خلال هذه الطرق: بطاقة الائتمان أو قسيمة STARZPLAY أو iTunes أو Google Play أو مشغل الهاتف المحمول (إن أمكن)."
+        },
+        {
+          "title": "أنا مهتم باشتراك، كيف يمكنني تفعيله؟",
+          "content": "إذا كنت مستخدم جديد، ستتمكن من القيام بذلك أثناء الاشتراك. بمجرد اكمال عملية اشتراكك في STARZPLAY، سيتم سؤالك عن تفعيل الاشتراكات المتاحة."
+        },
+        {
+          "title": "كيف أستطيع الالغاء؟",
+          "content": "سجل الدخول مستخدماً تفاصيل حسابك الحالي ثم توجه إلى الإعدادات > المدفوعات حيث يمكنك إلغاء حسابك.تذكر، ستبقى تفاصيل تسجيل الدخول الخاصة بك صالحة. نرحب دائمًا بعودتك ولإعادة تفعيل حسابك، ستحتاج إلى إدخال تفاصيل الدفع الصحيحة. نريد أن نضيف أنه إذا اشتركت باستخدام ITunes، أو Google Play، فيرجى إلغاء الاشتراك باستخدام iTunes أو Google Play وليس الخطوات السابقة"
+        }
+      ],
+      "default": [
+        {
+          "title": "ما هي STARZPLAY؟",
+          "content": "STARZPLAY هي خدمة الاشتراك بالفيديو حسب الطلب، وتوفر أفضل محتوى ترفيهي، يشمل أفلام هوليوود والمسلسلات التلفزيونية والبرامج الوثائقية وبرامج الأطفال، بالإضافة إلى توفير الحلقات الجديدة من أشهر المسلسلات للمشتركين في نفس وقت عرضها في الولايات المتحدة. كما تقدم المنصة المحتوى العربي. كما تقدم الخدمة آلاف العروض الاستثنائية، من ضمنها محتويات أصلية حصرية لمشتركي 'ستارز' مثل \"باور\" و\"آوت لاندر\" و\"سبارتاكوس\" و\"ذا وايت كوين، بالإضافة إلى أعمال STARZPLAY الأصلية مثل بغداد سنترال."
+        },
+        {
+          "title": "كيف أستطيع الاشتراك أو تسجيل الدخول؟",
+          "content": "اذهب إلى starzplay.com واضغط على اشتراك. يمكنك ملء الحقول المطلوبة في نموذج الاشتراك."
+        },
+        {
+          "title": "ما هي اختيارات الدفع المتوفرة؟",
+          "content": "يمكنك الدفع من خلال هذه الطرق: بطاقة الائتمان أو قسيمة STARZPLAY أو iTunes أو Google Play أو مشغل الهاتف المحمول (إن أمكن)."
+        },
+        {
+          "title": "أنا مهتم باشتراك، كيف يمكنني تفعيله؟",
+          "content": "إذا كنت مستخدم جديد، ستتمكن من القيام بذلك أثناء الاشتراك. بمجرد اكمال عملية اشتراكك في STARZPLAY، سيتم سؤالك عن تفعيل الاشتراكات المتاحة."
+        },
+        {
+          "title": "كيف أستطيع الالغاء؟",
+          "content": "سجل الدخول مستخدماً تفاصيل حسابك الحالي ثم توجه إلى الإعدادات > المدفوعات حيث يمكنك إلغاء حسابك.تذكر، ستبقى تفاصيل تسجيل الدخول الخاصة بك صالحة. نرحب دائمًا بعودتك ولإعادة تفعيل حسابك، ستحتاج إلى إدخال تفاصيل الدفع الصحيحة. نريد أن نضيف أنه إذا اشتركت باستخدام ITunes، أو Google Play، فيرجى إلغاء الاشتراك باستخدام iTunes أو Google Play وليس الخطوات السابقة"
+        }
+      ]
+    }
+    }
   }
 ]
