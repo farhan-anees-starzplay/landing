@@ -29,11 +29,12 @@
           "default": "The Home of Entertainment and Sports"
         },
         "subTitle": "Watch the latest series, movies and the biggest live sporting events.",
-        "cta": ""
+        "cta": "JOIN NOW"
       },
       "ar": {
         "title": {
-          "default": "وجهتك لعالم الترفيه والرياضة"
+          "default": "وجهتك لعالم الترفيه والرياضة",
+          "cta": "Join Now"
         },
         "subTitle": "شاهد أحدث المسلسلات والأفلام وأضخم الأحداث الرياضية المباشرة.",
         "cta": "اشترك الآن"
