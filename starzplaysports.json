@@ -107,7 +107,7 @@
     "id": 6736,
     "moduleType": "IMAGES_CARROUSEL_AND_CHANNELS_LOGOS",
     "moduleShouldDisplay": true,
-    "channelsLogoAtBottom": false,
+    "channelsLogoAtBottom": true,
     "copies": {
       "en": {
         "title": "Enjoy live and exclusive coverage across UFC, Serie A, Cricket, Rugby and more!",
