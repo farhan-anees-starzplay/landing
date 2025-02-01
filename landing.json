@@ -250,7 +250,7 @@
   {
     "id": 123458,
     "moduleType": "GENRE_CARROUSEL",
-    "moduleShouldDisplay": false,
+    "moduleShouldDisplay": true,
     "copies": {
       "en": {
         "title": "Find Iconic Entertainment",
@@ -389,19 +389,19 @@
           "/resources/images/landing/v2/default/test/module5_carousel2.png",
           "/resources/images/landing/v2/default/test/module5_carousel3.png"
         ],
-        "6": [
+                "6": [
           "/resources/images/landing/v2/default/test/module5_carousel4.png",
           "/resources/images/landing/v2/default/test/module5_carousel1.png",
           "/resources/images/landing/v2/default/test/module5_carousel2.png",
           "/resources/images/landing/v2/default/test/module5_carousel3.png"
         ],
-        "7": [
+                "7": [
           "/resources/images/landing/v2/default/test/module5_carousel4.png",
           "/resources/images/landing/v2/default/test/module5_carousel1.png",
           "/resources/images/landing/v2/default/test/module5_carousel2.png",
           "/resources/images/landing/v2/default/test/module5_carousel3.png"
         ],
-        "9": [
+                "9": [
           "/resources/images/landing/v2/default/test/module5_carousel4.png",
           "/resources/images/landing/v2/default/test/module5_carousel1.png",
           "/resources/images/landing/v2/default/test/module5_carousel2.png",
