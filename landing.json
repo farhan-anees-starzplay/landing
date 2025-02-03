@@ -22,7 +22,7 @@
     "id": 123450,
     "moduleType": "HERO",
     "moduleShouldDisplay": true,
-    "subscriptionLogo": true,
+    "subscriptionLogo": false,
     "copies": {
       "en": {
         "title": {
@@ -64,7 +64,7 @@
       }
     },
     "benefitsSection": {
-      "moduleShouldDisplay": false,
+      "moduleShouldDisplay": true,
       "logo": {
         "globe": "glob.svg",
         "tv": "tv.svg",
@@ -301,6 +301,54 @@
           "fr": "/resources/images/landing/generic/genre4_fr.png"
         }
       },
+      {
+        "id": "4",
+        "image": {
+          "en": "/resources/images/landing/generic/genre5_en.png",
+          "ar": "/resources/images/landing/generic/genre5_ar.png",
+          "fr": "/resources/images/landing/generic/genre5_fr.png"
+        }
+      },
+      {
+        "id": "5",
+        "image": {
+          "en": "/resources/images/landing/generic/genre6_en.png",
+          "ar": "/resources/images/landing/generic/genre6_ar.png",
+          "fr": "/resources/images/landing/generic/genre6_fr.png"
+        }
+      },
+      {
+        "id": "6",
+        "image": {
+          "en": "/resources/images/landing/generic/genre7_en.png",
+          "ar": "/resources/images/landing/generic/genre7_ar.png",
+          "fr": "/resources/images/landing/generic/genre7_fr.png"
+        }
+      },
+      {
+        "id": "7",
+        "image": {
+          "en": "/resources/images/landing/generic/genre8_en.png",
+          "ar": "/resources/images/landing/generic/genre8_ar.png",
+          "fr": "/resources/images/landing/generic/genre8_fr.png"
+        }
+      },
+      {
+        "id": "8",
+        "image": {
+          "en": "/resources/images/landing/generic/genre9_en.png",
+          "ar": "/resources/images/landing/generic/genre9_ar.png",
+          "fr": "/resources/images/landing/generic/genre9_fr.png"
+        }
+      },
+      {
+        "id": "9",
+        "image": {
+          "en": "/resources/images/landing/generic/genre10_en.png",
+          "ar": "/resources/images/landing/generic/genre10_ar.png",
+          "fr": "/resources/images/landing/generic/genre10_fr.png"
+        }
+      }
     ],
     "images": {
       "desktop": {
@@ -417,18 +465,6 @@
           {
             "title": "How do I Sign Up or Log In?",
             "content": "Go to starzplay.com and click on Sign up. You may fill out the required fields in the Sign-up form."
-          },
-          {
-            "title": "What payment options are available?",
-            "content": "You can pay via these methods: Credit card, STARZPLAY Voucher, iTunes, Google Play, or Mobile operator (if applicable)."
-          },
-          {
-            "title": "I am interested in a subscription how do I activate it?",
-            "content": "If you are new users, you’ll be able to do this during the sign up process. Once you complete the STARZPLAY subscription, you’ll be prompted to activate available subscriptions"
-          },
-          {
-            "title": "How do I cancel?",
-            "content": "Login with your existing account details and head over to Settings > Payment where you can deactivate your account. Remember, your login details will remain valid. You are always welcome back and to reactivate your account, you'll need to enter correct payment details. We want to add that if you subscribed using iTunes or Google Wallet, please unsubscribe using iTunes or Google Wallet and not the previous steps."
           }
         ]
       },
