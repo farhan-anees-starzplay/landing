@@ -22,7 +22,7 @@
     "id": 123450,
     "moduleType": "HERO",
     "moduleShouldDisplay": true,
-    "subscriptionLogo": false,
+    "subscriptionLogo": true,
     "copies": {
       "en": {
         "title": {
