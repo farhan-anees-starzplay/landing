@@ -446,7 +446,19 @@
           },
           {
             "title": "How do I Sign Up or Log In?",
-            "content": "Go to starzplay.com and click on Sign up. You may fill out the required fields in the Sign-up form."
+            "content": """
+We support the following payment options such as,
+- Credit Card
+- Debit Card
+- PayPal
+- Mada
+- Apple In-App Purchase (Apple Devices Only)
+- Google In-App Purchase (Android Devices)
+- Telco Billing
+- Voucher
+
+For more payment-related concerns, visit FAQs section.
+"""
           },
           {
             "title": "What payment options are available?",
