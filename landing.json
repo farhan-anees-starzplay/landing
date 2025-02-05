@@ -446,19 +446,7 @@
           },
           {
             "title": "How do I Sign Up or Log In?",
-            "content": """
-We support the following payment options such as,
-- Credit Card
-- Debit Card
-- PayPal
-- Mada
-- Apple In-App Purchase (Apple Devices Only)
-- Google In-App Purchase (Android Devices)
-- Telco Billing
-- Voucher
-
-For more payment-related concerns, visit FAQs section.
-"""
+            "content": "We support the following payment options such as,\n- Credit Card\n- Debit Card\n- PayPal\nFor more payment-related concerns, visit FAQs section."
           },
           {
             "title": "What payment options are available?",
