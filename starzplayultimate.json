@@ -1,321 +1,388 @@
 [
-  {
-    "moduleType": "SEO",
-    "page": "starzplayultimate",
-    "moduleShouldDisplay": true,
-    "copies": {
-      "en": {
-        "title": "STARZPLAY MAX | Premium Sports, Series & Movies",
-        "description": "Discover STARZPLAY MAX—your ultimate streaming destination for premium sports, blockbuster movies, and hit series. Subscribe today for the best in entertainment!"
-      },
-      "ar": {
-        "title": "STARZPLAY MAX | رياضة مميزة، مسلسلات وأفلام",
-        "description": "اكتشف STARZPLAY MAX — وجهتك النهائية لبث الرياضات المميزة، الأفلام الرائجة، والمسلسلات المميزة. اشترك اليوم لتجربة الترفيه الأفضل!"
-      },
-      "fr": {
-        "title": "STARZPLAY MAX | Sports, Séries et Films Premium",
-        "description": "Découvrez STARZPLAY MAX — votre destination ultime pour le streaming de sports premium, de films à succès et de séries incontournables. Abonnez-vous aujourd'hui pour le meilleur du divertissement !"
-      }
-    }
-  },
-  {
-    "id": 123450,
-    "moduleType": "HERO",
-    "moduleShouldDisplay": true,
-   
-    "copies": {
-      "en": {
-        "title": {
-          "default": "Your Destination for Live Sports and Entertainment"
-        },
-        "subTitle": "Live and exclusive coverage of the biggest sporting events PLUS get the latest series and movies all in one place.",
-        "cta": "Join Now"
-      },
-      "ar": {
-        "title": {
-          "default": "وجهتك للترفيه والأحداث الرياضية المباشرة"
-        },
-        "subTitle": "تغطية مباشرة وحصرية لأضخم الأحداث الرياضية، بالإضافة إلى أحدث المسلسلات والأفلام كله في مكان واحد.",
-        "cta": "اشترك الآن"
-      },
-      "fr": {
-        "title": {
-          "default": "Votre destination pour le sport en direct et le divertissement"
-        },
-        "subTitle": "Les plus grands événements sportifs en direct et en exclusivité, ainsi que les dernières séries et films, tout en un seul endroit.",
-        "cta": "Rejoindre maintenant"
-      }
-    },
-    "images": {
-      "desktop": {
-        "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-lg-{dir}.png",
-       
-        "heroImageUtmDesktop": "/resources/images/promoLanding/{subscriptionName}/utm-content/{compainName}-lg-{dir}.png"
-      },
-      "tablet": {
-        "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-tab.png",
-        "heroImageCountry": "/resources/images/promoLanding/{subscriptionName}/{countryCode}-tab.png",
-        "heroImageUtmDesktop": "/resources/images/promoLanding/{subscriptionName}/utm-content/{compainName}-tab.png"
-      },
-      "mobile": {
-        "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-mob.png",
-        "heroImageCountry": "/resources/images/promoLanding/{subscriptionName}/{countryCode}-mob.png",
-        "heroImageUtmDesktop": "/resources/images/promoLanding/{subscriptionName}/utm-content/{compainName}-mob.png"
-      }
-    },
-    "benefitsSection": {
-      "moduleShouldDisplay": false,
-      "logo": {
-        "globe": "glob.svg",
-        "tv": "tv.svg",
-        "download": "download.svg",
-        "bag": "bag.svg",
-        "goodTick": "goodTick.svg"
-      },
-      "copies": {
-        "en": {
-          "globe": "Stream in Multi-Languages",
-          "bag": "Rent or Buy the Latest Releases",
-          "download": "Download and Watch Offline",
-          "goodTick": "Watch anytime, anywhere",
-          "tv": "Live Sports & Entertainment",
-          "ad-free": "Ad-Free",
-          "free-tv": "60+ Free TV Channels"
-        },
-        "ar": {
-          "globe": "بث بلغات متعددة",
-          "bag": "استأجر أو اشترِ أحدث الإصدارات",
-          "download": "قم بالتنزيل وشاهد بدون إنترنت",
-          "goodTick": "شاهد في أي وقت ومن أي مكان",
-          "tv": "الرياضات والترفيه المباشر",
-          "ad-free": "بدون إعلانات",
-          "free-tv": "أكثر من 60 قناة تلفزيونية مجانية"
-        },
-        "fr": {
-          "globe": "Diffusez en plusieurs langues",
-          "bag": "Louez ou achetez les dernières nouveautés",
-          "download": "Téléchargez et regardez hors ligne",
-          "goodTick": "Regardez à tout moment, n'importe où",
-          "tv": "Sports et divertissement en direct",
-          "ad-free": "Sans Publicité",
-          "free-tv": "Plus de 60 chaînes TV gratuites"
-        }
-      }
-    }
-  },
-      {
-      "id": 123457,
-      "moduleType": "CHANNELS_LOGOS_CARROUSEL",
+    {
+      "moduleType": "SEO",
+      "page": "starzplayultimate",
       "moduleShouldDisplay": true,
       "copies": {
         "en": {
-          "title": "What will your subscription include?",
-          "subTitle": "You will be enjoying a variety of entertainment & sports under one subscription",
-          "cta": "JOIN NOW"
+          "title": "STARZPLAY MAX | Premium Sports, Series & Movies",
+          "description": "Discover STARZPLAY MAX—your ultimate streaming destination for premium sports, blockbuster movies, and hit series. Subscribe today for the best in entertainment!"
         },
         "ar": {
-          "title": "ماذا يتضمن اشتراكك؟",
-          "subTitle": "ستتمتع بمجموعة متنوعة من الترفيه والرياضة تحت اشتراك واحد",
-          "cta": "اشترك الآن"
+          "title": "STARZPLAY MAX | رياضة مميزة، مسلسلات وأفلام",
+          "description": "اكتشف STARZPLAY MAX — وجهتك النهائية لبث الرياضات المميزة، الأفلام الرائجة، والمسلسلات المميزة. اشترك اليوم لتجربة الترفيه الأفضل!"
         },
         "fr": {
-          "title": "Que comprend votre abonnement ?",
-          "subTitle": "Vous profiterez d'un large éventail de divertissement et de sport sous un abonnement unique",
-          "cta": "Rejoindre maintenant"
+          "title": "STARZPLAY MAX | Sports, Séries et Films Premium",
+          "description": "Découvrez STARZPLAY MAX — votre destination ultime pour le streaming de sports premium, de films à succès et de séries incontournables. Abonnez-vous aujourd'hui pour le meilleur du divertissement !"
         }
       }
     },
-  {
-    "id": 1278454,
-    "moduleType": "BASIC",
-    "moduleShouldDisplay": true,
-    "copies": {
-      "en": {
-        "title": "Trending Now",
-        "subTitle": "",
-        "cta": "JOIN NOW"
+    {
+      "id": 123450,
+      "moduleType": "HERO",
+      "moduleShouldDisplay": true,
+      "subscriptionLogo": false,
+      "copies": {
+        "en": {
+          "title": {
+            "default": "Your Destination for Live Sports and Entertainment"
+          },
+          "subTitle": "Live and exclusive coverage of the biggest sporting events PLUS get the latest series and movies all in one place.",
+          "cta": "Join Now"
+        },
+        "ar": {
+          "title": {
+            "default": "وجهتك للترفيه والأحداث الرياضية المباشرة"
+          },
+          "subTitle": "تغطية مباشرة وحصرية لأضخم الأحداث الرياضية، بالإضافة إلى أحدث المسلسلات والأفلام كله في مكان واحد.",
+          "cta": "اشترك الآن"
+        },
+        "fr": {
+          "title": {
+            "default": "Votre destination pour le sport en direct et le divertissement"
+          },
+          "subTitle": "Les plus grands événements sportifs en direct et en exclusivité, ainsi que les dernières séries et films, tout en un seul endroit.",
+          "cta": "Rejoindre maintenant"
+        }
       },
-      "ar": {
-        "title": "الأكثر مشاهدة الآن",
-        "subTitle": "",
-        "cta": "اشترك الآن"
+      "images": {
+        "desktop": {
+          "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-lg-{dir}.png",
+          "heroImageCountry": "/resources/images/promoLanding/{subscriptionName}/{countryCode}-lg-{dir}.png",
+          "heroImageUtmDesktop": "/resources/images/promoLanding/{subscriptionName}/utm-content/{compainName}-lg-{dir}.png"
+        },
+        "tablet": {
+          "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-tab.png",
+          "heroImageCountry": "/resources/images/promoLanding/{subscriptionName}/{countryCode}-tab.png",
+          "heroImageUtmDesktop": "/resources/images/promoLanding/{subscriptionName}/utm-content/{compainName}-tab.png"
+        },
+        "mobile": {
+          "heroImage": "/resources/images/promoLanding/{subscriptionName}/default-mob.png",
+          "heroImageCountry": "/resources/images/promoLanding/{subscriptionName}/{countryCode}-mob.png",
+          "heroImageUtmDesktop": "/resources/images/promoLanding/{subscriptionName}/utm-content/{compainName}-mob.png"
+        }
       },
-      "fr": {
-        "title": "Tendance actuelle",
-        "subTitle": "",
-        "cta": "Choisissez un plan"
+      "benefitsSection": {
+        "moduleShouldDisplay": false,
+        "logo": {
+          "globe": "glob.svg",
+          "tv": "tv.svg",
+          "download": "download.svg",
+          "bag": "bag.svg",
+          "goodTick": "goodTick.svg"
+        },
+        "copies": {
+          "en": {
+            "globe": "Stream in Multi-Languages",
+            "bag": "Rent or Buy the Latest Releases",
+            "download": "Download and Watch Offline",
+            "goodTick": "Watch anytime, anywhere",
+            "tv": "Live Sports & Entertainment",
+            "ad-free": "Ad-Free",
+            "free-tv": "60+ Free TV Channels"
+          },
+          "ar": {
+            "globe": "بث بلغات متعددة",
+            "bag": "استأجر أو اشترِ أحدث الإصدارات",
+            "download": "قم بالتنزيل وشاهد بدون إنترنت",
+            "goodTick": "شاهد في أي وقت ومن أي مكان",
+            "tv": "الرياضات والترفيه المباشر",
+            "ad-free": "بدون إعلانات",
+            "free-tv": "أكثر من 60 قناة تلفزيونية مجانية"
+          },
+          "fr": {
+            "globe": "Diffusez en plusieurs langues",
+            "bag": "Louez ou achetez les dernières nouveautés",
+            "download": "Téléchargez et regardez hors ligne",
+            "goodTick": "Regardez à tout moment, n'importe où",
+            "tv": "Sports et divertissement en direct",
+            "ad-free": "Sans Publicité",
+            "free-tv": "Plus de 60 chaînes TV gratuites"
+          }
+        }
       }
     },
-    "images": {
-      "desktop": "/resources/images/promoLanding/starzplayultimate/1basic-lg.png",
-      "mobile": "/resources/images/promoLanding/starzplayultimate/1basic-mob.png"
-    }
-  },
-  {
-    "id": 123453,
-    "moduleType": "PLAN_SELECTION",
-    "moduleShouldDisplay": true,
-    "copies": {
-      "en": {
-        "title": "Select your plan",
-        "subTitle": "Unlock your {subscriptionName} Subscription and pick your preferred plan",
-        "addOnAdded": "{subscriptionName} is added to subscription",
-        "addOnNotAdded": "Add {subscriptionName} to your subscription",
-        "cta": "Choose Plan"
+    {
+      "id": 1278454,
+      "moduleType": "BASIC",
+      "moduleShouldDisplay": true,
+      "copies": {
+        "en": {
+          "title": "Trending Now",
+          "subTitle": "",
+          "cta": "JOIN NOW"
+        },
+        "ar": {
+          "title": "الأكثر مشاهدة الآن",
+          "subTitle": "",
+          "cta": "اشترك الآن"
+        },
+        "fr": {
+          "title": "Tendance actuelle",
+          "subTitle": "",
+          "cta": "Choisissez un plan"
+        }
       },
-      "ar": {
-        "title": "اختر خطتك",
-        "subTitle": "استمتع باشتراكك في {subscriptionName} واختر الخطة التي تفضلها.",
-        "addOnAdded": "تم إضافة {subscriptionName} إلى اشتراكك",
-        "addOnNotAdded": "أضف {subscriptionName} إلى اشتراكك",
-        "cta": "اختر الخطة"
-      },
-      "fr": {
-        "title": "Choisissez votre plan",
-        "subTitle": "Activez votre abonnement {subscriptionName} et choisissez votre plan préféré.",
-        "addOnAdded": "{subscriptionName} a été ajouté à votre abonnement",
-        "addOnNotAdded": "Ajoutez {subscriptionName} à votre abonnement",
-        "cta": "Choisissez un plan"
-      }
-    }
-  },
-  {
-    "id": 29387,
-    "moduleType": "IMAGES_CARROUSEL_AND_CHANNELS_LOGOS",
-    "moduleShouldDisplay": true,
-    "channelsLogoAtBottom": false,
-    "copies": {
-      "en": {
-        "title": "Home of Sports",
-        "subTitle": "Enjoy live and exclusive coverage of the biggest sporting events across UFC, football, cricket, and more.",
-        "cta": "JOIN NOW"
-      },
-      "ar": {
-        "title": "وجهتك لعالم الرياضة",
-        "subTitle": "استمتع بتغطية مباشرة وحصرية لأضخم الأحداث الرياضية عبر UFC، وكرة القدم، والكريكيت، والمزيد.",
-        "cta": "اشترك الآن"
-      },
-      "fr": {
-        "title": "La destination du sport",
-        "subTitle": "Profitez d’une couverture en direct et exclusive des plus grands événements sportifs : UFC, football, cricket, et plus encore.",
-        "cta": "Utiliser maintenant"
+      "images": {
+        "desktop": "/resources/images/promoLanding/starzplayultimate/1basic-lg.png",
+        "mobile": "/resources/images/promoLanding/starzplayultimate/1basic-mob.png"
       }
     },
-    "images": {
-      "desktop": [
-        "/resources/images/promoLanding/starzplayultimate/3carousel-1-lg.png",
-        "/resources/images/promoLanding/starzplayultimate/3carousel-2-lg.png",
-        "/resources/images/promoLanding/starzplayultimate/3carousel-3-lg.png",
-        "/resources/images/promoLanding/starzplayultimate/3carousel-4-lg.png"
-      ]
-    },
-    "channelsLogoimages": {
-      "desktop": {
-        "starzplay-white": "/images/logos/subscriptions/starzplay-white.png",
-        "wb-white": "/images/logos/subscriptions/wb-white.png",
-        "universall": "/images/logos/subscriptions/universal-white.png",
-        "paramount-white": "/images/logos/subscriptions/paramount-white.png",
-        "dc-white": "/images/logos/subscriptions/dc-white.png",
-        "noorplay-white": "/images/logos/subscriptions/noorplay-white.png",
-        "discovery": "/images/logos/subscriptions/discovery-white.png"
-      }
-    }
-  },
-  {
-    "id": 29387,
-    "moduleType": "IMAGES_CARROUSEL_AND_CHANNELS_LOGOS",
-    "moduleShouldDisplay": true,
-    "channelsLogoAtBottom": false,
-    "copies": {
-      "en": {
-        "title": "Newest Releases",
-        "subTitle": "Find your next watch with the latest series and movies.",
-        "cta": "JOIN NOW"
-      },
-      "ar": {
-        "title": "أحدث الإصدارات",
-        "subTitle": "استمتع بمشاهدة عمل جديد من بين أحدث الأفلام والمسلسلات",
-        "cta": "اشترك الآن"
-      },
-      "fr": {
-        "title": "Nouveautés",
-        "subTitle": "Découvrez les dernières séries et films pour votre prochain visionnage.",
-        "cta": "Utiliser maintenant"
+    {
+      "id": 123453,
+      "moduleType": "PLAN_SELECTION",
+      "moduleShouldDisplay": true,
+      "copies": {
+        "en": {
+          "title": "Select your plan",
+          "subTitle": "Unlock your {subscriptionName} Subscription and pick your preferred plan",
+          "addOnAdded": "{subscriptionName} is added to subscription",
+          "addOnNotAdded": "Add {subscriptionName} to your subscription",
+          "cta": "Choose Plan"
+        },
+        "ar": {
+          "title": "اختر خطتك",
+          "subTitle": "استمتع باشتراكك في {subscriptionName} واختر الخطة التي تفضلها.",
+          "addOnAdded": "تم إضافة {subscriptionName} إلى اشتراكك",
+          "addOnNotAdded": "أضف {subscriptionName} إلى اشتراكك",
+          "cta": "اختر الخطة"
+        },
+        "fr": {
+          "title": "Choisissez votre plan",
+          "subTitle": "Activez votre abonnement {subscriptionName} et choisissez votre plan préféré.",
+          "addOnAdded": "{subscriptionName} a été ajouté à votre abonnement",
+          "addOnNotAdded": "Ajoutez {subscriptionName} à votre abonnement",
+          "cta": "Choisissez un plan"
+        }
       }
     },
-    "images": {
-      "desktop": [
-        "/resources/images/promoLanding/starzplayultimate/4carousel-1-lg.webp",
-        "/resources/images/promoLanding/starzplayultimate/4carousel-2-lg.webp",
-        "/resources/images/promoLanding/starzplayultimate/4carousel-3-lg.webp",
-        "/resources/images/promoLanding/starzplayultimate/4carousel-4-lg.webp",
-        "/resources/images/promoLanding/starzplayultimate/4carousel-5-lg.webp",
-        "/resources/images/promoLanding/starzplayultimate/4carousel-6-lg.webp"
-      ]
+    {
+      "id": 29387,
+      "moduleType": "IMAGES_CARROUSEL_AND_CHANNELS_LOGOS",
+      "moduleShouldDisplay": true,
+      "channelsLogoAtBottom": false,
+      "copies": {
+        "en": {
+          "title": "Home of Sports",
+          "subTitle": "Enjoy live and exclusive coverage of the biggest sporting events across UFC, football, cricket, and more.",
+          "cta": "JOIN NOW"
+        },
+        "ar": {
+          "title": "وجهتك لعالم الرياضة",
+          "subTitle": "استمتع بتغطية مباشرة وحصرية لأضخم الأحداث الرياضية عبر UFC، وكرة القدم، والكريكيت، والمزيد.",
+          "cta": "اشترك الآن"
+        },
+        "fr": {
+          "title": "La destination du sport",
+          "subTitle": "Profitez d’une couverture en direct et exclusive des plus grands événements sportifs : UFC, football, cricket, et plus encore.",
+          "cta": "Utiliser maintenant"
+        }
+      },
+      "images": {
+        "desktop": [
+          "/resources/images/promoLanding/starzplayultimate/3carousel-1-lg.png",
+          "/resources/images/promoLanding/starzplayultimate/3carousel-2-lg.png",
+          "/resources/images/promoLanding/starzplayultimate/3carousel-3-lg.png",
+          "/resources/images/promoLanding/starzplayultimate/3carousel-4-lg.png"
+        ]
+      },
+      "channelsLogoimages": {
+        "desktop": {
+          "starzplay-white": "/images/logos/subscriptions/starzplay-white.png",
+          "wb-white": "/images/logos/subscriptions/wb-white.png",
+          "universall": "/images/logos/subscriptions/universal-white.png",
+          "paramount-white": "/images/logos/subscriptions/paramount-white.png",
+          "dc-white": "/images/logos/subscriptions/dc-white.png",
+          "noorplay-white": "/images/logos/subscriptions/noorplay-white.png",
+          "discovery": "/images/logos/subscriptions/discovery-white.png"
+        }
+      }
     },
-    "channelsLogoimages": {
-      "desktop": {
-        "starzplay-white": "/images/logos/subscriptions/starzplay-white.png",
-        "wb-white": "/images/logos/subscriptions/wb-white.png",
-        "universall": "/images/logos/subscriptions/universal-white.png",
-        "paramount-white": "/images/logos/subscriptions/paramount-white.png",
-        "dc-white": "/images/logos/subscriptions/dc-white.png",
-        "noorplay-white": "/images/logos/subscriptions/noorplay-white.png",
-        "discovery": "/images/logos/subscriptions/discovery-white.png"
-      }
-    }
-  },
-  {
-    "id": 1278454,
-    "moduleType": "BASIC",
-    "moduleShouldDisplay": true,
-    "copies": {
-      "en": {
-        "title": "Straight from the Cinema",
-        "subTitle": "Enjoy blockbuster hits from the comfort of your sofa.",
-        "cta": "JOIN NOW"
+    {
+      "id": 29387,
+      "moduleType": "IMAGES_CARROUSEL_AND_CHANNELS_LOGOS",
+      "moduleShouldDisplay": true,
+      "channelsLogoAtBottom": false,
+      "copies": {
+        "en": {
+          "title": "Newest Releases",
+          "subTitle": "Find your next watch with the latest series and movies.",
+          "cta": "JOIN NOW"
+        },
+        "ar": {
+          "title": "أحدث الإصدارات",
+          "subTitle": "استمتع بمشاهدة عمل جديد من بين أحدث الأفلام والمسلسلات",
+          "cta": "اشترك الآن"
+        },
+        "fr": {
+          "title": "Nouveautés",
+          "subTitle": "Découvrez les dernières séries et films pour votre prochain visionnage.",
+          "cta": "Utiliser maintenant"
+        }
       },
-      "ar": {
-        "title": "مباشرةً من السينما",
-        "subTitle": "استمتع بأقوى الأعمال من راحة منزلك",
-        "cta": "اشترك الآن"
+      "images": {
+        "desktop": [
+          "/resources/images/promoLanding/starzplayultimate/4carousel-1-lg.webp",
+          "/resources/images/promoLanding/starzplayultimate/4carousel-2-lg.webp",
+          "/resources/images/promoLanding/starzplayultimate/4carousel-3-lg.webp",
+          "/resources/images/promoLanding/starzplayultimate/4carousel-4-lg.webp",
+          "/resources/images/promoLanding/starzplayultimate/4carousel-5-lg.webp",
+          "/resources/images/promoLanding/starzplayultimate/4carousel-6-lg.webp"
+        ]
       },
-      "fr": {
-        "title": "En direct des salles de cinéma",
-        "subTitle": "Savourez les blockbusters depuis votre canapé",
-        "cta": "Choisissez un plan"
+      "channelsLogoimages": {
+        "desktop": {
+          "starzplay-white": "/images/logos/subscriptions/starzplay-white.png",
+          "wb-white": "/images/logos/subscriptions/wb-white.png",
+          "universall": "/images/logos/subscriptions/universal-white.png",
+          "paramount-white": "/images/logos/subscriptions/paramount-white.png",
+          "dc-white": "/images/logos/subscriptions/dc-white.png",
+          "noorplay-white": "/images/logos/subscriptions/noorplay-white.png",
+          "discovery": "/images/logos/subscriptions/discovery-white.png"
+        }
       }
     },
-    "images": {
-      "desktop": "/resources/images/promoLanding/starzplayultimate/5basic-lg.png",
-      "mobile": "/resources/images/promoLanding/starzplayultimate/5basic-mob.png"
-    }
-  },
-  {
-    "id": 123459,
-    "moduleType": "VOUCHER_REDEMPTION",
-    "moduleShouldDisplay": true,
-    "copies": {
-      "en": {
-        "title": "Have a Gift Voucher?",
-        "subTitle": "",
-        "cta": "Redeem Now"
+    {
+      "id": 1278454,
+      "moduleType": "BASIC",
+      "moduleShouldDisplay": true,
+      "copies": {
+        "en": {
+          "title": "Straight from the Cinema",
+          "subTitle": "Enjoy blockbuster hits from the comfort of your sofa.",
+          "cta": "JOIN NOW"
+        },
+        "ar": {
+          "title": "مباشرةً من السينما",
+          "subTitle": "استمتع بأقوى الأعمال من راحة منزلك",
+          "cta": "اشترك الآن"
+        },
+        "fr": {
+          "title": "En direct des salles de cinéma",
+          "subTitle": "Savourez les blockbusters depuis votre canapé",
+          "cta": "Choisissez un plan"
+        }
       },
-      "ar": {
-        "title": "هل لديك قسيمة؟",
-        "subTitle": "",
-        "cta": "استبدل الآن"
-      },
-      "fr": {
-        "title": "Vous avez un code promo ?",
-        "subTitle": "",
-        "cta": "Utiliser maintenant"
+      "images": {
+        "desktop": "/resources/images/promoLanding/starzplayultimate/5basic-lg.png",
+        "mobile": "/resources/images/promoLanding/starzplayultimate/5basic-mob.png"
+      }
+    },
+    {
+      "id": 123459,
+      "moduleType": "VOUCHER_REDEMPTION",
+      "moduleShouldDisplay": true,
+      "copies": {
+        "en": {
+          "title": "Have a Gift Voucher?",
+          "subTitle": "",
+          "cta": "Redeem Now"
+        },
+        "ar": {
+          "title": "هل لديك قسيمة؟",
+          "subTitle": "",
+          "cta": "استبدل الآن"
+        },
+        "fr": {
+          "title": "Vous avez un code promo ?",
+          "subTitle": "",
+          "cta": "Utiliser maintenant"
+        }
+      }
+    },
+    {
+      "id": 1234510,
+      "moduleType": "FAQ",
+      "moduleShouldDisplay": true,
+      "copies": {
+        "en": {
+          "title": "Frequently asked questions",
+          "default": [
+            {
+              "title": "What is STARZPLAY MAX?",
+              "content": "STARZPLAY MAX is a premium subscription package that offers an extensive entertainment experience with a rich library of top Hollywood movies, exclusive TV shows, popular Arabic titles, documentaries, and kids’ entertainment. Subscribers can also enjoy same-time-as-the-US series and a variety of live and premium sports content. All of this comes with an ad-free experience, ensuring uninterrupted viewing of your favorite content."
+            },
+            {
+                "title": "What is the STARZPLAY MAX Season Pass?",
+                "content": "The STARZPLAY MAX Season Pass is an exclusive add-on that grants access to a specific sports tournament for its entire duration. It is included in the STARZPLAY MAX annual plan at no extra cost, while monthly plan subscribers can purchase it as an optional add-on. Once the tournament ends, the Season Pass expires, and a new pass will be required for the next season or any upcoming tournament. This ensures that you only pay for the sports events you want to watch."
+            },
+            {
+                "title": "What payment methods are supported to subscribe?",
+                "content": "We support the following payment options such as,<br><br>- Credit Card<br>- Debit Card<br>- PayPal<br>- Mada<br>- Apple In-App Purchase (Apple Devices Only)<br>- Google In-App Purchase (Android Devices)<br>- Telco Billing<br>- Voucher"
+            },
+            {
+                "title": "Will I get a personalized experience? ",
+                "content": "Our advanced recommendation algorithm analyzes your viewing habits, preferences, and favorite genres to suggest content tailored specifically for you. You'll notice personalized recommendations on your homepage, such as 'Recommended For You', 'Top Picks for You,' and curated collections matching your interests, ensuring you always have exciting options to explore. Furthermore, you can always save your favorites and find them in 'My List'. We also make sure we tailor our content based on your favorites."
+            },
+            {
+                "title": "Can I switch between monthly and annual plans?",
+                "content": "Yes, you can switch between monthly and annual plans. The process depends on the rules of your payment method, which may determine how the transition is handled."
+            },
+            {
+                "title": "Can I cancel my subscription at any time?",
+                "content": "Yes, you can cancel your subscription at any time. Once canceled, you will not be charged for the next payment cycle, but you can continue using your subscription until the current billing period ends."
+            }
+          ]
+        },
+        "fr": {
+          "title": "Foire Aux Questions",
+          "default": [
+            {
+                "title": "Qu'est-ce que STARZPLAY MAX ?",
+                "content": "STARZPLAY MAX est un forfait d'abonnement premium qui offre une expérience de divertissement complète avec une riche bibliothèque de films hollywoodiens, de séries exclusives, de titres arabes populaires, de documentaires et de divertissement pour enfants. Les abonnés peuvent également profiter des séries diffusées en même temps qu'aux États-Unis et d'une variété de contenus sportifs en direct et premium. Tout cela se fait sans publicités, garantissant une expérience de visionnage ininterrompue de vos contenus préférés."
+              },
+              {
+                  "title": "Qu'est-ce que le Pass Saison STARZPLAY MAX ?",
+                  "content": " Le Pass Saison STARZPLAY MAX est un ajout exclusif qui donne accès à un tournoi sportif spécifique pendant toute sa durée. Il est inclus dans le plan annuel STARZPLAY MAX sans coût supplémentaire, tandis que les abonnés au plan mensuel peuvent l'acheter en tant qu'ajout optionnel. Une fois le tournoi terminé, le Pass Saison expire, et un nouveau pass sera requis pour la saison suivante ou tout tournoi à venir. Cela garantit que vous ne payez que pour les événements sportifs que vous souhaitez regarder."
+              },
+              {
+                  "title": "Quels modes de paiement sont acceptés pour s'abonner ?",
+                  "content": "Nous prenons en charge les options de paiement suivantes :<br><br>- Carte de crédit<br>- Carte de débit<br>- PayPal<br>- Mada<br>- Achat In-App (uniquement pour les appareils Apple)<br>- Achat In-App (pour les appareils Android)<br>- Facturation par opérateur téléphonique<br>- Bon d'achat<br>Pour plus de préoccupations liées au paiement, consultez la section FAQ."
+              },
+              {
+                  "title": "Est-ce que je vais bénéficier d'une expérience personnalisée ?",
+                  "content": "Notre algorithme de recommandation avancé analyse vos habitudes de visionnage, vos préférences et vos genres favoris pour vous suggérer un contenu spécifiquement adapté à vos goûts. Vous remarquerez des recommandations personnalisées sur votre page d'accueil, telles que 'Recommandé pour vous', 'Les meilleures sélections pour vous' et des collections adaptées à vos intérêts, vous assurant ainsi de toujours avoir des options intéressantes à explorer. De plus, vous pouvez toujours enregistrer vos favoris et les retrouver dans 'Ma liste'. Nous veillons également à personnaliser notre contenu en fonction de vos favoris."
+              },
+              {
+                  "title": "Puis-je passer d'un plan mensuel à un plan annuel ?",
+                  "content": "Oui, vous pouvez passer d'un plan mensuel à un plan annuel. Le processus dépend des règles de votre méthode de paiement, qui peuvent déterminer la manière dont la transition est gérée."
+              },
+              {
+                  "title": "Puis-je annuler mon abonnement à tout moment ?",
+                  "content": "Oui, vous pouvez annuler votre abonnement à tout moment. Une fois annulé, vous ne serez pas facturé pour le prochain cycle de paiement, mais vous pourrez continuer à utiliser votre abonnement jusqu'à la fin de la période de facturation actuelle."
+              }
+          ]
+        },
+        "ar": {
+          "title": "الأسئلة الشائعة",
+          "default": [
+            {
+                "title": "ما هي STARZPLAY MAX؟",
+                "content": "STARZPLAY MAX هي باقة اشتراك مميزة تقدم تجربة ترفيهية شاملة مع مكتبة غنية من أفلام هوليوود الشهيرة، والمسلسلات الحصرية، وأشهر الأعمال العربية، والأفلام الوثائقية، ومحتوى ترفيهي خاص للأطفال. يمكن للمشتركين أيضًا الاستمتاع بالمسلسلات التي تعرض في نفس وقت عرضها في أمريكا، بالإضافة إلى مجموعة متنوعة من المحتوى الرياضي مع أشهر الأحداث الرياضية المباشرة والمميزة. يأتي كل هذا مع تجربة خالية من الإعلانات، مما يضمن مشاهدة بدون انقطاع لمحتواك المفضل."
+              },
+              {
+                  "title": "ما هو اشتراك STARZPLAY MAX تذكرة الموسم؟",
+                  "content": "اشتراك STARZPLAY MAX تذكرة الموسم هو إضافة حصرية تمنحك الوصول إلى بطولة رياضية معينة طوال مدتها. ويكون ضمن الخطة السنوية لـ STARZPLAY MAX دون أي تكلفة إضافية، بينما يمكن لمشتركي الخطة الشهرية شراءه كإضافة اختيارية. بمجرد انتهاء البطولة، تنتهي صلاحية الاشتراك، وسيكون من الضروري شراء اشتراك جديد للموسم التالي أو أي بطولة قادمة. يضمن ذلك أنك تدفع فقط مقابل الفعاليات الرياضية التي ترغب في مشاهدتها."
+              },
+              {
+                  "title": " ما هي طرق الدفع المدعومة للاشتراك؟",
+                  "content": "ندعم خيارات الدفع التالية:<br><br>- بطاقة ائتمان<br>- بطاقة خصم<br>- PayPal<br>- مدى<br>- شراء داخل التطبيق (لأجهزة Apple فقط)<br>- شراء داخل التطبيق (لأجهزة Android)<br>- فواتير شركات الاتصالات<br>- قسيمة<br>للمزيد من الاستفسارات المتعلقة بعملية الدفع، يمكنك زيارة قسم الأسئلة الشائعة."
+              },
+              {
+                  "title": "هل سأسمتع بتجربة مخصصة من أجلي؟",
+                  "content": "تكنولوجيا التوصية المتقدمة لدينا تحلل عادات المشاهدة والتفضيلات والأنواع المفضلة لديك لتقديم محتوى مخصص لك بشكل خاص. ستلاحظ التوصيات الشخصية على صفحتك الرئيسية، مثل 'موصى به لك'، و'أفضل الاختيارات لك'، والمجموعات المخصصة التي تتناسب مع اهتماماتك، مما يضمن لك دائمًا خيارات مثيرة لاستكشافها. بالإضافة إلى ذلك، يمكنك دائمًا حفظ المفضلات والعثور عليها في 'قائمتي'. نحن أيضًا نحرص على تخصيص المحتوى بناءً على تفضيلاتك."
+              },
+              {
+                  "title": "هل يمكنني التبديل بين الخطط الشهرية والسنوية؟",
+                  "content": "نعم، يمكنك التبديل بين الخطط الشهرية والسنوية. حيث ستتوقف العملية على طريقة الدفع الخاصة بك، والتي قد تحدد كيف سيتم هذا الانتقال."
+              },
+              {
+                  "title": "هل يمكنني إلغاء اشتراكي في أي وقت؟",
+                  "content": "نعم، يمكنك إلغاء اشتراكك في أي وقت. بمجرد الإلغاء، لن يتم تحصيل أي رسوم للدورة التالية، ولكن يمكنك الاستمرار في استخدام اشتراكك حتى نهاية فترة الفوترة الحالية."
+              }
+          ]
+        }
       }
     }
-  },
-  {
-    "id": 1234510,
-    "moduleType": "FAQ",
-    "moduleShouldDisplay": true
-  }
-]
+  ]
