@@ -317,8 +317,7 @@
             },
             {
                 "title": "Will I get a personalized experience? ",
-                "content": "Our advanced recommendation algorithm analyzes your viewing habits, preferences, and favorite genres to suggest content tailored specifically for you. You'll notice personalized recommendations on your homepage, such as 'Recommended For You', 'Top Picks for You,' and curated collections matching your interests, ensuring you always have exciting options to explore. Furthermore, you can always save your favorites and find them in 'My List'. We also make sure we tailor our content based on your favorites."
-            },
+                 "content": "Our advanced recommendation algorithm analyzes your viewing habits, preferences, and favorite genres to suggest content tailored specifically for you. You'll notice personalized recommendations on your homepage, such as \"Recommended For You\", \"Top Picks for You,\" and curated collections matching your interests, ensuring you always have exciting options to explore. Furthermore, you can always save your favorites and find them in \"My List\". We also make sure we tailor our content based on your favorites."            },
             {
                 "title": "What payment methods are supported to subscribe?",
                 "content": "We support the following payment options such as,<br><br>- Credit Card<br>- Debit Card<br>- PayPal<br>- Mada<br>- Apple In-App Purchase (Apple Devices Only)<br>- Google In-App Purchase (Android Devices)<br>- Telco Billing<br>- Voucher"
