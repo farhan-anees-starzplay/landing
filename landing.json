@@ -1,1 +1,392 @@
-[{"moduleType":"SEO","page":"landing","moduleShouldDisplay":true,"copies":{"en":{"title":"Subscribe to STARZ ON to Watch movies, TV Shows and live sports","description":"Enjoy top hits from SHOWTIME, Paramount+, WATCH IT & more, plus live streaming of Serie A and major sporting events all year round!"},"ar":{"title":"اشترك في STARZ ON لتشاهد أفلام ومسلسلات وأحداث رياضية مباشرة","description":"استمتع بأفضل الأعمال من SHOWTIME وParamount+ وWATCH IT والمزيد، بالإضافة إلى البث المباشر للدوري الإيطالي Serie A وأهم الأحداث الرياضية على مدار العام!"},"fr":{"title":"Abonnez-vous à STARZ ON pour regarder des films, des séries télévisées et des sports en direct.","description":"Profitez des grands succès de SHOWTIME, Paramount+, WATCH IT et bien plus encore, ainsi que du streaming en direct de la Serie A et des grands événements sportifs tout au long de l'année !"}}},{"id":123450,"moduleType":"HERO","moduleShouldDisplay":true,"subscriptionLogo":false,"copies":{"en":{"title":{"default":"The Home of Entertainment and Sports"},"subTitle":"Watch the latest series, movies and the biggest live sporting events.","cta":"Join Now"},"ar":{"title":{"default":"وجهتك لعالم الترفيه والرياضة"},"subTitle":"شاهد أحدث المسلسلات والأفلام وأضخم الأحداث الرياضية المباشرة.","cta":"اشترك الآن"},"fr":{"title":{"default":"La destination du divertissement et du sport"},"subTitle":"Regardez les dernières séries, films et les plus grands événements sportifs en direct.","cta":"Rejoindre maintenant"}},"images":{"desktop":{"heroImage":"/resources/images/modularLanding/landing/default-lg-{dir}.png","heroImageCountry":"/resources/images/modularLanding/landing/{countryCode}-lg-{dir}.png","heroImageUtmDesktop":"/resources/images/modularLanding/landing/utm-content/{compainName}-lg-{dir}.png"},"tablet":{"heroImage":"/resources/images/modularLanding/landing/default-tab.png","heroImageCountry":"/resources/images/modularLanding/landing/{countryCode}-tab.png","heroImageUtmDesktop":"/resources/images/modularLanding/landing/utm-content/{compainName}-tab.png"},"mobile":{"heroImage":"/resources/images/modularLanding/landing/default-mob.png","heroImageCountry":"/resources/images/modularLanding/landing/{countryCode}-mob.png","heroImageUtmDesktop":"/resources/images/modularLanding/landing/utm-content/{compainName}-mob.png"}},"benefitsSection":{"moduleShouldDisplay":false,"logo":{"globe":"glob.svg","tv":"tv.svg","download":"download.svg","bag":"bag.svg","goodTick":"goodTick.svg"},"copies":{"en":{"globe":"Stream in Multi-Languages","bag":"Rent or Buy the Latest Releases","download":"Download and Watch Offline","goodTick":"Watch anytime, anywhere","tv":"Live Sports & Entertainment","ad-free":"Ad-Free","free-tv":"60+ Free TV Channels"},"ar":{"globe":"بث بلغات متعددة","bag":"استأجر أو اشترِ أحدث الإصدارات","download":"قم بالتنزيل وشاهد بدون إنترنت","goodTick":"شاهد في أي وقت ومن أي مكان","tv":"الرياضات والترفيه المباشر","ad-free":"بدون إعلانات","free-tv":"أكثر من 60 قناة تلفزيونية مجانية"},"fr":{"globe":"Diffusez en plusieurs langues","bag":"Louez ou achetez les dernières nouveautés","download":"Téléchargez et regardez hors ligne","goodTick":"Regardez à tout moment, n'importe où","tv":"Sports et divertissement en direct","ad-free":"Sans Publicité","free-tv":"Plus de 60 chaînes TV gratuites"}}}},{"id":123412,"moduleType":"BASIC","moduleShouldDisplay":true,"copies":{"en":{"title":"Trending Now","subTitle":"","cta":"JOIN NOW"},"ar":{"title":"الأكثر مشاهدة الآن","subTitle":"","cta":"اشترك الآن"},"fr":{"title":"Tendance actuelle","subTitle":"","cta":"Choisissez un plan"}},"images":{"desktop":"/resources/images/modularLanding/landing/1basic-lg.png","mobile":"/resources/images/modularLanding/landing/1basic-mob.png"}},{"id":123451,"moduleType":"SUBSCRIPTION","moduleShouldDisplay":true,"copies":{}},{"id":123456,"moduleType":"IMAGES_CARROUSEL_AND_CHANNELS_LOGOS","moduleShouldDisplay":true,"channelsLogoAtBottom":true,"copies":{"en":{"title":"Home of Sports","subTitle":"Enjoy live and exclusive coverage of the biggest sporting events across UFC, football, cricket, and more.","cta":"JOIN NOW"},"ar":{"title":"وجهتك لعالم الرياضة","subTitle":"استمتع بتغطية مباشرة وحصرية لأضخم الأحداث الرياضية عبر UFC، وكرة القدم، والكريكيت، والمزيد.","cta":"اشترك الآن"},"fr":{"title":"La destination du sport","subTitle":"Profitez d’une couverture en direct et exclusive des plus grands événements sportifs : UFC, football, cricket, et plus encore.","cta":"Utiliser maintenant"}},"images":{"desktop":["/resources/images/modularLanding/landing/3carousel-1-lg.webp","/resources/images/modularLanding/landing/3carousel-2-lg.webp","/resources/images/modularLanding/landing/3carousel-3-lg.webp","/resources/images/modularLanding/landing/3carousel-4-lg.webp"]},"channelsLogoimages":{"desktop":{"logo1":"/web3/resources/images/modularLanding/entertainment/studios-logo1.png","logo2":"/web3/resources/images/modularLanding/entertainment/studios-logo2.png","logo3":"/web3/resources/images/modularLanding/entertainment/studios-logo3.png","logo4":"/web3/resources/images/modularLanding/entertainment/studios-logo4.png","logo5":"/web3/resources/images/modularLanding/entertainment/studios-logo5.png","logo6":"/web3/resources/images/modularLanding/entertainment/studios-logo6.png","logo7":"/web3/resources/images/modularLanding/entertainment/studios-logo7.png","logo8":"/web3/resources/images/modularLanding/entertainment/studios-logo8.png"}}},{"id":29387,"moduleType":"IMAGES_CARROUSEL_AND_CHANNELS_LOGOS","moduleShouldDisplay":true,"channelsLogoAtBottom":false,"copies":{"en":{"title":"Newest Releases","subTitle":"Find your next watch with the latest series and movies.","cta":"JOIN NOW"},"ar":{"title":"أحدث الإصدارات","subTitle":"استمتع بمشاهدة عمل جديد من بين أحدث الأفلام والمسلسلات","cta":"اشترك الآن"},"fr":{"title":"Nouveautés","subTitle":"Découvrez les dernières séries et films pour votre prochain visionnage.","cta":"Utiliser maintenant"}},"images":{"desktop":["/resources/images/modularLanding/landing/4carousel-1-lg.webp","/resources/images/modularLanding/landing/4carousel-2-lg.webp","/resources/images/modularLanding/landing/4carousel-3-lg.webp","/resources/images/modularLanding/landing/4carousel-4-lg.webp","/resources/images/modularLanding/landing/4carousel-5-lg.webp","/resources/images/modularLanding/landing/4carousel-6-lg.webp"]},"channelsLogoimages":{"desktop":{"starzplay-white":"/images/logos/subscriptions/starzplay-white.png","wb-white":"/images/logos/subscriptions/wb-white.png","universall":"/images/logos/subscriptions/universal-white.png","paramount-white":"/images/logos/subscriptions/paramount-white.png","dc-white":"/images/logos/subscriptions/dc-white.png","noorplay-white":"/images/logos/subscriptions/noorplay-white.png","discovery":"/images/logos/subscriptions/discovery-white.png"}}},{"id":1278454,"moduleType":"BASIC","moduleShouldDisplay":true,"copies":{"en":{"title":"Straight from the Cinema","subTitle":"Enjoy blockbuster hits from the comfort of your sofa.","cta":"JOIN NOW"},"ar":{"title":"مباشرةً من السينما","subTitle":"استمتع بأقوى الأعمال من راحة منزلك","cta":"اشترك الآن"},"fr":{"title":"En direct des salles de cinéma","subTitle":"Savourez les blockbusters depuis votre canapé","cta":"Choisissez un plan"}},"images":{"desktop":"/resources/images/modularLanding/landing/5basic-lg.png","mobile":"/resources/images/modularLanding/landing/5basic-mob.png"}},{"id":123459,"moduleType":"VOUCHER_REDEMPTION","moduleShouldDisplay":true,"copies":{"en":{"title":"Have a Gift Voucher?","subTitle":"","cta":"Redeem Now"},"ar":{"title":"هل لديك قسيمة؟","subTitle":"","cta":"استبدل الآن"},"fr":{"title":"Vous avez un code promo ?","subTitle":"","cta":"Utiliser maintenant"}}},{"id":1234510,"moduleType":"FAQ","moduleShouldDisplay":true,"copies":{"en":{"title":"Frequently asked questions","default":[{"title":"What is STARZPLAY Entertainment?","content":"STARZPLAY Entertainment, is a subscription package of STARZPLAY, it offers an extensive premium content library covering top Hollywood movies, exclusive TV shows, popular Arabic titles, documentaries, same-time-as-the-US series – plus kids’ entertainment - without ad interruptions."},{"title":"What is STARZPLAY MAX?","content":"STARZPLAY MAX is a premium subscription package that offers an extensive entertainment experience with a rich library of top Hollywood movies, exclusive TV shows, popular Arabic titles, documentaries, and kids’ entertainment. Subscribers can also enjoy same-time-as-the-US series and a variety of live and premium sports content. All of this comes with an ad-free experience, ensuring uninterrupted viewing of your favorite content."},{"title":"What is the STARZPLAY MAX Season Pass?","content":"The STARZPLAY MAX Season Pass is an exclusive add-on that grants access to a specific sports tournament for its entire duration. It is included in the STARZPLAY MAX annual plan at no extra cost, while monthly plan subscribers can purchase it as an optional add-on. Once the tournament ends, the Season Pass expires, and a new pass will be required for the next season or any upcoming tournament. This ensures that you only pay for the sports events you want to watch."},{"title":"What payment methods can I use to subscribe?","content":"We support the following payment options such as, <br>- Credit Card <br>- Debit Card<br>- PayPal<br>- Mada<br>- Apple In-App Purchase (Apple Devices Only)<br>- Google In-App Purchase (Android Devices)<br>- Telco Billing<br>- Voucher<br><br>For more payment-related concerns, visit FAQs section."},{"title":"Which devices are compatible for streaming with my subscription?","content":"You can watch STARZPLAY Entertainment content on any of the following devices;<br>- Apple mobiles and tablets - Running iOS v10.0 and later<br>- Apple TV 4th generation<br>- Android devices - Running v5 and later<br>- Android TV with Play Store Version 11.7.11-xhdpi and above<br>- Samsung smartTV - Running operating system Tizen (2016 models and later)<br>- LG Smart TV - Running WebOS4.0 and later<br>- Playstation PS4<br>- Web Browsers: Chrome, Firefox, Safari, Explorer (Laptop/MacBook/Mobile/Desktop-PC)<br>- Chromecast"},{"title":"Can I switch between Entertainment and MAX packages?","content":"Yes, you can switch between the Entertainment and MAX packages. You will only be charged for the price difference, and the transition process will depend on your payment method. Depending on how you pay, you may receive a refund, be asked to pay the difference, or have your payment cycle extended. For more details, visit our Help Center."},{"title":"Can I switch between monthly and annual plans?","content":"Yes, you can switch between monthly and annual plans. The process depends on the rules of your payment method, which may determine how the transition is handled."},{"title":"Can I cancel my subscription at any time?","content":"Yes, you can cancel your subscription at any time. Once canceled, you will not be charged for the next payment cycle, but you can continue using your subscription until the current billing period ends."}]},"fr":{"title":"Foire Aux Questions","default":[{"title":"Qu'est-ce que STARZPLAY divertissement ?","content":"STARZPLAY divertissement est un abonnement à STARZPLAY, offrant une vaste bibliothèque de contenu premium comprenant les meilleurs films hollywoodiens, des séries exclusives, des titres arabes populaires, des documentaires, des séries diffusées simultanément avec les États-Unis – ainsi que des divertissements pour enfants – sans interruptions publicitaires."},{"title":"Qu'est-ce que STARZPLAY MAX ?","content":"STARZPLAY MAX est un forfait d'abonnement premium qui offre une expérience de divertissement complète avec une riche bibliothèque de films hollywoodiens, de séries exclusives, de titres arabes populaires, de documentaires et de divertissement pour enfants. Les abonnés peuvent également profiter des séries diffusées en même temps qu'aux États-Unis et d'une variété de contenus sportifs en direct et premium. Tout cela se fait sans publicités, garantissant une expérience de visionnage ininterrompue de vos contenus préférés."},{"title":"Qu'est-ce que le Pass Saison STARZPLAY MAX ?","content":" Le Pass Saison STARZPLAY MAX est un ajout exclusif qui donne accès à un tournoi sportif spécifique pendant toute sa durée. Il est inclus dans le plan annuel STARZPLAY MAX sans coût supplémentaire, tandis que les abonnés au plan mensuel peuvent l'acheter en tant qu'ajout optionnel. Une fois le tournoi terminé, le Pass Saison expire, et un nouveau pass sera requis pour la saison suivante ou tout tournoi à venir. Cela garantit que vous ne payez que pour les événements sportifs que vous souhaitez regarder."},{"title":"Quels modes de paiement sont acceptés pour s'abonner ?","content":"Nous prenons en charge les options de paiement suivantes :<br><br>- Carte de crédit<br>- Carte de débit<br>- PayPal<br>- Mada<br>- Achat In-App (uniquement pour les appareils Apple)<br>- Achat In-App (pour les appareils Android)<br>- Facturation par opérateur téléphonique<br>- Bons d'achat<br>Pour plus de préoccupations liées au paiement, consultez la section FAQ."},{"title":"Sur quels appareils puis-je regarder avec mon abonnement ?","content":"Vous pouvez regarder le contenu de STARZPLAY Entertainment sur l'un des appareils suivants :<br><br>- Mobiles et tablettes Apple - Fonctionnant sous iOS v10.0 et versions ultérieures<br>- Apple TV 4e génération<br>- Appareils Android - Fonctionnant sous v5 et versions ultérieures<br>- Android TV avec la version Play Store 11.7.11-xhdpi et supérieure<br>- Samsung Smart TV - Fonctionnant sous le système d'exploitation Tizen (modèles 2016 et ultérieurs)<br>- LG Smart TV - Fonctionnant sous WebOS 4.0 et versions ultérieures<br>- Playstation PS4<br>- Navigateurs Web : Chrome, Firefox, Safari, Explorer (Portable/MacBook/Téléphone/PC de bureau)<br>- Chromecast"},{"title":"Puis-je passer d'un plan Entertainment à un plan MAX ?","content":"Oui, vous pouvez passer d'un forfait Entertainment à un forfait MAX. Vous ne paierez que la différence de prix, et le processus de transition dépendra de votre méthode de paiement. Selon votre méthode de paiement, vous pourriez recevoir un remboursement, être invité à payer la différence ou voir votre cycle de paiement prolongé. Pour plus de détails, consultez notre Centre d'aide."},{"title":"Puis-je passer d'un plan mensuel à un plan annuel ?","content":"Oui, vous pouvez passer d'un plan mensuel à un plan annuel. Le processus dépend des règles de votre méthode de paiement, qui peuvent déterminer la manière dont la transition est gérée."},{"title":"Puis-je annuler mon abonnement à tout moment ?","content":"Oui, vous pouvez annuler votre abonnement à tout moment. Une fois annulé, vous ne serez pas facturé pour le prochain cycle de paiement, mais vous pourrez continuer à utiliser votre abonnement jusqu'à la fin de la période de facturation actuelle."}]},"ar":{"title":"الأسئلة الشائعة","default":[{"title":"ما هي STARZPLAY الترفيهية؟","content":"STARZPLAY الترفيهية هي باقة اشتراك من STARZPLAY، تقدم مكتبة ضخمة من المحتوى المتميز التي تشمل أقوى أفلام هوليوود، والمسلسلات الحصرية، والأعمال العربية الشهيرة، والأفلام الوثائقية، والمسلسلات التي تعرض في نفس وقت عرضها في أمريكا، بالإضافة إلى أعمال ترفيهية من أجل الأطفال، كل هذا بدون إعلانات."},{"title":"ما هي STARZPLAY MAX؟","content":"STARZPLAY MAX هي باقة اشتراك مميزة تقدم تجربة ترفيهية شاملة مع مكتبة غنية من أفلام هوليوود الشهيرة، والمسلسلات الحصرية، وأشهر الأعمال العربية، والأفلام الوثائقية، ومحتوى ترفيهي خاص للأطفال. يمكن للمشتركين أيضًا الاستمتاع بالمسلسلات التي تعرض في نفس وقت عرضها في أمريكا، بالإضافة إلى مجموعة متنوعة من المحتوى الرياضي مع أشهر الأحداث الرياضية المباشرة والمميزة. يأتي كل هذا مع تجربة خالية من الإعلانات، مما يضمن مشاهدة بدون انقطاع لمحتواك المفضل."},{"title":"ما هو اشتراك STARZPLAY MAX تذكرة الموسم؟","content":"اشتراك STARZPLAY MAX تذكرة الموسم هو إضافة حصرية تمنحك الوصول إلى بطولة رياضية معينة طوال مدتها. ويكون ضمن الخطة السنوية لـ STARZPLAY MAX دون أي تكلفة إضافية، بينما يمكن لمشتركي الخطة الشهرية شراءه كإضافة اختيارية. بمجرد انتهاء البطولة، تنتهي صلاحية الاشتراك، وسيكون من الضروري شراء اشتراك جديد للموسم التالي أو أي بطولة قادمة. يضمن ذلك أنك تدفع فقط مقابل الفعاليات الرياضية التي ترغب في مشاهدتها."},{"title":"ما هي طرق الدفع ألمدعومة للاشتراك؟","content":"ندعم خيارات الدفع التالية:<br><br>- بطاقة ائتمان<br>- بطاقة خصم<br>- PayPal<br>- مدى<br>- شراء داخل التطبيق (لأجهزة Apple فقط)<br>- شراء داخل التطبيق (لأجهزة Android)<br>- فواتير شركات الاتصالات<br>- قسيمة<br>للمزيد من الاستفسارات المتعلقة بعملية الدفع، يمكنك زيارة قسم الأسئلة الشائعة."},{"title":"ما هي الأجهزة التي يمكنني المشاهدة عليها مع اشتراكي؟","content":"يمكنك مشاهدة محتوى STARZPLAY الترفيهية على أي من الأجهزة التالية:<br><br>- الهواتف والأجهزة اللوحية من Apple - بنظام iOS الإصدار 10.0 وما بعده<br>- Apple TV الجيل الرابع<br>- أجهزة Android - بنظام الإصدار 5 وما بعده<br>- تلفزيون Android مع إصدار Play Store 11.7.11-xhdpi وما فوقه<br>- تلفزيون سامسونج الذكي - بنظام التشغيل Tizen (النماذج لعام 2016 وما بعده)<br>- تلفزيون LG الذكي - بنظام WebOS 4.0 وما بعده<br>- بلايستيشن PS4<br>- متصفحات الويب: Chrome و Firefox و Safari و Explorer (الكمبيوتر المحمول / MacBook / الهاتف المحمول / الكمبيوتر المكتبي)<br>- Chromecast"},{"title":"هل يمكنني التبديل بين الباقة الترفيهية وباقة MAX؟","content":"نعم، يمكنك التبديل بين الباقة الترفيهية وباقة MAX. ستدفع فقط فارق السعر، وطريقة الانتقال تعتمد على طريقة الدفع الخاصة بك. بناءً على طريقة الدفع، قد تتلقى استردادًا، أو يُطلب منك دفع الفارق، أو قد يتم تمديد دورة الدفع الخاصة بك. لمزيد من التفاصيل، يرجى زيارة مركز المساعدة لدينا."},{"title":"هل يمكنني التبديل بين الخطط الشهرية والسنوية؟","content":"نعم، يمكنك التبديل بين الخطط الشهرية والسنوية. حيث ستتوقف العملية على طريقة الدفع الخاصة بك، والتي قد تحدد كيف سيتم هذا الانتقال."},{"title":"هل يمكنني إلغاء اشتراكي في أي وقت؟","content":"نعم، يمكنك إلغاء اشتراكك في أي وقت. بمجرد الإلغاء، لن يتم تحصيل أي رسوم للدورة التالية، ولكن يمكنك الاستمرار في استخدام اشتراكك حتى نهاية فترة الفوترة الحالية."}]}}}]
+[
+    {
+      "moduleType": "SEO",
+      "page": "landing",
+      "moduleShouldDisplay": true,
+      "copies": {
+        "en": {
+          "title": "Subscribe to STARZ ON to Watch movies, TV Shows and live sports",
+          "description": "Enjoy top hits from SHOWTIME, Paramount+, WATCH IT & more, plus live streaming of Serie A and major sporting events all year round!"
+        },
+        "ar": {
+          "title": "اشترك في STARZ ON لتشاهد أفلام ومسلسلات وأحداث رياضية مباشرة",
+          "description": "استمتع بأفضل الأعمال من SHOWTIME وParamount+ وWATCH IT والمزيد، بالإضافة إلى البث المباشر للدوري الإيطالي Serie A وأهم الأحداث الرياضية على مدار العام!"
+        },
+        "fr": {
+          "title": "Abonnez-vous à STARZ ON pour regarder des films, des séries télévisées et des sports en direct.",
+          "description": "Profitez des grands succès de SHOWTIME, Paramount+, WATCH IT et bien plus encore, ainsi que du streaming en direct de la Serie A et des grands événements sportifs tout au long de l'année !"
+        }
+      }
+    },
+    {
+      "id": 123450,
+      "moduleType": "HERO",
+      "moduleShouldDisplay": true,
+      "subscriptionLogo": false,
+      "copies": {
+        "en": {
+          "title": {
+            "default": "The Home of Entertainment and Sports"
+          },
+          "subTitle": "Watch the latest series, movies and the biggest live sporting events.",
+          "cta": "Join Now"
+        },
+        "ar": {
+          "title": {
+            "default": "وجهتك لعالم الترفيه والرياضة"
+          },
+          "subTitle": "شاهد أحدث المسلسلات والأفلام وأضخم الأحداث الرياضية المباشرة.",
+          "cta": "اشترك الآن"
+        },
+        "fr": {
+          "title": {
+            "default": "La destination du divertissement et du sport"
+          },
+          "subTitle": "Regardez les dernières séries, films et les plus grands événements sportifs en direct.",
+          "cta": "Rejoindre maintenant"
+        }
+      },
+      "images": {
+        "desktop": {
+          "heroImage": "/resources/images/modularLanding/landing/default-lg-{dir}.png",
+          "heroImageCountry": "/resources/images/modularLanding/landing/{countryCode}-lg-{dir}.png",
+          "heroImageUtmDesktop": "/resources/images/modularLanding/landing/utm-content/{compainName}-lg-{dir}.png"
+        },
+        "tablet": {
+          "heroImage": "/resources/images/modularLanding/landing/default-tab.png",
+          "heroImageCountry": "/resources/images/modularLanding/landing/{countryCode}-tab.png",
+          "heroImageUtmDesktop": "/resources/images/modularLanding/landing/utm-content/{compainName}-tab.png"
+        },
+        "mobile": {
+          "heroImage": "/resources/images/modularLanding/landing/default-mob.png",
+          "heroImageCountry": "/resources/images/modularLanding/landing/{countryCode}-mob.png",
+          "heroImageUtmDesktop": "/resources/images/modularLanding/landing/utm-content/{compainName}-mob.png"
+        }
+      },
+      "benefitsSection": {
+        "moduleShouldDisplay": false,
+        "logo": {
+          "globe": "glob.svg",
+          "tv": "tv.svg",
+          "download": "download.svg",
+          "bag": "bag.svg",
+          "goodTick": "goodTick.svg"
+        },
+        "copies": {
+          "en": {
+            "globe": "Stream in Multi-Languages",
+            "bag": "Rent or Buy the Latest Releases",
+            "download": "Download and Watch Offline",
+            "goodTick": "Watch anytime, anywhere",
+            "tv": "Live Sports & Entertainment",
+            "ad-free": "Ad-Free",
+            "free-tv": "60+ Free TV Channels"
+          },
+          "ar": {
+            "globe": "بث بلغات متعددة",
+            "bag": "استأجر أو اشترِ أحدث الإصدارات",
+            "download": "قم بالتنزيل وشاهد بدون إنترنت",
+            "goodTick": "شاهد في أي وقت ومن أي مكان",
+            "tv": "الرياضات والترفيه المباشر",
+            "ad-free": "بدون إعلانات",
+            "free-tv": "أكثر من 60 قناة تلفزيونية مجانية"
+          },
+          "fr": {
+            "globe": "Diffusez en plusieurs langues",
+            "bag": "Louez ou achetez les dernières nouveautés",
+            "download": "Téléchargez et regardez hors ligne",
+            "goodTick": "Regardez à tout moment, n'importe où",
+            "tv": "Sports et divertissement en direct",
+            "ad-free": "Sans Publicité",
+            "free-tv": "Plus de 60 chaînes TV gratuites"
+          }
+        }
+      }
+    },
+    {
+      "id": 123412,
+      "moduleType": "BASIC",
+      "moduleShouldDisplay": true,
+      "copies": {
+        "en": {
+          "title": "Trending Now",
+          "subTitle": "",
+          "cta": "JOIN NOW"
+        },
+        "ar": {
+          "title": "الأكثر مشاهدة الآن",
+          "subTitle": "",
+          "cta": "اشترك الآن"
+        },
+        "fr": {
+          "title": "Tendance actuelle",
+          "subTitle": "",
+          "cta": "Choisissez un plan"
+        }
+      },
+      "images": {
+        "desktop": "/resources/images/modularLanding/landing/1basic-lg.png",
+        "mobile": "/resources/images/modularLanding/landing/1basic-mob.png"
+      }
+    },
+    {
+      "id": 123451,
+      "moduleType": "SUBSCRIPTION",
+      "moduleShouldDisplay": true,
+      "copies": {}
+    },
+    {
+      "id": 123456,
+      "moduleType": "IMAGES_CARROUSEL_AND_CHANNELS_LOGOS",
+      "moduleShouldDisplay": true,
+      "channelsLogoAtBottom": false,
+      "copies": {
+        "en": {
+          "title": "Home of Sports",
+          "subTitle": "Enjoy live and exclusive coverage of the biggest sporting events across UFC, football, cricket, and more.",
+          "cta": "JOIN NOW"
+        },
+        "ar": {
+          "title": "وجهتك لعالم الرياضة",
+          "subTitle": "استمتع بتغطية مباشرة وحصرية لأضخم الأحداث الرياضية عبر UFC، وكرة القدم، والكريكيت، والمزيد.",
+          "cta": "اشترك الآن"
+        },
+        "fr": {
+          "title": "La destination du sport",
+          "subTitle": "Profitez d’une couverture en direct et exclusive des plus grands événements sportifs : UFC, football, cricket, et plus encore.",
+          "cta": "Utiliser maintenant"
+        }
+      },
+      "images": {
+        "desktop": [
+          "/resources/images/modularLanding/landing/3carousel-1-lg.webp",
+          "/resources/images/modularLanding/landing/3carousel-2-lg.webp",
+          "/resources/images/modularLanding/landing/3carousel-3-lg.webp",
+          "/resources/images/modularLanding/landing/3carousel-4-lg.webp"
+        ]
+      },
+      "channelsLogoimages": {
+        "desktop": {
+          "logo1": "/web3/resources/images/modularLanding/entertainment/studios-logo1.png",
+          "logo2": "/web3/resources/images/modularLanding/entertainment/studios-logo2.png",
+          "logo3": "/web3/resources/images/modularLanding/entertainment/studios-logo3.png",
+          "logo4": "/web3/resources/images/modularLanding/entertainment/studios-logo4.png",
+          "logo5": "/web3/resources/images/modularLanding/entertainment/studios-logo5.png",
+          "logo6": "/web3/resources/images/modularLanding/entertainment/studios-logo6.png",
+          "logo7": "/web3/resources/images/modularLanding/entertainment/studios-logo7.png",
+          "logo8": "/web3/resources/images/modularLanding/entertainment/studios-logo8.png"
+        }
+      }
+    },
+    {
+      "id": 29387,
+      "moduleType": "IMAGES_CARROUSEL_AND_CHANNELS_LOGOS",
+      "moduleShouldDisplay": true,
+      "channelsLogoAtBottom": true,
+      "copies": {
+        "en": {
+          "title": "Newest Releases",
+          "subTitle": "Find your next watch with the latest series and movies.",
+          "cta": "JOIN NOW"
+        },
+        "ar": {
+          "title": "أحدث الإصدارات",
+          "subTitle": "استمتع بمشاهدة عمل جديد من بين أحدث الأفلام والمسلسلات",
+          "cta": "اشترك الآن"
+        },
+        "fr": {
+          "title": "Nouveautés",
+          "subTitle": "Découvrez les dernières séries et films pour votre prochain visionnage.",
+          "cta": "Utiliser maintenant"
+        }
+      },
+      "images": {
+        "desktop": [
+          "/resources/images/modularLanding/landing/4carousel-1-lg.webp",
+          "/resources/images/modularLanding/landing/4carousel-2-lg.webp",
+          "/resources/images/modularLanding/landing/4carousel-3-lg.webp",
+          "/resources/images/modularLanding/landing/4carousel-4-lg.webp",
+          "/resources/images/modularLanding/landing/4carousel-5-lg.webp",
+          "/resources/images/modularLanding/landing/4carousel-6-lg.webp"
+        ]
+      },
+      "channelsLogoimages": {
+        "desktop": {
+            "logo1": "/web3/resources/images/modularLanding/entertainment/studios-logo1.png",
+            "logo2": "/web3/resources/images/modularLanding/entertainment/studios-logo2.png",
+            "logo3": "/web3/resources/images/modularLanding/entertainment/studios-logo3.png",
+            "logo4": "/web3/resources/images/modularLanding/entertainment/studios-logo4.png",
+            "logo5": "/web3/resources/images/modularLanding/entertainment/studios-logo5.png",
+            "logo6": "/web3/resources/images/modularLanding/entertainment/studios-logo6.png",
+            "logo7": "/web3/resources/images/modularLanding/entertainment/studios-logo7.png",
+            "logo8": "/web3/resources/images/modularLanding/entertainment/studios-logo8.png"
+        }
+      }
+    },
+    {
+      "id": 1278454,
+      "moduleType": "BASIC",
+      "moduleShouldDisplay": true,
+      "copies": {
+        "en": {
+          "title": "Straight from the Cinema",
+          "subTitle": "Enjoy blockbuster hits from the comfort of your sofa.",
+          "cta": "JOIN NOW"
+        },
+        "ar": {
+          "title": "مباشرةً من السينما",
+          "subTitle": "استمتع بأقوى الأعمال من راحة منزلك",
+          "cta": "اشترك الآن"
+        },
+        "fr": {
+          "title": "En direct des salles de cinéma",
+          "subTitle": "Savourez les blockbusters depuis votre canapé",
+          "cta": "Choisissez un plan"
+        }
+      },
+      "images": {
+        "desktop": "/resources/images/modularLanding/landing/5basic-lg.png",
+        "mobile": "/resources/images/modularLanding/landing/5basic-mob.png"
+      }
+    },
+    {
+      "id": 123459,
+      "moduleType": "VOUCHER_REDEMPTION",
+      "moduleShouldDisplay": true,
+      "copies": {
+        "en": {
+          "title": "Have a Gift Voucher?",
+          "subTitle": "",
+          "cta": "Redeem Now"
+        },
+        "ar": {
+          "title": "هل لديك قسيمة؟",
+          "subTitle": "",
+          "cta": "استبدل الآن"
+        },
+        "fr": {
+          "title": "Vous avez un code promo ?",
+          "subTitle": "",
+          "cta": "Utiliser maintenant"
+        }
+      }
+    },
+    {
+      "id": 1234510,
+      "moduleType": "FAQ",
+      "moduleShouldDisplay": true,
+      "copies": {
+        "en": {
+          "title": "Frequently asked questions",
+          "default": [
+            {
+              "title": "What is STARZPLAY Entertainment?",
+              "content": "STARZPLAY Entertainment, is a subscription package of STARZPLAY, it offers an extensive premium content library covering top Hollywood movies, exclusive TV shows, popular Arabic titles, documentaries, same-time-as-the-US series – plus kids’ entertainment - without ad interruptions."
+            },
+            {
+              "title": "What is STARZPLAY MAX?",
+              "content": "STARZPLAY MAX is a premium subscription package that offers an extensive entertainment experience with a rich library of top Hollywood movies, exclusive TV shows, popular Arabic titles, documentaries, and kids’ entertainment. Subscribers can also enjoy same-time-as-the-US series and a variety of live and premium sports content. All of this comes with an ad-free experience, ensuring uninterrupted viewing of your favorite content."
+            },
+            {
+              "title": "What is the STARZPLAY MAX Season Pass?",
+              "content": "The STARZPLAY MAX Season Pass is an exclusive add-on that grants access to a specific sports tournament for its entire duration. It is included in the STARZPLAY MAX annual plan at no extra cost, while monthly plan subscribers can purchase it as an optional add-on. Once the tournament ends, the Season Pass expires, and a new pass will be required for the next season or any upcoming tournament. This ensures that you only pay for the sports events you want to watch."
+            },
+            {
+              "title": "What payment methods can I use to subscribe?",
+              "content": "We support the following payment options such as, <br>- Credit Card <br>- Debit Card<br>- PayPal<br>- Mada<br>- Apple In-App Purchase (Apple Devices Only)<br>- Google In-App Purchase (Android Devices)<br>- Telco Billing<br>- Voucher<br><br>For more payment-related concerns, visit FAQs section."
+            },
+            {
+              "title": "Which devices are compatible for streaming with my subscription?",
+              "content": "You can watch STARZPLAY Entertainment content on any of the following devices;<br>- Apple mobiles and tablets - Running iOS v10.0 and later<br>- Apple TV 4th generation<br>- Android devices - Running v5 and later<br>- Android TV with Play Store Version 11.7.11-xhdpi and above<br>- Samsung smartTV - Running operating system Tizen (2016 models and later)<br>- LG Smart TV - Running WebOS4.0 and later<br>- Playstation PS4<br>- Web Browsers: Chrome, Firefox, Safari, Explorer (Laptop/MacBook/Mobile/Desktop-PC)<br>- Chromecast"
+            },
+            {
+              "title": "Can I switch between Entertainment and MAX packages?",
+              "content": "Yes, you can switch between the Entertainment and MAX packages. You will only be charged for the price difference, and the transition process will depend on your payment method. Depending on how you pay, you may receive a refund, be asked to pay the difference, or have your payment cycle extended. For more details, visit our Help Center."
+            },
+            {
+              "title": "Can I switch between monthly and annual plans?",
+              "content": "Yes, you can switch between monthly and annual plans. The process depends on the rules of your payment method, which may determine how the transition is handled."
+            },
+            {
+              "title": "Can I cancel my subscription at any time?",
+              "content": "Yes, you can cancel your subscription at any time. Once canceled, you will not be charged for the next payment cycle, but you can continue using your subscription until the current billing period ends."
+            }
+          ]
+        },
+        "fr": {
+          "title": "Foire Aux Questions",
+          "default": [
+            {
+              "title": "Qu'est-ce que STARZPLAY divertissement ?",
+              "content": "STARZPLAY divertissement est un abonnement à STARZPLAY, offrant une vaste bibliothèque de contenu premium comprenant les meilleurs films hollywoodiens, des séries exclusives, des titres arabes populaires, des documentaires, des séries diffusées simultanément avec les États-Unis – ainsi que des divertissements pour enfants – sans interruptions publicitaires."
+            },
+            {
+              "title": "Qu'est-ce que STARZPLAY MAX ?",
+              "content": "STARZPLAY MAX est un forfait d'abonnement premium qui offre une expérience de divertissement complète avec une riche bibliothèque de films hollywoodiens, de séries exclusives, de titres arabes populaires, de documentaires et de divertissement pour enfants. Les abonnés peuvent également profiter des séries diffusées en même temps qu'aux États-Unis et d'une variété de contenus sportifs en direct et premium. Tout cela se fait sans publicités, garantissant une expérience de visionnage ininterrompue de vos contenus préférés."
+            },
+            {
+              "title": "Qu'est-ce que le Pass Saison STARZPLAY MAX ?",
+              "content": " Le Pass Saison STARZPLAY MAX est un ajout exclusif qui donne accès à un tournoi sportif spécifique pendant toute sa durée. Il est inclus dans le plan annuel STARZPLAY MAX sans coût supplémentaire, tandis que les abonnés au plan mensuel peuvent l'acheter en tant qu'ajout optionnel. Une fois le tournoi terminé, le Pass Saison expire, et un nouveau pass sera requis pour la saison suivante ou tout tournoi à venir. Cela garantit que vous ne payez que pour les événements sportifs que vous souhaitez regarder."
+            },
+            {
+              "title": "Quels modes de paiement sont acceptés pour s'abonner ?",
+              "content": "Nous prenons en charge les options de paiement suivantes :<br><br>- Carte de crédit<br>- Carte de débit<br>- PayPal<br>- Mada<br>- Achat In-App (uniquement pour les appareils Apple)<br>- Achat In-App (pour les appareils Android)<br>- Facturation par opérateur téléphonique<br>- Bons d'achat<br>Pour plus de préoccupations liées au paiement, consultez la section FAQ."
+            },
+            {
+              "title": "Sur quels appareils puis-je regarder avec mon abonnement ?",
+              "content": "Vous pouvez regarder le contenu de STARZPLAY Entertainment sur l'un des appareils suivants :<br><br>- Mobiles et tablettes Apple - Fonctionnant sous iOS v10.0 et versions ultérieures<br>- Apple TV 4e génération<br>- Appareils Android - Fonctionnant sous v5 et versions ultérieures<br>- Android TV avec la version Play Store 11.7.11-xhdpi et supérieure<br>- Samsung Smart TV - Fonctionnant sous le système d'exploitation Tizen (modèles 2016 et ultérieurs)<br>- LG Smart TV - Fonctionnant sous WebOS 4.0 et versions ultérieures<br>- Playstation PS4<br>- Navigateurs Web : Chrome, Firefox, Safari, Explorer (Portable/MacBook/Téléphone/PC de bureau)<br>- Chromecast"
+            },
+            {
+              "title": "Puis-je passer d'un plan Entertainment à un plan MAX ?",
+              "content": "Oui, vous pouvez passer d'un forfait Entertainment à un forfait MAX. Vous ne paierez que la différence de prix, et le processus de transition dépendra de votre méthode de paiement. Selon votre méthode de paiement, vous pourriez recevoir un remboursement, être invité à payer la différence ou voir votre cycle de paiement prolongé. Pour plus de détails, consultez notre Centre d'aide."
+            },
+            {
+              "title": "Puis-je passer d'un plan mensuel à un plan annuel ?",
+              "content": "Oui, vous pouvez passer d'un plan mensuel à un plan annuel. Le processus dépend des règles de votre méthode de paiement, qui peuvent déterminer la manière dont la transition est gérée."
+            },
+            {
+              "title": "Puis-je annuler mon abonnement à tout moment ?",
+              "content": "Oui, vous pouvez annuler votre abonnement à tout moment. Une fois annulé, vous ne serez pas facturé pour le prochain cycle de paiement, mais vous pourrez continuer à utiliser votre abonnement jusqu'à la fin de la période de facturation actuelle."
+            }
+          ]
+        },
+        "ar": {
+          "title": "الأسئلة الشائعة",
+          "default": [
+            {
+              "title": "ما هي STARZPLAY الترفيهية؟",
+              "content": "STARZPLAY الترفيهية هي باقة اشتراك من STARZPLAY، تقدم مكتبة ضخمة من المحتوى المتميز التي تشمل أقوى أفلام هوليوود، والمسلسلات الحصرية، والأعمال العربية الشهيرة، والأفلام الوثائقية، والمسلسلات التي تعرض في نفس وقت عرضها في أمريكا، بالإضافة إلى أعمال ترفيهية من أجل الأطفال، كل هذا بدون إعلانات."
+            },
+            {
+              "title": "ما هي STARZPLAY MAX؟",
+              "content": "STARZPLAY MAX هي باقة اشتراك مميزة تقدم تجربة ترفيهية شاملة مع مكتبة غنية من أفلام هوليوود الشهيرة، والمسلسلات الحصرية، وأشهر الأعمال العربية، والأفلام الوثائقية، ومحتوى ترفيهي خاص للأطفال. يمكن للمشتركين أيضًا الاستمتاع بالمسلسلات التي تعرض في نفس وقت عرضها في أمريكا، بالإضافة إلى مجموعة متنوعة من المحتوى الرياضي مع أشهر الأحداث الرياضية المباشرة والمميزة. يأتي كل هذا مع تجربة خالية من الإعلانات، مما يضمن مشاهدة بدون انقطاع لمحتواك المفضل."
+            },
+            {
+              "title": "ما هو اشتراك STARZPLAY MAX تذكرة الموسم؟",
+              "content": "اشتراك STARZPLAY MAX تذكرة الموسم هو إضافة حصرية تمنحك الوصول إلى بطولة رياضية معينة طوال مدتها. ويكون ضمن الخطة السنوية لـ STARZPLAY MAX دون أي تكلفة إضافية، بينما يمكن لمشتركي الخطة الشهرية شراءه كإضافة اختيارية. بمجرد انتهاء البطولة، تنتهي صلاحية الاشتراك، وسيكون من الضروري شراء اشتراك جديد للموسم التالي أو أي بطولة قادمة. يضمن ذلك أنك تدفع فقط مقابل الفعاليات الرياضية التي ترغب في مشاهدتها."
+            },
+            {
+              "title": "ما هي طرق الدفع ألمدعومة للاشتراك؟",
+              "content": "ندعم خيارات الدفع التالية:<br><br>- بطاقة ائتمان<br>- بطاقة خصم<br>- PayPal<br>- مدى<br>- شراء داخل التطبيق (لأجهزة Apple فقط)<br>- شراء داخل التطبيق (لأجهزة Android)<br>- فواتير شركات الاتصالات<br>- قسيمة<br>للمزيد من الاستفسارات المتعلقة بعملية الدفع، يمكنك زيارة قسم الأسئلة الشائعة."
+            },
+            {
+              "title": "ما هي الأجهزة التي يمكنني المشاهدة عليها مع اشتراكي؟",
+              "content": "يمكنك مشاهدة محتوى STARZPLAY الترفيهية على أي من الأجهزة التالية:<br><br>- الهواتف والأجهزة اللوحية من Apple - بنظام iOS الإصدار 10.0 وما بعده<br>- Apple TV الجيل الرابع<br>- أجهزة Android - بنظام الإصدار 5 وما بعده<br>- تلفزيون Android مع إصدار Play Store 11.7.11-xhdpi وما فوقه<br>- تلفزيون سامسونج الذكي - بنظام التشغيل Tizen (النماذج لعام 2016 وما بعده)<br>- تلفزيون LG الذكي - بنظام WebOS 4.0 وما بعده<br>- بلايستيشن PS4<br>- متصفحات الويب: Chrome و Firefox و Safari و Explorer (الكمبيوتر المحمول / MacBook / الهاتف المحمول / الكمبيوتر المكتبي)<br>- Chromecast"
+            },
+            {
+              "title": "هل يمكنني التبديل بين الباقة الترفيهية وباقة MAX؟",
+              "content": "نعم، يمكنك التبديل بين الباقة الترفيهية وباقة MAX. ستدفع فقط فارق السعر، وطريقة الانتقال تعتمد على طريقة الدفع الخاصة بك. بناءً على طريقة الدفع، قد تتلقى استردادًا، أو يُطلب منك دفع الفارق، أو قد يتم تمديد دورة الدفع الخاصة بك. لمزيد من التفاصيل، يرجى زيارة مركز المساعدة لدينا."
+            },
+            {
+              "title": "هل يمكنني التبديل بين الخطط الشهرية والسنوية؟",
+              "content": "نعم، يمكنك التبديل بين الخطط الشهرية والسنوية. حيث ستتوقف العملية على طريقة الدفع الخاصة بك، والتي قد تحدد كيف سيتم هذا الانتقال."
+            },
+            {
+              "title": "هل يمكنني إلغاء اشتراكي في أي وقت؟",
+              "content": "نعم، يمكنك إلغاء اشتراكك في أي وقت. بمجرد الإلغاء، لن يتم تحصيل أي رسوم للدورة التالية، ولكن يمكنك الاستمرار في استخدام اشتراكك حتى نهاية فترة الفوترة الحالية."
+            }
+          ]
+        }
+      }
+    }
+  ]
