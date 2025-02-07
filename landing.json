@@ -139,7 +139,7 @@
     "id": 123456,
     "moduleType": "IMAGES_CARROUSEL_AND_CHANNELS_LOGOS",
     "moduleShouldDisplay": true,
-    "channelsLogoAtBottom": false,
+    "channelsLogoAtBottom": true,
     "copies": {
       "en": {
         "title": "Home of Sports",
@@ -167,13 +167,14 @@
     },
     "channelsLogoimages": {
       "desktop": {
-        "starzplay-white": "/images/logos/subscriptions/starzplay-white.png",
-        "wb-white": "/images/logos/subscriptions/wb-white.png",
-        "universall": "/images/logos/subscriptions/universal-white.png",
-        "paramount-white": "/images/logos/subscriptions/paramount-white.png",
-        "dc-white": "/images/logos/subscriptions/dc-white.png",
-        "noorplay-white": "/images/logos/subscriptions/noorplay-white.png",
-        "discovery": "/images/logos/subscriptions/discovery-white.png"
+        "logo1": "/web3/resources/images/modularLanding/entertainment/studios-logo1.png",
+        "logo2": "/web3/resources/images/modularLanding/entertainment/studios-logo2.png",
+        "logo3": "/web3/resources/images/modularLanding/entertainment/studios-logo3.png",
+        "logo4": "/web3/resources/images/modularLanding/entertainment/studios-logo4.png",
+        "logo5": "/web3/resources/images/modularLanding/entertainment/studios-logo5.png",
+        "logo6": "/web3/resources/images/modularLanding/entertainment/studios-logo6.png",
+        "logo7": "/web3/resources/images/modularLanding/entertainment/studios-logo7.png",
+        "logo8": "/web3/resources/images/modularLanding/entertainment/studios-logo8.png"
       }
     }
   },
@@ -266,169 +267,6 @@
         "title": "Vous avez un code promo ?",
         "subTitle": "",
         "cta": "Utiliser maintenant"
-      }
-    }
-  },
-   {
-    "id": 123458,
-    "moduleType": "GENRE_CARROUSEL",
-    "moduleShouldDisplay": true,
-    "copies": {
-      "en": {
-        "title": "Find Iconic Entertainment",
-        "subTitle": "Explore genres that define cinema and TV history.",
-        "cta": "Join Now"
-      },
-      "ar": {
-        "title": "اكتشف الترفيه الأيقوني",
-        "subTitle": "استمتع بالأنواع التي شكلت تاريخ السينما والتلفزيون.",
-        "cta": "اشترك الآن"
-      },
-      "fr": {
-        "title": "Découvrez un divertissement emblématique",
-        "subTitle": "Explorez des genres qui ont marqué l’histoire du cinéma et de la télévision.",
-        "cta": "Choisissez un plan"
-      }
-    },
-    "genre": [
-      {
-        "id": "0",
-        "image": {
-          "en": "/resources/images/landing/generic/genre1_en.png",
-          "ar": "/resources/images/landing/generic/genre1_ar.png",
-          "fr": "/resources/images/landing/generic/genre1_fr.png"
-        }
-      },
-      {
-        "id": "1",
-        "image": {
-          "en": "/resources/images/landing/generic/genre2_en.png",
-          "ar": "/resources/images/landing/generic/genre2_ar.png",
-          "fr": "/resources/images/landing/generic/genre2_fr.png"
-        }
-      },
-      {
-        "id": "2",
-        "image": {
-          "en": "/resources/images/landing/generic/genre3_en.png",
-          "ar": "/resources/images/landing/generic/genre3_ar.png",
-          "fr": "/resources/images/landing/generic/genre3_fr.png"
-        }
-      },
-      {
-        "id": "3",
-        "image": {
-          "en": "/resources/images/landing/generic/genre4_en.png",
-          "ar": "/resources/images/landing/generic/genre4_ar.png",
-          "fr": "/resources/images/landing/generic/genre4_fr.png"
-        }
-      },
-      {
-        "id": "4",
-        "image": {
-          "en": "/resources/images/landing/generic/genre5_en.png",
-          "ar": "/resources/images/landing/generic/genre5_ar.png",
-          "fr": "/resources/images/landing/generic/genre5_fr.png"
-        }
-      },
-      {
-        "id": "5",
-        "image": {
-          "en": "/resources/images/landing/generic/genre6_en.png",
-          "ar": "/resources/images/landing/generic/genre6_ar.png",
-          "fr": "/resources/images/landing/generic/genre6_fr.png"
-        }
-      },
-      {
-        "id": "6",
-        "image": {
-          "en": "/resources/images/landing/generic/genre7_en.png",
-          "ar": "/resources/images/landing/generic/genre7_ar.png",
-          "fr": "/resources/images/landing/generic/genre7_fr.png"
-        }
-      },
-      {
-        "id": "7",
-        "image": {
-          "en": "/resources/images/landing/generic/genre8_en.png",
-          "ar": "/resources/images/landing/generic/genre8_ar.png",
-          "fr": "/resources/images/landing/generic/genre8_fr.png"
-        }
-      },
-      {
-        "id": "8",
-        "image": {
-          "en": "/resources/images/landing/generic/genre9_en.png",
-          "ar": "/resources/images/landing/generic/genre9_ar.png",
-          "fr": "/resources/images/landing/generic/genre9_fr.png"
-        }
-      },
-      {
-        "id": "9",
-        "image": {
-          "en": "/resources/images/landing/generic/genre10_en.png",
-          "ar": "/resources/images/landing/generic/genre10_ar.png",
-          "fr": "/resources/images/landing/generic/genre10_fr.png"
-        }
-      }
-    ],
-    "images": {
-      "desktop": {
-        "0": [
-          "/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/resources/images/landing/v2/default/test/module5_carousel2.png"
-        ],
-        "1": [
-          "/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/resources/images/landing/v2/default/test/module5_carousel4.png",
-          "/resources/images/landing/v2/default/test/module5_carousel3.png",
-          "/resources/images/landing/v2/default/test/module5_carousel2.png",
-          "/resources/images/landing/v2/default/test/module5_carousel4.png",
-          "/resources/images/landing/v2/default/test/module5_carousel3.png",
-          "/resources/images/landing/v2/default/test/module5_carousel2.png",
-          "/resources/images/landing/v2/default/test/module5_carousel4.png"
-        ],
-        "2": [
-          "/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/resources/images/landing/v2/default/test/module5_carousel3.png",
-          "/resources/images/landing/v2/default/test/module5_carousel2.png",
-          "/resources/images/landing/v2/default/test/module5_carousel4.png"
-        ],
-        "3": [
-          "/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/resources/images/landing/v2/default/test/module5_carousel4.png",
-          "/resources/images/landing/v2/default/test/module5_carousel2.png"
-        ],
-        "4": [
-          "/resources/images/landing/v2/default/test/module5_carousel4.png",
-          "/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/resources/images/landing/v2/default/test/module5_carousel2.png",
-          "/resources/images/landing/v2/default/test/module5_carousel3.png"
-        ],
-        "5": [
-          "/resources/images/landing/v2/default/test/module5_carousel4.png",
-          "/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/resources/images/landing/v2/default/test/module5_carousel2.png",
-          "/resources/images/landing/v2/default/test/module5_carousel3.png"
-        ],
-                "6": [
-          "/resources/images/landing/v2/default/test/module5_carousel4.png",
-          "/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/resources/images/landing/v2/default/test/module5_carousel2.png",
-          "/resources/images/landing/v2/default/test/module5_carousel3.png"
-        ],
-                "7": [
-          "/resources/images/landing/v2/default/test/module5_carousel4.png",
-          "/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/resources/images/landing/v2/default/test/module5_carousel2.png",
-          "/resources/images/landing/v2/default/test/module5_carousel3.png"
-        ],
-                "9": [
-          "/resources/images/landing/v2/default/test/module5_carousel4.png",
-          "/resources/images/landing/v2/default/test/module5_carousel1.png",
-          "/resources/images/landing/v2/default/test/module5_carousel2.png",
-          "/resources/images/landing/v2/default/test/module5_carousel3.png"
-        ]
       }
     }
   },
