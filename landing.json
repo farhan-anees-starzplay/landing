@@ -278,22 +278,6 @@
           "ar": "/resources/images/landing/generic/genre1_ar.png",
           "fr": "/resources/images/landing/generic/genre1_fr.png"
         }
-      },
-      {
-        "id": "1",
-        "image": {
-          "en": "/resources/images/landing/generic/genre2_en.png",
-          "ar": "/resources/images/landing/generic/genre2_ar.png",
-          "fr": "/resources/images/landing/generic/genre2_fr.png"
-        }
-      },
-      {
-        "id": "2",
-        "image": {
-          "en": "/resources/images/landing/generic/genre3_en.png",
-          "ar": "/resources/images/landing/generic/genre3_ar.png",
-          "fr": "/resources/images/landing/generic/genre3_fr.png"
-        }
       }
     ],
     "images": {
