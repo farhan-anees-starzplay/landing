@@ -311,46 +311,6 @@
           "fr": "/resources/images/landing/generic/genre5_fr.png"
         }
       },
-      {
-        "id": "5",
-        "image": {
-          "en": "/resources/images/landing/generic/genre6_en.png",
-          "ar": "/resources/images/landing/generic/genre6_ar.png",
-          "fr": "/resources/images/landing/generic/genre6_fr.png"
-        }
-      },
-      {
-        "id": "6",
-        "image": {
-          "en": "/resources/images/landing/generic/genre7_en.png",
-          "ar": "/resources/images/landing/generic/genre7_ar.png",
-          "fr": "/resources/images/landing/generic/genre7_fr.png"
-        }
-      },
-      {
-        "id": "7",
-        "image": {
-          "en": "/resources/images/landing/generic/genre8_en.png",
-          "ar": "/resources/images/landing/generic/genre8_ar.png",
-          "fr": "/resources/images/landing/generic/genre8_fr.png"
-        }
-      },
-      {
-        "id": "8",
-        "image": {
-          "en": "/resources/images/landing/generic/genre9_en.png",
-          "ar": "/resources/images/landing/generic/genre9_ar.png",
-          "fr": "/resources/images/landing/generic/genre9_fr.png"
-        }
-      },
-      {
-        "id": "9",
-        "image": {
-          "en": "/resources/images/landing/generic/genre10_en.png",
-          "ar": "/resources/images/landing/generic/genre10_ar.png",
-          "fr": "/resources/images/landing/generic/genre10_fr.png"
-        }
-      }
     ],
     "images": {
       "desktop": {
