@@ -1,309 +1,310 @@
 [
-  {
-    "moduleType": "SEO",
-    "page": "iccchampionstarophy",
-    "moduleShouldDisplay": true,
-    "copies": {
-      "en": {
-        "title": "Subscribe to STARZPLAY | Football, Cricket, UFC & Live Sports",
-        "description": "Watch Live Sports on STARZPLAY. Watch T20 World Cup 2024, Serie A, UFC, Cricket, AFC, International Rugby, boxing, basketball & more. "
-      },
-      "ar": {
-        "title": "اشترك في STARZPLAY | كرة قدم، كريكت، UFC وأحداث رياضية مباشرة",
-        "description": "شاهد أحداث رياضية مباشرة على STARZPLAY. شاهد كأس العالم T20 للكريكت 2024، الدوري الايطالي، UFC، كريكت، بطولات الاتحاد الآسيوي، بطولات الرجبي الدولية، ملاكمة، كرة سلة، وغيرهم المزيد"
-      },
-      "fr": {
-        "title": "S'abonner à STARZPLAY | Football, Cricket, UFC & Sports en direct",
-        "description": "Regardez les sports en direct sur STARZPLAY. Regardez la Coupe du monde T20 2024, la Serie A, l'UFC, le cricket, l'AFC, le rugby international, la boxe, le basket-ball et bien plus encore."
-      }
-    }
-  },
-  {
-    "id": 123450,
-    "moduleType": "HERO",
-    "moduleShouldDisplay": true,
-    "subscriptionLogo": false,
-    "copies": {
-      "en": {
-        "title": {
-          "default": "Live & exclusive coverage of the ICC Champions Trophy 2025"
-        },
-        "subTitle": "",
-        "cta": "Join Now"
-      },
-      "ar": {
-        "title": {
-          "default": "تغطية مباشرة وحصرية لبطولة كأس الأبطال ICC للكريكت 2025"
-        },
-        "subTitle": "",
-        "cta": "اشترك الآن"
-      },
-      "fr": {
-        "title": {
-          "default": "Couverture en direct et exclusive de la ICC Champions Trophy 2025"
-        },
-        "subTitle": "",
-        "cta": "Rejoindre maintenant"
-      }
-    },
-    "images": {
-      "desktop": {
-        "heroImage": "/resources/images/channelLanding/iccchampionstrophy/default-lg-{dir}.png",
-        "heroImageCountry": "/resources/images/channelLanding/iccchampionstrophy/{countryCode}-lg-{dir}.png",
-        "heroImageUtmDesktop": "/resources/images/channelLanding/iccchampionstrophy/utm-content/{compainName}-lg-{dir}.png"
-      },
-      "tablet": {
-        "heroImage": "/resources/images/channelLanding/iccchampionstrophy/default-tab.png",
-        "heroImageCountry": "/resources/images/channelLanding/iccchampionstrophy/{countryCode}-tab.png",
-        "heroImageUtmDesktop": "/resources/images/channelLanding/iccchampionstrophy/utm-content/{compainName}-tab.png"
-      },
-      "mobile": {
-        "heroImage": "/resources/images/channelLanding/iccchampionstrophy/default-mob.png",
-        "heroImageCountry": "/resources/images/channelLanding/iccchampionstrophy/{countryCode}-mob.png",
-        "heroImageUtmDesktop": "/resources/images/channelLanding/iccchampionstrophy/utm-content/{compainName}-mob.png"
-      }
-    },
-    "benefitsSection": {
-      "moduleShouldDisplay": false,
-      "logo": {
-        "globe": "glob.svg",
-        "tv": "tv.svg",
-        "download": "download.svg",
-        "bag": "bag.svg",
-        "goodTick": "goodTick.svg"
-      },
+    {
+      "moduleType": "SEO",
+      "page": "iccchampionstarophy",
+      "moduleShouldDisplay": true,
       "copies": {
         "en": {
-          "globe": "Stream in Multi-Languages",
-          "bag": "Rent or Buy the Latest Releases",
-          "download": "Download and Watch Offline",
-          "goodTick": "Watch anytime, anywhere",
-          "tv": "Live Sports & Entertainment",
-          "ad-free": "Ad-Free",
-          "free-tv": "60+ Free TV Channels"
+          "title": "Watch ICC Champions Trophy 2025 Live | Exclusive on STARZPLAY",
+          "description": "Stream ICC Champions Trophy 2025 on STARZPLAY. Enjoy live streaming, match schedules, & exclusive cricket insights | Where to watch ICC Champions Trophy 2025."
         },
         "ar": {
-          "globe": "بث بلغات متعددة",
-          "bag": "استأجر أو اشترِ أحدث الإصدارات",
-          "download": "قم بالتنزيل وشاهد بدون إنترنت",
-          "goodTick": "شاهد في أي وقت ومن أي مكان",
-          "tv": "الرياضات والترفيه المباشر",
-          "ad-free": "بدون إعلانات",
-          "free-tv": "أكثر من 60 قناة تلفزيونية مجانية"
+          "title": "شاهد بطولة كأس الأبطال ICC 2025 مباشرة | حصريًا على ستارز بلاي",
+          "description": "تابع بطولة كأس الأبطال ICC 2025 على ستارز بلاي. استمتع بالبث المباشر، وجدول المباريات، وأهم الأخبار الحصرية عن الكريكيت. اشترك الآن للحصول على محتوى كريكيت مميز!"
         },
         "fr": {
-          "globe": "Diffusez en plusieurs langues",
-          "bag": "Louez ou achetez les dernières nouveautés",
-          "download": "Téléchargez et regardez hors ligne",
-          "goodTick": "Regardez à tout moment, n'importe où",
-          "tv": "Sports et divertissement en direct",
-          "ad-free": "Sans Publicité",
-          "free-tv": "Plus de 60 chaînes TV gratuites"
+          "title": "Regardez ICC Champions Trophy 2025 en Direct | Exclusivité STARZPLAY",
+          "description": "Restez à jour avec l'ICC Champions Trophy 2025 sur STARZPLAY. Profitez du streaming en direct, des calendriers des matchs et des analyses exclusives du cricket. Abonnez-vous maintenant pour un contenu premium sur le cricket !"
+        }
+      }
+    },
+    {
+      "id": 123450,
+      "moduleType": "HERO",
+      "moduleShouldDisplay": true,
+      "subscriptionLogo": false,
+      "copies": {
+        "en": {
+          "title": {
+            "default": "Live & exclusive coverage of the ICC Champions Trophy 2025"
+          },
+          "subTitle": "",
+          "cta": "Join Now"
+        },
+        "ar": {
+          "title": {
+            "default": "تغطية مباشرة وحصرية لبطولة كأس الأبطال ICC للكريكت 2025"
+          },
+          "subTitle": "",
+          "cta": "اشترك الآن"
+        },
+        "fr": {
+          "title": {
+            "default": "Couverture en direct et exclusive de la ICC Champions Trophy 2025"
+          },
+          "subTitle": "",
+          "cta": "Rejoindre maintenant"
+        }
+      },
+      "images": {
+        "desktop": {
+          "heroImage": "/resources/images/channelLanding/iccchampionstrophy/default-lg-{dir}.png",
+          "heroImageCountry": "/resources/images/channelLanding/iccchampionstrophy/{countryCode}-lg-{dir}.png",
+          "heroImageUtmDesktop": "/resources/images/channelLanding/iccchampionstrophy/utm-content/{compainName}-lg-{dir}.png"
+        },
+        "tablet": {
+          "heroImage": "/resources/images/channelLanding/iccchampionstrophy/default-tab.png",
+          "heroImageCountry": "/resources/images/channelLanding/iccchampionstrophy/{countryCode}-tab.png",
+          "heroImageUtmDesktop": "/resources/images/channelLanding/iccchampionstrophy/utm-content/{compainName}-tab.png"
+        },
+        "mobile": {
+          "heroImage": "/resources/images/channelLanding/iccchampionstrophy/default-mob.png",
+          "heroImageCountry": "/resources/images/channelLanding/iccchampionstrophy/{countryCode}-mob.png",
+          "heroImageUtmDesktop": "/resources/images/channelLanding/iccchampionstrophy/utm-content/{compainName}-mob.png"
+        }
+      },
+      "benefitsSection": {
+        "moduleShouldDisplay": false,
+        "logo": {
+          "globe": "glob.svg",
+          "tv": "tv.svg",
+          "download": "download.svg",
+          "bag": "bag.svg",
+          "goodTick": "goodTick.svg"
+        },
+        "copies": {
+          "en": {
+            "globe": "Stream in Multi-Languages",
+            "bag": "Rent or Buy the Latest Releases",
+            "download": "Download and Watch Offline",
+            "goodTick": "Watch anytime, anywhere",
+            "tv": "Live Sports & Entertainment",
+            "ad-free": "Ad-Free",
+            "free-tv": "60+ Free TV Channels"
+          },
+          "ar": {
+            "globe": "بث بلغات متعددة",
+            "bag": "استأجر أو اشترِ أحدث الإصدارات",
+            "download": "قم بالتنزيل وشاهد بدون إنترنت",
+            "goodTick": "شاهد في أي وقت ومن أي مكان",
+            "tv": "الرياضات والترفيه المباشر",
+            "ad-free": "بدون إعلانات",
+            "free-tv": "أكثر من 60 قناة تلفزيونية مجانية"
+          },
+          "fr": {
+            "globe": "Diffusez en plusieurs langues",
+            "bag": "Louez ou achetez les dernières nouveautés",
+            "download": "Téléchargez et regardez hors ligne",
+            "goodTick": "Regardez à tout moment, n'importe où",
+            "tv": "Sports et divertissement en direct",
+            "ad-free": "Sans Publicité",
+            "free-tv": "Plus de 60 chaînes TV gratuites"
+          }
+        }
+      }
+    },
+    {
+        "id": 45678,
+        "moduleType": "BASIC",
+        "moduleShouldDisplay": true,
+        "copies": {
+          "en": {
+            "title": "The Biggest Rivalry",
+            "subTitle": "",
+            "cta": "JOIN NOW"
+          },
+          "ar": {
+            "title": "المنافسات الكبرى",
+            "subTitle": "",
+            "cta": "اشترك الآن"
+          },
+          "fr": {
+            "title": "La plus grande rivalité",
+            "subTitle": "",
+            "cta": "Choisissez un plan"
+          }
+        },
+        "images": {
+          "desktop": "/resources/images/channelLanding/iccchampionstrophy/1basic-lg.png",
+          "mobile": "/resources/images/channelLanding/iccchampionstrophy/1basic-mob.png"
+        }
+      },
+    {
+      "id": 6736,
+      "moduleType": "IMAGES_CARROUSEL_AND_CHANNELS_LOGOS",
+      "moduleShouldDisplay": true,
+      "channelsLogoAtBottom": false,
+      "copies": {
+        "en": {
+          "title": "Upcoming Matches",
+          "subTitle": "",
+          "cta": "JOIN NOW"
+        },
+        "ar": {
+          "title": "المباريات القادمة",
+          "subTitle": "",
+          "cta": "اشترك الآن"
+        },
+        "fr": {
+          "title": "Matchs à venir",
+          "subTitle": "",
+          "cta": "Utiliser maintenant"
+        }
+      },
+      "images": {
+        "desktop": [
+          "/resources/images/channelLanding/iccchampionstrophy/1carousel-1-lg.png",
+          "/resources/images/channelLanding/iccchampionstrophy/1carousel-2-lg.png",
+          "/resources/images/channelLanding/iccchampionstrophy/1carousel-3-lg.png",
+          "/resources/images/channelLanding/iccchampionstrophy/1carousel-4-lg.png"
+        ]
+      },
+      "channelsLogoimages": {
+        "desktop": {
+          "logo1": "/images/channelLanding/iccchampionstrophy/ct-logo1.png",
+          "logo2": "/images/channelLanding/iccchampionstrophy/ct-logo2.png",
+          "logo3": "/images/channelLanding/iccchampionstrophy/ct-logo3.png",
+          "logo4": "/images/channelLanding/iccchampionstrophy/ct-logo4.png",
+          "logo5": "/images/channelLanding/iccchampionstrophy/ct-logo5.png",
+          "logo6": "/images/channelLanding/iccchampionstrophy/ct-logo6.png",
+          "logo7": "/images/channelLanding/iccchampionstrophy/ct-logo7.png",
+          "logo8": "/images/channelLanding/iccchampionstrophy/ct-logo8.png"
+
+        }
+      }
+    },
+    {
+      "id": 123451,
+      "moduleType": "SUBSCRIPTION",
+      "moduleShouldDisplay": true,
+      "copies": {}
+    },
+    {
+      "id": 123459,
+      "moduleType": "VOUCHER_REDEMPTION",
+      "moduleShouldDisplay": true,
+      "copies": {
+        "en": {
+          "title": "Have a Gift Voucher?",
+          "subTitle": "",
+          "cta": "Redeem Now"
+        },
+        "ar": {
+          "title": "هل لديك قسيمة؟",
+          "subTitle": "",
+          "cta": "استبدل الآن"
+        },
+        "fr": {
+          "title": "Vous avez un code promo ?",
+          "subTitle": "",
+          "cta": "Utiliser maintenant"
+        }
+      }
+    },
+    {
+      "id": 1234510,
+      "moduleType": "FAQ",
+      "moduleShouldDisplay": true,
+      "copies": {
+        "en": {
+          "title": "Frequently asked questions",
+          "default": [
+            {
+              "title": "What is STARZPLAY MAX?",
+              "content": "STARZPLAY MAX is a premium subscription package that offers an extensive entertainment experience with a rich library of top Hollywood movies, exclusive TV shows, popular Arabic titles, documentaries, and kids’ entertainment. Subscribers can also enjoy same-time-as-the-US series and a variety of live and premium sports content. All of this comes with an ad-free experience, ensuring uninterrupted viewing of your favorite content."
+            },
+            {
+              "title": "What is the Season Pass?",
+              "content": "The Season Pass is an exclusive add-on that grants access to a specific sports tournament for its entire duration. It is included in the STARZPLAY MAX annual plan at no extra cost, while monthly plan subscribers can purchase it as an optional add-on. Once the tournament ends, the Season Pass expires, and a new pass will be required for the next season or any upcoming tournament. This ensures that you only pay for the sports events you want to watch."
+            },
+            {
+              "title": "Which popular content is part of this Subscription?",
+              "content": "STARZPLAY offers a variety of premium sports content, including live matches, highlights, and exclusive coverage of major leagues and tournaments. This includes:<br><br>UFC – Live fights, pre-fight analysis, and post-fight coverage.<br>Cricket – The biggest ICC tournaments, T20I, ODI and Test Series all year round.<br>Serie A – Live matches, replays, and analysis from Italy’s top football league.<br>AEW – Weekly shows, live premium events, and exclusive specials.<br>Asian Football – AFC Champions League, AFC Asian Cup, and more.<br>Rugby - HSBC World Rugby Sevens Series<br>Golf - PGA Tour & DP World Tour<br>Other Sports – Basketball, Tennis, Boxing, and more, depending on availability.<br>Content availability may vary based on your region."
+            },
+            {
+              "title": "Will I get a personalized experience? ",
+              "content": "Our advanced recommendation algorithm analyzes your viewing habits, preferences, and favorite genres to suggest content tailored specifically for you. You'll notice personalized recommendations on your homepage, such as \"Recommended For You\", \"Top Picks for You,\" and curated collections matching your interests, ensuring you always have exciting options to explore. Furthermore, you can always save your favorites and find them in \"My List\". We also make sure we tailor our content based on your favorites."
+            },
+            {
+              "title": "What payment methods are supported to subscribe?",
+              "content": "We support the following payment options such as,<br><br>- Credit Card<br>- Debit Card<br>- PayPal<br>- Mada<br>- Apple In-App Purchase (Apple Devices Only)<br>- Google In-App Purchase (Android Devices)<br>- Telco Billing<br>- Voucher"
+            },
+            {
+              "title": "Can I switch between monthly and annual plans?",
+              "content": "Yes, you can switch between monthly and annual plans. The process depends on the rules of your payment method, which may determine how the transition is handled."
+            },
+            {
+              "title": "Can I cancel my subscription at any time?",
+              "content": "Yes, you can cancel your subscription at any time. Once canceled, you will not be charged for the next payment cycle, but you can continue using your subscription until the current billing period ends."
+            }
+          ]
+        },
+        "fr": {
+          "title": "Foire Aux Questions",
+          "default": [
+            {
+              "title": "Qu'est-ce que STARZPLAY MAX ?",
+              "content": "STARZPLAY MAX est un forfait d'abonnement premium qui offre une expérience de divertissement complète avec une riche bibliothèque de films hollywoodiens, de séries exclusives, de titres arabes populaires, de documentaires et de divertissement pour enfants. Les abonnés peuvent également profiter des séries diffusées en même temps qu'aux États-Unis et d'une variété de contenus sportifs en direct et premium. Tout cela se fait sans publicités, garantissant une expérience de visionnage ininterrompue de vos contenus préférés."
+            },
+            {
+              "title": "Qu'est-ce que le Pass Saison ?",
+              "content": " Le Pass Saison est un ajout exclusif qui donne accès à un tournoi sportif spécifique pendant toute sa durée. Il est inclus dans le plan annuel STARZPLAY MAX sans coût supplémentaire, tandis que les abonnés au plan mensuel peuvent l'acheter en tant qu'ajout optionnel. Une fois le tournoi terminé, le Pass Saison expire, et un nouveau pass sera requis pour la saison suivante ou tout tournoi à venir. Cela garantit que vous ne payez que pour les événements sportifs que vous souhaitez regarder."
+            },
+            {
+              "title": "Quels contenus populaires font partie de cet abonnement ?",
+              "content": "STARZPLAY propose une variété de contenus sportifs premium, y compris des matchs en direct, des temps forts et une couverture exclusive des grandes ligues et tournois. Cela inclut :<br><br>UFC – Combats en direct, analyse avant le combat et couverture après le combat.<br>Cricket – Les plus grands tournois ICC, T20I, ODI et les séries de tests toute l'année.<br>Serie A – Matchs en direct, rediffusions et analyses de la première ligue de football italienne.<br>AEW – Shows hebdomadaires, événements premium en direct et émissions spéciales exclusives.<br>Football asiatique – Ligue des champions AFC, Coupe d'Asie AFC, et plus encore.<br>Rugby – HSBC World Rugby Sevens Series.<br>Golf – PGA Tour & DP World Tour.<br>Autres sports – Basketball, Tennis, Boxe, et plus encore, selon la disponibilité.<br>La disponibilité du contenu peut varier en fonction de votre région."
+            },
+            {
+              "title": "Est-ce que je vais bénéficier d'une expérience personnalisée ?",
+              "content": "Notre algorithme de recommandation avancé analyse vos habitudes de visionnage, vos préférences et vos genres favoris pour vous suggérer un contenu spécifiquement adapté à vos goûts. Vous remarquerez des recommandations personnalisées sur votre page d'accueil, telles que \"Recommandé pour vous\", \"Les meilleures sélections pour vous\" et des collections adaptées à vos intérêts, vous assurant ainsi de toujours avoir des options intéressantes à explorer. De plus, vous pouvez toujours enregistrer vos favoris et les retrouver dans \"Ma liste\". Nous veillons également à personnaliser notre contenu en fonction de vos favoris."
+            },
+            {
+              "title": "Quels modes de paiement sont acceptés pour s'abonner ?",
+              "content": "Nous prenons en charge les options de paiement suivantes :<br><br>- Carte de crédit<br>- Carte de débit<br>- PayPal<br>- Mada<br>- Achat In-App (uniquement pour les appareils Apple)<br>- Achat In-App (pour les appareils Android)<br>- Facturation par opérateur téléphonique<br>- Bon d'achat<br>Pour plus de préoccupations liées au paiement, consultez la section FAQ."
+            },
+            {
+              "title": "Puis-je passer d'un plan mensuel à un plan annuel ?",
+              "content": "Oui, vous pouvez passer d'un plan mensuel à un plan annuel. Le processus dépend des règles de votre méthode de paiement, qui peuvent déterminer la manière dont la transition est gérée."
+            },
+            {
+              "title": "Puis-je annuler mon abonnement à tout moment ?",
+              "content": "Oui, vous pouvez annuler votre abonnement à tout moment. Une fois annulé, vous ne serez pas facturé pour le prochain cycle de paiement, mais vous pourrez continuer à utiliser votre abonnement jusqu'à la fin de la période de facturation actuelle."
+            }
+          ]
+        },
+        "ar": {
+          "title": "الأسئلة الشائعة",
+          "default": [
+            {
+              "title": "ما هي STARZPLAY MAX؟",
+              "content": "STARZPLAY MAX هي باقة اشتراك مميزة تقدم تجربة ترفيهية شاملة مع مكتبة غنية من أفلام هوليوود الشهيرة، والمسلسلات الحصرية، وأشهر الأعمال العربية، والأفلام الوثائقية، ومحتوى ترفيهي خاص للأطفال. يمكن للمشتركين أيضًا الاستمتاع بالمسلسلات التي تعرض في نفس وقت عرضها في أمريكا، بالإضافة إلى مجموعة متنوعة من المحتوى الرياضي مع أشهر الأحداث الرياضية المباشرة والمميزة. يأتي كل هذا مع تجربة خالية من الإعلانات، مما يضمن مشاهدة بدون انقطاع لمحتواك المفضل."
+            },
+            {
+              "title": "ما هو اشتراك تذكرة الموسم؟",
+              "content": "اشتراك تذكرة الموسم هو إضافة حصرية تمنحك الوصول إلى بطولة رياضية معينة طوال مدتها. ويكون ضمن الخطة السنوية لـ STARZPLAY MAX دون أي تكلفة إضافية، بينما يمكن لمشتركي الخطة الشهرية شراءه كإضافة اختيارية. بمجرد انتهاء البطولة، تنتهي صلاحية الاشتراك، وسيكون من الضروري شراء اشتراك جديد للموسم التالي أو أي بطولة قادمة. يضمن ذلك أنك تدفع فقط مقابل الفعاليات الرياضية التي ترغب في مشاهدتها."
+            },
+            {
+              "title": "ما هو المحتوى الشهير المتاح في هذا الاشتراك؟",
+              "content": "تقدم STARZPLAY الرياضية مجموعة متنوعة من المحتوى الرياضي المميز، بما في ذلك المباريات المباشرة، وأبرز اللحظات، والتغطية الحصرية لأهم البطولات والدوريات. يشمل ذلك:<br><br>UFC – النزالات المباشرة، التحليل قبل النزال، والتغطية بعد النزال.<br>الكريكيت – أضخم البطولات من ICC، T20I، ODI وسلسلة الاختبارات طوال العام.<br>الدوري الإيطالي (Serie A) – المباريات المباشرة، الإعادات، والاستديو التحليلي.<br>AEW – العروض الأسبوعية، الأحداث المباشرة المميزة، والعروض الخاصة الحصرية.<br>كرة القدم الآسيوية – دوري أبطال آسيا، كأس آسيا AFC، وأكثر.<br>الركبي – سلسلة HSBC العالمية للركبي السبعيات.<br>الغولف – PGA Tour وDP World Tour.<br>رياضات أخرى – كرة السلة، التنس، الملاكمة، والمزيد، حسب توفره. فقد يختلف توفر المحتوى حسب منطقتك."
+            },
+            {
+              "title": "هل سأسمتع بتجربة مخصصة من أجلي؟",
+              "content": "تكنولوجيا التوصية المتقدمة لدينا تحلل عادات المشاهدة والتفضيلات والأنواع المفضلة لديك لتقديم محتوى مخصص لك بشكل خاص. ستلاحظ التوصيات الشخصية على صفحتك الرئيسية، مثل \"موصى به لك\"، و\"أفضل الاختيارات لك\"، والمجموعات المخصصة التي تتناسب مع اهتماماتك، مما يضمن لك دائمًا خيارات مثيرة لاستكشافها. بالإضافة إلى ذلك، يمكنك دائمًا حفظ المفضلات والعثور عليها في \"قائمتي\". نحن أيضًا نحرص على تخصيص المحتوى بناءً على تفضيلاتك."
+            },
+            {
+              "title": "ما هي طرق الدفع المدعومة للاشتراك؟",
+              "content": "ندعم خيارات الدفع التالية:<br><br>- بطاقة ائتمان<br>- بطاقة خصم<br>- PayPal<br>- مدى<br>- شراء داخل التطبيق (لأجهزة Apple فقط)<br>- شراء داخل التطبيق (لأجهزة Android)<br>- فواتير شركات الاتصالات<br>- قسيمة<br>للمزيد من الاستفسارات المتعلقة بعملية الدفع، يمكنك زيارة قسم الأسئلة الشائعة."
+            },
+            {
+              "title": "هل يمكنني التبديل بين الخطط الشهرية والسنوية؟",
+              "content": "نعم، يمكنك التبديل بين الخطط الشهرية والسنوية. حيث ستتوقف العملية على طريقة الدفع الخاصة بك، والتي قد تحدد كيف سيتم هذا الانتقال."
+            },
+            {
+              "title": "هل يمكنني إلغاء اشتراكي في أي وقت؟",
+              "content": "نعم، يمكنك إلغاء اشتراكك في أي وقت. بمجرد الإلغاء، لن يتم تحصيل أي رسوم للدورة التالية، ولكن يمكنك الاستمرار في استخدام اشتراكك حتى نهاية فترة الفوترة الحالية."
+            }
+          ]
         }
       }
     }
-  },
-  {
-    "id": 45678,
-    "moduleType": "BASIC",
-    "moduleShouldDisplay": true,
-    "copies": {
-      "en": {
-        "title": "The Biggest Rivalry",
-        "subTitle": "",
-        "cta": "JOIN NOW"
-      },
-      "ar": {
-        "title": "المنافسات الكبرى",
-        "subTitle": "",
-        "cta": "اشترك الآن"
-      },
-      "fr": {
-        "title": "La plus grande rivalité",
-        "subTitle": "",
-        "cta": "Choisissez un plan"
-      }
-    },
-    "images": {
-      "desktop": "/resources/images/channelLanding/iccchampionstrophy/1basic-lg.png",
-      "mobile": "/resources/images/channelLanding/iccchampionstrophy/1basic-mob.png"
-    }
-  },
-  {
-    "id": 6736,
-    "moduleType": "IMAGES_CARROUSEL_AND_CHANNELS_LOGOS",
-    "moduleShouldDisplay": true,
-    "channelsLogoAtBottom": false,
-    "copies": {
-      "en": {
-        "title": "Upcoming Matches",
-        "subTitle": "",
-        "cta": "JOIN NOW"
-      },
-      "ar": {
-        "title": "المباريات القادمة",
-        "subTitle": "",
-        "cta": "اشترك الآن"
-      },
-      "fr": {
-        "title": "Matchs à venir",
-        "subTitle": "",
-        "cta": "Utiliser maintenant"
-      }
-    },
-    "images": {
-      "desktop": [
-        "/resources/images/channelLanding/iccchampionstrophy/1carousel-1-lg.png",
-        "/resources/images/channelLanding/iccchampionstrophy/1carousel-2-lg.png",
-        "/resources/images/channelLanding/iccchampionstrophy/1carousel-3-lg.png",
-        "/resources/images/channelLanding/iccchampionstrophy/1carousel-4-lg.png"
-      ]
-    },
-    "channelsLogoimages": {
-      "desktop": {
-        "logo1": "/images/channelLanding/iccchampionstrophy/ct-logo1.png",
-        "logo2": "/images/channelLanding/iccchampionstrophy/ct-logo2.png",
-        "logo3": "/images/channelLanding/iccchampionstrophy/ct-logo3.png",
-        "logo4": "/images/channelLanding/iccchampionstrophy/ct-logo4.png",
-        "logo5": "/images/channelLanding/iccchampionstrophy/ct-logo5.png",
-        "logo6": "/images/channelLanding/iccchampionstrophy/ct-logo6.png",
-        "logo7": "/images/channelLanding/iccchampionstrophy/ct-logo7.png",
-        "logo8": "/images/channelLanding/iccchampionstrophy/ct-logo8.png"
-      }
-    }
-  },
-  {
-    "id": 123451,
-    "moduleType": "SUBSCRIPTION",
-    "moduleShouldDisplay": true,
-    "copies": {}
-  },
-  {
-    "id": 123459,
-    "moduleType": "VOUCHER_REDEMPTION",
-    "moduleShouldDisplay": true,
-    "copies": {
-      "en": {
-        "title": "Have a Gift Voucher?",
-        "subTitle": "",
-        "cta": "Redeem Now"
-      },
-      "ar": {
-        "title": "هل لديك قسيمة؟",
-        "subTitle": "",
-        "cta": "استبدل الآن"
-      },
-      "fr": {
-        "title": "Vous avez un code promo ?",
-        "subTitle": "",
-        "cta": "Utiliser maintenant"
-      }
-    }
-  },
-  {
-    "id": 1234510,
-    "moduleType": "FAQ",
-    "moduleShouldDisplay": true,
-    "copies": {
-      "en": {
-        "title": "Frequently asked questions",
-        "default": [
-          {
-            "title": "What is STARZPLAY MAX?",
-            "content": "STARZPLAY MAX is a premium subscription package that offers an extensive entertainment experience with a rich library of top Hollywood movies, exclusive TV shows, popular Arabic titles, documentaries, and kids’ entertainment. Subscribers can also enjoy same-time-as-the-US series and a variety of live and premium sports content. All of this comes with an ad-free experience, ensuring uninterrupted viewing of your favorite content."
-          },
-          {
-            "title": "What is the Season Pass?",
-            "content": "The Season Pass is an exclusive add-on that grants access to a specific sports tournament for its entire duration. It is included in the STARZPLAY MAX annual plan at no extra cost, while monthly plan subscribers can purchase it as an optional add-on. Once the tournament ends, the Season Pass expires, and a new pass will be required for the next season or any upcoming tournament. This ensures that you only pay for the sports events you want to watch."
-          },
-          {
-            "title": "Which popular content is part of this Subscription?",
-            "content": "STARZPLAY offers a variety of premium sports content, including live matches, highlights, and exclusive coverage of major leagues and tournaments. This includes:<br><br>UFC – Live fights, pre-fight analysis, and post-fight coverage.<br>Cricket – The biggest ICC tournaments, T20I, ODI and Test Series all year round.<br>Serie A – Live matches, replays, and analysis from Italy’s top football league.<br>AEW – Weekly shows, live premium events, and exclusive specials.<br>Asian Football – AFC Champions League, AFC Asian Cup, and more.<br>Rugby - HSBC World Rugby Sevens Series<br>Golf - PGA Tour & DP World Tour<br>Other Sports – Basketball, Tennis, Boxing, and more, depending on availability.<br>Content availability may vary based on your region."
-          },
-          {
-            "title": "Will I get a personalized experience? ",
-            "content": "Our advanced recommendation algorithm analyzes your viewing habits, preferences, and favorite genres to suggest content tailored specifically for you. You'll notice personalized recommendations on your homepage, such as \"Recommended For You\", \"Top Picks for You,\" and curated collections matching your interests, ensuring you always have exciting options to explore. Furthermore, you can always save your favorites and find them in \"My List\". We also make sure we tailor our content based on your favorites."
-          },
-          {
-            "title": "What payment methods are supported to subscribe?",
-            "content": "We support the following payment options such as,<br><br>- Credit Card<br>- Debit Card<br>- PayPal<br>- Mada<br>- Apple In-App Purchase (Apple Devices Only)<br>- Google In-App Purchase (Android Devices)<br>- Telco Billing<br>- Voucher"
-          },
-          {
-            "title": "Can I switch between monthly and annual plans?",
-            "content": "Yes, you can switch between monthly and annual plans. The process depends on the rules of your payment method, which may determine how the transition is handled."
-          },
-          {
-            "title": "Can I cancel my subscription at any time?",
-            "content": "Yes, you can cancel your subscription at any time. Once canceled, you will not be charged for the next payment cycle, but you can continue using your subscription until the current billing period ends."
-          }
-        ]
-      },
-      "fr": {
-        "title": "Foire Aux Questions",
-        "default": [
-          {
-            "title": "Qu'est-ce que STARZPLAY MAX ?",
-            "content": "STARZPLAY MAX est un forfait d'abonnement premium qui offre une expérience de divertissement complète avec une riche bibliothèque de films hollywoodiens, de séries exclusives, de titres arabes populaires, de documentaires et de divertissement pour enfants. Les abonnés peuvent également profiter des séries diffusées en même temps qu'aux États-Unis et d'une variété de contenus sportifs en direct et premium. Tout cela se fait sans publicités, garantissant une expérience de visionnage ininterrompue de vos contenus préférés."
-          },
-          {
-            "title": "Qu'est-ce que le Pass Saison ?",
-            "content": " Le Pass Saison est un ajout exclusif qui donne accès à un tournoi sportif spécifique pendant toute sa durée. Il est inclus dans le plan annuel STARZPLAY MAX sans coût supplémentaire, tandis que les abonnés au plan mensuel peuvent l'acheter en tant qu'ajout optionnel. Une fois le tournoi terminé, le Pass Saison expire, et un nouveau pass sera requis pour la saison suivante ou tout tournoi à venir. Cela garantit que vous ne payez que pour les événements sportifs que vous souhaitez regarder."
-          },
-          {
-            "title": "Quels contenus populaires font partie de cet abonnement ?",
-            "content": "STARZPLAY propose une variété de contenus sportifs premium, y compris des matchs en direct, des temps forts et une couverture exclusive des grandes ligues et tournois. Cela inclut :<br><br>UFC – Combats en direct, analyse avant le combat et couverture après le combat.<br>Cricket – Les plus grands tournois ICC, T20I, ODI et les séries de tests toute l'année.<br>Serie A – Matchs en direct, rediffusions et analyses de la première ligue de football italienne.<br>AEW – Shows hebdomadaires, événements premium en direct et émissions spéciales exclusives.<br>Football asiatique – Ligue des champions AFC, Coupe d'Asie AFC, et plus encore.<br>Rugby – HSBC World Rugby Sevens Series.<br>Golf – PGA Tour & DP World Tour.<br>Autres sports – Basketball, Tennis, Boxe, et plus encore, selon la disponibilité.<br>La disponibilité du contenu peut varier en fonction de votre région."
-          },
-          {
-            "title": "Est-ce que je vais bénéficier d'une expérience personnalisée ?",
-            "content": "Notre algorithme de recommandation avancé analyse vos habitudes de visionnage, vos préférences et vos genres favoris pour vous suggérer un contenu spécifiquement adapté à vos goûts. Vous remarquerez des recommandations personnalisées sur votre page d'accueil, telles que \"Recommandé pour vous\", \"Les meilleures sélections pour vous\" et des collections adaptées à vos intérêts, vous assurant ainsi de toujours avoir des options intéressantes à explorer. De plus, vous pouvez toujours enregistrer vos favoris et les retrouver dans \"Ma liste\". Nous veillons également à personnaliser notre contenu en fonction de vos favoris."
-          },
-          {
-            "title": "Quels modes de paiement sont acceptés pour s'abonner ?",
-            "content": "Nous prenons en charge les options de paiement suivantes :<br><br>- Carte de crédit<br>- Carte de débit<br>- PayPal<br>- Mada<br>- Achat In-App (uniquement pour les appareils Apple)<br>- Achat In-App (pour les appareils Android)<br>- Facturation par opérateur téléphonique<br>- Bon d'achat<br>Pour plus de préoccupations liées au paiement, consultez la section FAQ."
-          },
-          {
-            "title": "Puis-je passer d'un plan mensuel à un plan annuel ?",
-            "content": "Oui, vous pouvez passer d'un plan mensuel à un plan annuel. Le processus dépend des règles de votre méthode de paiement, qui peuvent déterminer la manière dont la transition est gérée."
-          },
-          {
-            "title": "Puis-je annuler mon abonnement à tout moment ?",
-            "content": "Oui, vous pouvez annuler votre abonnement à tout moment. Une fois annulé, vous ne serez pas facturé pour le prochain cycle de paiement, mais vous pourrez continuer à utiliser votre abonnement jusqu'à la fin de la période de facturation actuelle."
-          }
-        ]
-      },
-      "ar": {
-        "title": "الأسئلة الشائعة",
-        "default": [
-          {
-            "title": "ما هي STARZPLAY MAX؟",
-            "content": "STARZPLAY MAX هي باقة اشتراك مميزة تقدم تجربة ترفيهية شاملة مع مكتبة غنية من أفلام هوليوود الشهيرة، والمسلسلات الحصرية، وأشهر الأعمال العربية، والأفلام الوثائقية، ومحتوى ترفيهي خاص للأطفال. يمكن للمشتركين أيضًا الاستمتاع بالمسلسلات التي تعرض في نفس وقت عرضها في أمريكا، بالإضافة إلى مجموعة متنوعة من المحتوى الرياضي مع أشهر الأحداث الرياضية المباشرة والمميزة. يأتي كل هذا مع تجربة خالية من الإعلانات، مما يضمن مشاهدة بدون انقطاع لمحتواك المفضل."
-          },
-          {
-            "title": "ما هو اشتراك تذكرة الموسم؟",
-            "content": "اشتراك تذكرة الموسم هو إضافة حصرية تمنحك الوصول إلى بطولة رياضية معينة طوال مدتها. ويكون ضمن الخطة السنوية لـ STARZPLAY MAX دون أي تكلفة إضافية، بينما يمكن لمشتركي الخطة الشهرية شراءه كإضافة اختيارية. بمجرد انتهاء البطولة، تنتهي صلاحية الاشتراك، وسيكون من الضروري شراء اشتراك جديد للموسم التالي أو أي بطولة قادمة. يضمن ذلك أنك تدفع فقط مقابل الفعاليات الرياضية التي ترغب في مشاهدتها."
-          },
-          {
-            "title": "ما هو المحتوى الشهير المتاح في هذا الاشتراك؟",
-            "content": "تقدم STARZPLAY الرياضية مجموعة متنوعة من المحتوى الرياضي المميز، بما في ذلك المباريات المباشرة، وأبرز اللحظات، والتغطية الحصرية لأهم البطولات والدوريات. يشمل ذلك:<br><br>UFC – النزالات المباشرة، التحليل قبل النزال، والتغطية بعد النزال.<br>الكريكيت – أضخم البطولات من ICC، T20I، ODI وسلسلة الاختبارات طوال العام.<br>الدوري الإيطالي (Serie A) – المباريات المباشرة، الإعادات، والاستديو التحليلي.<br>AEW – العروض الأسبوعية، الأحداث المباشرة المميزة، والعروض الخاصة الحصرية.<br>كرة القدم الآسيوية – دوري أبطال آسيا، كأس آسيا AFC، وأكثر.<br>الركبي – سلسلة HSBC العالمية للركبي السبعيات.<br>الغولف – PGA Tour وDP World Tour.<br>رياضات أخرى – كرة السلة، التنس، الملاكمة، والمزيد، حسب توفره. فقد يختلف توفر المحتوى حسب منطقتك."
-          },
-          {
-            "title": "هل سأسمتع بتجربة مخصصة من أجلي؟",
-            "content": "تكنولوجيا التوصية المتقدمة لدينا تحلل عادات المشاهدة والتفضيلات والأنواع المفضلة لديك لتقديم محتوى مخصص لك بشكل خاص. ستلاحظ التوصيات الشخصية على صفحتك الرئيسية، مثل \"موصى به لك\"، و\"أفضل الاختيارات لك\"، والمجموعات المخصصة التي تتناسب مع اهتماماتك، مما يضمن لك دائمًا خيارات مثيرة لاستكشافها. بالإضافة إلى ذلك، يمكنك دائمًا حفظ المفضلات والعثور عليها في \"قائمتي\". نحن أيضًا نحرص على تخصيص المحتوى بناءً على تفضيلاتك."
-          },
-          {
-            "title": "ما هي طرق الدفع المدعومة للاشتراك؟",
-            "content": "ندعم خيارات الدفع التالية:<br><br>- بطاقة ائتمان<br>- بطاقة خصم<br>- PayPal<br>- مدى<br>- شراء داخل التطبيق (لأجهزة Apple فقط)<br>- شراء داخل التطبيق (لأجهزة Android)<br>- فواتير شركات الاتصالات<br>- قسيمة<br>للمزيد من الاستفسارات المتعلقة بعملية الدفع، يمكنك زيارة قسم الأسئلة الشائعة."
-          },
-          {
-            "title": "هل يمكنني التبديل بين الخطط الشهرية والسنوية؟",
-            "content": "نعم، يمكنك التبديل بين الخطط الشهرية والسنوية. حيث ستتوقف العملية على طريقة الدفع الخاصة بك، والتي قد تحدد كيف سيتم هذا الانتقال."
-          },
-          {
-            "title": "هل يمكنني إلغاء اشتراكي في أي وقت؟",
-            "content": "نعم، يمكنك إلغاء اشتراكك في أي وقت. بمجرد الإلغاء، لن يتم تحصيل أي رسوم للدورة التالية، ولكن يمكنك الاستمرار في استخدام اشتراكك حتى نهاية فترة الفوترة الحالية."
-          }
-        ]
-      }
-    }
-  }
-]
+  ]
