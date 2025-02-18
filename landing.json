@@ -53,12 +53,10 @@
         },
         "tablet": {
           "heroImage": "/resources/images/modularLanding/landing/default-tab.png",
-          "heroImageCountry": "/resources/images/modularLanding/landing/{countryCode}-tab.png",
           "heroImageUtmDesktop": "/resources/images/modularLanding/landing/utm-content/{compainName}-tab.png"
         },
         "mobile": {
           "heroImage": "/resources/images/modularLanding/landing/default-mob.png",
-          "heroImageCountry": "/resources/images/modularLanding/landing/{countryCode}-mob.png",
           "heroImageUtmDesktop": "/resources/images/modularLanding/landing/utm-content/{compainName}-mob.png"
         }
       },
