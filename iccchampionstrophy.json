@@ -49,17 +49,14 @@
       "images": {
         "desktop": {
           "heroImage": "/resources/images/channelLanding/iccchampionstrophy/default-lg-{dir}.png",
-          "heroImageCountry": "/resources/images/channelLanding/iccchampionstrophy/{countryCode}-lg-{dir}.png",
           "heroImageUtmDesktop": "/resources/images/channelLanding/iccchampionstrophy/utm-content/{compainName}-lg-{dir}.png"
         },
         "tablet": {
           "heroImage": "/resources/images/channelLanding/iccchampionstrophy/default-tab.png",
-          "heroImageCountry": "/resources/images/channelLanding/iccchampionstrophy/{countryCode}-tab.png",
           "heroImageUtmDesktop": "/resources/images/channelLanding/iccchampionstrophy/utm-content/{compainName}-tab.png"
         },
         "mobile": {
           "heroImage": "/resources/images/channelLanding/iccchampionstrophy/default-mob.png",
-          "heroImageCountry": "/resources/images/channelLanding/iccchampionstrophy/{countryCode}-mob.png",
           "heroImageUtmDesktop": "/resources/images/channelLanding/iccchampionstrophy/utm-content/{compainName}-mob.png"
         }
       },
@@ -104,31 +101,31 @@
       }
     },
     {
-        "id": 45678,
-        "moduleType": "BASIC",
-        "moduleShouldDisplay": true,
-        "copies": {
-          "en": {
-            "title": "The Biggest Rivalry",
-            "subTitle": "",
-            "cta": "JOIN NOW"
-          },
-          "ar": {
-            "title": "المنافسات الكبرى",
-            "subTitle": "",
-            "cta": "اشترك الآن"
-          },
-          "fr": {
-            "title": "La plus grande rivalité",
-            "subTitle": "",
-            "cta": "Choisissez un plan"
-          }
+      "id": 45678,
+      "moduleType": "BASIC",
+      "moduleShouldDisplay": true,
+      "copies": {
+        "en": {
+          "title": "The Biggest Rivalry",
+          "subTitle": "",
+          "cta": "JOIN NOW"
         },
-        "images": {
-          "desktop": "/resources/images/channelLanding/iccchampionstrophy/1basic-lg.png",
-          "mobile": "/resources/images/channelLanding/iccchampionstrophy/1basic-mob.png"
+        "ar": {
+          "title": "المنافسات الكبرى",
+          "subTitle": "",
+          "cta": "اشترك الآن"
+        },
+        "fr": {
+          "title": "La plus grande rivalité",
+          "subTitle": "",
+          "cta": "Choisissez un plan"
         }
       },
+      "images": {
+        "desktop": "/resources/images/channelLanding/iccchampionstrophy/1basic-lg.png",
+        "mobile": "/resources/images/channelLanding/iccchampionstrophy/1basic-mob.png"
+      }
+    },
     {
       "id": 6736,
       "moduleType": "IMAGES_CARROUSEL_AND_CHANNELS_LOGOS",
@@ -169,7 +166,6 @@
           "logo6": "/images/channelLanding/iccchampionstrophy/ct-logo6.png",
           "logo7": "/images/channelLanding/iccchampionstrophy/ct-logo7.png",
           "logo8": "/images/channelLanding/iccchampionstrophy/ct-logo8.png"
-
         }
       }
     },
