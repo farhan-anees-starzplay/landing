@@ -1,0 +1,776 @@
+{
+    "total": 27,
+    "x-token": "SGVyb3xUb3AgMTAgTW92aWVzIGluIEluZGlhfFdhdGNoIEluIFRlbHVndXxNdXN0IFdhdGNoIE5vd3xXYXRjaCBOZXh0fFRoZSBVbHRpbWF0ZSBTaGVybG9jayBGaWxlc3xDb21pbmcgU29vbiBvbiBMaW9uc2dhdGUgUGxheXxUaGlzIFdlZWsncyBSZWNvbW1lbmRhdGlvbnN8S29yZWFuIERpYXJpZXN8SGlnaCBPY3RhbmUgSGl0c3xGaXJzdCBFcGlzb2RlIEZyZWV8QmlnIEd1bnMgb2YgSG9sbHl3b29kfFBvd2VyIFBhY2tlZHxNb3ZpZXMgRnJvbSBBcm91bmQgVGhlIFdvcmxkfEhhcyBGYWxsZW4gRnJhbmNoaXNlfEhvbGx5d29vZCBCbG9ja2J1c3RlciBGcmFuY2hpc2V8SG91c2UgT2YgSG9ycm9yfENyZWF0dXJlIENocm9uaWNsZXN8U3RhciBTdHVkZGVkfER1YmJlZCBmb3IgWW91fFdvbWVuIEluIEFjdGlvbnxEcmFtYSBGZXZlcnxTcG9ydHNmbGl4fFJvbWFuY2V8VGhyaWxsZXJ8TGlvbnNnYXRlIFBsYXkgU2VsZWN0aW9ufE1vdmllcyBvZiBJbmRpYXw=",
+    "x-query": "ZW58MTh8U1A=",
+    "modules": [
+        {
+            "filter": null,
+            "cta": null,
+            "id": 534030888204,
+            "guid": "pifqezdobe3SCQSyL00GNKUsRxjpgV0_",
+            "title": "Hero",
+            "contentRules": {
+                "type": "starz"
+            },
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "visibility": true,
+            "scheduled": false,
+            "action": "details",
+            "layoutOrder": 0,
+            "imageType": "DMHE",
+            "category": "Hero",
+            "type": "hero",
+            "friendlyTitle": "hero",
+            "isDynamic": true,
+            "items": 10,
+            "schema": "MainPage"
+        },
+        {
+            "id": 595074088215,
+            "guid": "rPfgQQY_FeU_iuuhK8ehUtIpmMo4GVDE",
+            "title": "Top 10 Movies in India",
+            "friendlyTitle": "top-10-movies-in-india",
+            "layoutOrder": 1,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5TopW",
+            "isDynamic": true,
+            "items": 10,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz",
+                "programTypes": [
+                    "movies"
+                ],
+                "assetTypes": {
+                    "SVOD": 10,
+                    "AVOD": 0,
+                    "TVOD": 90
+                },
+                "genre": "",
+                "category": ""
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 646874152377,
+            "guid": "9axfWpTxHU6RNyfUzn4GI855QIAxOmPk",
+            "title": "Watch In Telugu",
+            "friendlyTitle": "watch-in-telugu",
+            "layoutOrder": 2,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Items",
+            "isDynamic": false,
+            "items": 23,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 532136488268,
+            "guid": "5PS49PMfb_fNhpoKeeo9nNUKKqpEvuCq",
+            "title": "Must Watch Now",
+            "friendlyTitle": "must-watch-now",
+            "layoutOrder": 3,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Items",
+            "isDynamic": false,
+            "items": 25,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": "View All",
+            "filter": "manual",
+            "schema": "MainPage"
+        },
+        {
+            "id": 530301480288,
+            "guid": "mXubXZhn5jiPCq6kDKlZqG7VL_DdDpgg",
+            "title": "Watch Next",
+            "friendlyTitle": "watch-next",
+            "layoutOrder": 4,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Items",
+            "isDynamic": false,
+            "items": 20,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 638127144137,
+            "guid": "ZKULW65aV05o0nZuKhMO7y0ZCnQ2vwIl",
+            "title": "The Ultimate Sherlock Files",
+            "friendlyTitle": "the-ultimate-sherlock-files",
+            "layoutOrder": 5,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Org",
+            "isDynamic": false,
+            "items": 5,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 534072360062,
+            "guid": "fq7L0cD6LS9HWq6fkzpHOd9e6KAQPI0y",
+            "title": "Coming Soon on Lionsgate Play",
+            "friendlyTitle": "coming-soon-on-lionsgate-play",
+            "layoutOrder": 6,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Items",
+            "isDynamic": false,
+            "items": 5,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 494676007967,
+            "guid": "eoR349TF9oMxrW7drntu5OGw2P9yiz_4",
+            "title": "This Week's Recommendations",
+            "friendlyTitle": "this-weeks-recommendations",
+            "layoutOrder": 7,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Items",
+            "isDynamic": false,
+            "items": 25,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 635152424063,
+            "guid": "3dIMZKKZSRtm3f6qJX_2aPIYT6g1POaE",
+            "title": "Korean Diaries",
+            "friendlyTitle": "korean-diaries",
+            "layoutOrder": 8,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Org",
+            "isDynamic": false,
+            "items": 8,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 610873383984,
+            "guid": "RqMmbNw5T1IkjtcrLzgJvVA6eB4beBnG",
+            "title": "High Octane Hits",
+            "friendlyTitle": "high-octane-hits",
+            "layoutOrder": 9,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Items",
+            "isDynamic": false,
+            "items": 22,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 607069736115,
+            "guid": "BEUTtf0PsZlB2PiPzhqZezGJr_nqfZbt",
+            "title": "First Episode Free",
+            "friendlyTitle": "first-episode-free",
+            "layoutOrder": 10,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Items",
+            "isDynamic": false,
+            "items": 16,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 524315176399,
+            "guid": "YQMhZS5R0aEcQmVvxmLtMTEixT0cEZ41",
+            "title": "Big Guns of Hollywood",
+            "friendlyTitle": "big-guns-of-hollywood",
+            "layoutOrder": 11,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Org",
+            "isDynamic": false,
+            "items": 14,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 488497704348,
+            "guid": "K22woSNRvUaepZ6DJ_hnrr7OEXeJqljh",
+            "title": "Power Packed",
+            "friendlyTitle": "power-packed",
+            "layoutOrder": 12,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Items",
+            "isDynamic": false,
+            "items": 25,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": "View All",
+            "filter": "manual",
+            "schema": "MainPage"
+        },
+        {
+            "id": 579664935982,
+            "guid": "IGgX2TcZU5JYtGWbK8sI8d0PCk5DKx2y",
+            "title": "Movies From Around The World",
+            "friendlyTitle": "movies-from-around-the-world",
+            "layoutOrder": 13,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Items",
+            "isDynamic": false,
+            "items": 11,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 574129192368,
+            "guid": "bYnJmiZ_zL7Ev67TjlJlpdZdHJwU2qjK",
+            "title": "Has Fallen Franchise",
+            "friendlyTitle": "has-fallen-franchise",
+            "layoutOrder": 14,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Org",
+            "isDynamic": false,
+            "items": 5,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 524315176400,
+            "guid": "ZPEwENXhbSevX8tHP0AVtdB1NcGs_8NZ",
+            "title": "Hollywood Blockbuster Franchise",
+            "friendlyTitle": "hollywood-blockbuster-franchise",
+            "layoutOrder": 15,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Items",
+            "isDynamic": false,
+            "items": 25,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": "View All",
+            "filter": "manual",
+            "schema": "MainPage"
+        },
+        {
+            "id": 524315176401,
+            "guid": "rct15mmN9afG73rCOVF05T5ygUyg6uGz",
+            "title": "House Of Horror",
+            "friendlyTitle": "house-of-horror",
+            "layoutOrder": 16,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Items",
+            "isDynamic": false,
+            "items": 24,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": "View All",
+            "filter": "manual",
+            "schema": "MainPage"
+        },
+        {
+            "id": 545452072361,
+            "guid": "P5XCZcQdp6o_li6ySsIZbR0sVX1E04iw",
+            "title": "Creature Chronicles",
+            "friendlyTitle": "creature-chronicles",
+            "layoutOrder": 17,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Org",
+            "isDynamic": false,
+            "items": 14,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 561369640368,
+            "guid": "yTen9fWiq3p_mywI6KhIDd_EDTm55HV1",
+            "title": "Star Studded",
+            "friendlyTitle": "star-studded",
+            "layoutOrder": 18,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Items",
+            "isDynamic": false,
+            "items": 24,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 506983976275,
+            "guid": "_qAYjfAvyDhtwCcMyZd_Rfesrrcj0waE",
+            "title": "Dubbed for You",
+            "friendlyTitle": "dubbed-for-you",
+            "layoutOrder": 19,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Org",
+            "isDynamic": false,
+            "items": 25,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": "View All",
+            "filter": "manual",
+            "schema": "MainPage"
+        },
+        {
+            "id": 528079400018,
+            "guid": "8Bj17_3Ol_rpVs8VnoFlWpFiFaldleY4",
+            "title": "Women In Action",
+            "friendlyTitle": "women-in-action",
+            "layoutOrder": 20,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Items",
+            "isDynamic": false,
+            "items": 11,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 579664935983,
+            "guid": "kvqEfw6BOBJzjpTng4gdZEeA5jaAQ6_r",
+            "title": "Drama Fever",
+            "friendlyTitle": "drama-fever",
+            "layoutOrder": 21,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Items",
+            "isDynamic": false,
+            "items": 22,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 533699624057,
+            "guid": "IoEtHyviyY_Bm8322aNDQ9MzjhR_j6Nd",
+            "title": "Sportsflix",
+            "friendlyTitle": "sportsflix",
+            "layoutOrder": 22,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Items",
+            "isDynamic": false,
+            "items": 10,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 524315176402,
+            "guid": "OryeW9ts8J7QaEsMkQlmn_Z_8Vl2TeMd",
+            "title": "Romance",
+            "friendlyTitle": "romance",
+            "layoutOrder": 23,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Items",
+            "isDynamic": false,
+            "items": 19,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 506983976280,
+            "guid": "J6LqT5yOsZlDCb20d_JNHiYJT8wUAWIl",
+            "title": "Thriller",
+            "friendlyTitle": "thriller",
+            "layoutOrder": 24,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Items",
+            "isDynamic": false,
+            "items": 25,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": "View All",
+            "filter": "manual",
+            "schema": "MainPage"
+        },
+        {
+            "id": 526191656108,
+            "guid": "iQaHSVanHWh3sWzBx6hGV3BtpRl_wC04",
+            "title": "Lionsgate Play Selection",
+            "friendlyTitle": "lionsgate-play-selection",
+            "layoutOrder": 25,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Items",
+            "isDynamic": false,
+            "items": 17,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        },
+        {
+            "id": 524315176404,
+            "guid": "Mzde8cwxHeGjO8UbsQPaiSlRGWX2Cwxv",
+            "title": "Movies of India",
+            "friendlyTitle": "movies-of-india",
+            "layoutOrder": 26,
+            "imageType": "PST",
+            "type": "carousel",
+            "category": "List5Org",
+            "isDynamic": false,
+            "items": 21,
+            "style": {
+                "showBadges": {
+                    "premium": false,
+                    "free": false,
+                    "store": false,
+                    "top10": false
+                },
+                "pinned": false
+            },
+            "contentRules": {
+                "type": "starz"
+            },
+            "action": "details",
+            "cta": null,
+            "filter": null,
+            "schema": "MainPage"
+        }
+    ],
+    "runtime": 31
+}
