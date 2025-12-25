@@ -6,10 +6,10 @@
   "admn_badge_enabled": true,
   "news_direct_playback": true,
   "magazine_direct_playback": true,
-  "instream_premium_subs": "starzplay",
+  "instream_premium_subs": "",
   "sponsorship_premium_subs": "",
   "banner_ads_premium_subs": "",
-  "pause_ads_premium_subs": "starzplay",
+  "pause_ads_premium_subs": "",
   "thankyou_redirection_seconds": 7,
   "android": {
     "instream_premium_subs": ""
