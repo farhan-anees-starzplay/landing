@@ -24,7 +24,7 @@
     "instream_premium_subs": ""
   },
   "website": {
-    "instream_premium_subs": "",
+    "instream_premium_subs": "starzplayultimate,starzplay,starzplaysports,criclife,nba",
     "search_configs": {
       "search_min_chars": 2,
       "SearchDelayTimer": 2
