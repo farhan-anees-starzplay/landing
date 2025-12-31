@@ -2,7 +2,7 @@
   "trailer_delay_ms": 3000,
   "auto_rotate_delay_ms": 3000,
   "enable_auto_rotation":true,
-  "enable_trailer_autoplay": true,
+  "enable_trailer_autoplay": false,
   "admn_badge_enabled": true,
   "news_direct_playback": true,
   "magazine_direct_playback": true,
