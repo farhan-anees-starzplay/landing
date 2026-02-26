@@ -56,7 +56,7 @@
     "enforece_annual_plan_cricket_home": false
   },
   "heartbeat_config": {
-  "AVOD": 10,
+  "AVOD": 60,
   "SVOD": 60,
   "TVOD": 60
 },
