@@ -33,7 +33,7 @@
      "heartbeat_config": {
   "AVOD": 90,
   "SVOD": 70,
-  "TVOD": 60
+  "TVOD": 120,
 }
   },
   "samsungtv": {
