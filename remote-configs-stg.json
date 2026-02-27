@@ -32,7 +32,7 @@
     "chatbot": true,
      "heartbeat_config": {
   "AVOD": 90,
-  "SVOD": 60,
+  "SVOD": 90,
   "TVOD": 60
 }
   },
