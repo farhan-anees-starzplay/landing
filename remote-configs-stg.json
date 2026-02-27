@@ -29,7 +29,7 @@
       "search_min_chars": 2,
       "SearchDelayTimer": 2
     },
-    "chatbot": true,
+    "chatbot": true
     
   },
   "samsungtv": {
