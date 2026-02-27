@@ -30,11 +30,7 @@
       "SearchDelayTimer": 2
     },
     "chatbot": true,
-     "heartbeat_config": {
-  "AVOD": 90,
-  "SVOD": 70,
-  "TVOD": 120
-}
+    
   },
   "samsungtv": {
     "instream_premium_subs": ""
