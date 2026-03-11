@@ -59,7 +59,7 @@
   "heartbeat_config": {
   "AVOD": 10,
   "SVOD": 15,
-  "TVOD": 60
+  "TVOD": 20
 },
   "dynamic_pills_mobile": [
     {
