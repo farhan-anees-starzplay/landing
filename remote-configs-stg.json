@@ -56,7 +56,11 @@
     "enforce_annual_plan_t20": false,
     "enforece_annual_plan_cricket_home": false
   },
-  
+  "heartbeat_config": {
+  "AVOD": 10,
+  "SVOD": 60,
+  "TVOD": 60
+},
   "dynamic_pills_mobile": [
     {
     }
